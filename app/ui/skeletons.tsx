@@ -1,22 +1,45 @@
+import Skeleton from '@mui/material/Skeleton';
+import Box from '@mui/material/Box';
+import Stack from '@mui/material/Stack';
+import Grid from '@mui/material/Grid';
+
+
 // Loading animation
 const shimmer =
   'before:absolute before:inset-0 before:-translate-x-full before:animate-[shimmer_2s_infinite] before:bg-gradient-to-r before:from-transparent before:via-white/60 before:to-transparent';
 
 export function CardSkeleton() {
   return (
-    <div
-      className={`${shimmer} relative overflow-hidden rounded-xl bg-gray-100 p-2 shadow-sm`}
+    <Box
+      sx={{
+        borderRadius: 2,
+        bgcolor: 'grey.100',
+        p: 2,
+        boxShadow: 0,
+        overflow: 'hidden',
+      }}
     >
-      <div className="flex p-4">
-        <div className="h-5 w-5 rounded-md bg-gray-200" />
-        <div className="ml-2 h-6 w-16 rounded-md bg-gray-200 text-sm font-medium" />
-      </div>
-      <div className="flex items-center justify-center truncate rounded-xl bg-white px-4 py-8">
-        <div className="h-7 w-20 rounded-md bg-gray-200" />
-      </div>
-    </div>
+      <Stack direction="row" spacing={2} sx={{ p: 2 }}>
+        <Skeleton variant="circular" width={20} height={20} />
+        <Skeleton variant="rectangular" width={64} height={24} />
+      </Stack>
+      <Box
+        sx={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          bgcolor: 'white',
+          borderRadius: 2,
+          px: 4,
+          py: 4,
+        }}
+      >
+        <Skeleton variant="rectangular" width={80} height={28} />
+      </Box>
+    </Box>
   );
 }
+
 
 export function CardsSkeleton() {
   return (
@@ -41,6 +64,55 @@ export function RevenueChartSkeleton() {
         </div>
       </div>
     </div>
+    // <Box
+    //   sx={{
+    //     position: 'relative',
+    //     width: '100%',
+    //     overflow: 'hidden',
+    //     borderRadius: 2,
+    //     bgcolor: 'grey.100',
+    //     boxShadow: 0,
+    //     p: 2,
+    //     minHeight: 480,
+    //   }}
+    // >
+    //   <Skeleton variant="rectangular" width={144} height={32} sx={{ mb: 4, borderRadius: 1 }} />
+    //   <Box
+    //     sx={{
+    //       borderRadius: 3,
+    //       bgcolor: 'grey.100',
+    //       p: 2,
+    //     }}
+    //   >
+    //     <Grid
+    //       container
+    //       alignItems="flex-end"
+    //       spacing={1}
+    //       sx={{
+    //         height: 410,
+    //         bgcolor: 'white',
+    //         borderRadius: 2,
+    //         p: 2,
+    //         mb: 2,
+    //       }}
+    //     >
+    //       {Array.from({ length: 12 }).map((_, i) => (
+    //         <Grid item xs={1} key={i}>
+    //           <Skeleton
+    //             variant="rectangular"
+    //             width="100%"
+    //             height={Math.random() * 200 + 80}
+    //             sx={{ borderRadius: 1 }}
+    //           />
+    //         </Grid>
+    //       ))}
+    //     </Grid>
+    //     <Stack direction="row" alignItems="center" spacing={2} sx={{ pt: 3, pb: 1 }}>
+    //       <Skeleton variant="circular" width={20} height={20} />
+    //       <Skeleton variant="rectangular" width={80} height={16} sx={{ borderRadius: 1 }} />
+    //     </Stack>
+    //   </Box>
+    // </Box>
   );
 }
 

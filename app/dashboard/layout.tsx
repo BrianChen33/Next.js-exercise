@@ -1,12 +1,22 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
+import Box from '@mui/material/Box';
  
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
-    <div className="flex h-screen flex-col md:flex-row md:overflow-hidden">
-      <div className="w-full flex-none md:w-64">
-        <SideNav />
-      </div>
-      <div className="flex-grow p-6 md:overflow-y-auto md:p-12">{children}</div>
-    </div>
+    <Box sx={{ display: 'flex', height: '100vh' }}>
+      <SideNav />
+      <Box
+        component="main"
+        sx={{
+          flexGrow: 1,
+          p: 3,
+          overflowY: 'auto',
+          transition: 'margin-left 0.3s',
+          marginTop: '64px', // Adjust for AppBar height
+        }}
+      >
+        {children}
+      </Box>
+    </Box>
   );
 }
