@@ -7,6 +7,9 @@ import { InvoicesTableSkeleton } from '@/app/ui/skeletons';
 import { Suspense } from 'react';
 import { fetchInvoicesPages } from '@/app/lib/data';
 import { Metadata } from 'next';
+
+import Box from '@mui/material/Box';
+import Typography from '@mui/material/Typography';
  
 export const metadata: Metadata = {
   title: 'Invoices',
@@ -25,9 +28,13 @@ export default async function Page(props: {
 
   return (
     <div className="w-full">
-      <div className="flex w-full items-center justify-between">
-        <h1 className={`${lusitana.className} text-2xl`}>Invoices</h1>
-      </div>
+      <Box 
+        className="flex h-full w-full flex-col items-start justify-start p-4"
+      >
+        <Typography variant="h5" component="h1" fontWeight={"bold"}>
+          Invoices
+        </Typography>
+      </Box>
       <div className="mt-4 flex items-center justify-between gap-2 md:mt-8">
         <Search placeholder="Search invoices..." />
         <CreateInvoice />
