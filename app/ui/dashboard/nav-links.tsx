@@ -19,7 +19,7 @@ const links = [
     icon: DescriptionRoundedIcon,
   },
   { name: 'Users', href: '/dashboard/users', icon: PeopleAltRoundedIcon },
-  { name: 'Companies', href: '/dashboard/company', icon: LocationCityRoundedIcon },
+  { name: 'Companies', href: '/dashboard/companies', icon: LocationCityRoundedIcon },
 ];
 
 export default function NavLinks() {

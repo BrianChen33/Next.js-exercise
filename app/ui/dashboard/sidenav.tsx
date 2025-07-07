@@ -2,7 +2,7 @@
 
 import NavLinks from '@/app/ui/dashboard/nav-links';
 import {AcmeLogo} from '@/app/ui/acme-logo';
-import { PowerIcon } from '@heroicons/react/24/outline';
+import PowerSettingsNewRoundedIcon from '@mui/icons-material/PowerSettingsNewRounded';
 import Drawer from '@mui/material/Drawer';
 import Divider from '@mui/material/Divider';
 import Box from '@mui/material/Box';
@@ -15,6 +15,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Toolbar from '@mui/material/Toolbar';
 const drawerWidth = 200;
 import AccountCircleRoundedIcon from '@mui/icons-material/AccountCircleRounded';
+import { signOut } from 'next-auth/react';
 
 interface Props {
   window?: () => Window;
@@ -71,10 +72,11 @@ export default function SideNav(props: Props) {
           margin: 1, 
           mt: 'auto', 
         }}
+        
       >
         <button className="flex h-[48px] grow items-center justify-center gap-2 rounded-md w-full bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 flex-none p-2 px-3'">
-          <PowerIcon className="w-6" />
-          <div className="block">Sign Out</div>
+            <PowerSettingsNewRoundedIcon className="w-6" />
+            <div className="block">Sign Out</div>
         </button>
       </Box>
     </Box>

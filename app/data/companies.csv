@@ -1,0 +1,2001 @@
+﻿id,name,level,country,profitableEffiieny,annualRevenue,employees,city,founded_year
+0,"Rodriguez, Figueroa and Sanhez",1,China,68.98306557,317736,4606,Beijing,1994
+1,Doyle Ltd,2,Japan,483.023622,429408,889,Nagoya,1917
+2,"Mlain, Miller and Henderson",2,China,2884.983871,894345,310,Hangzhou,1954
+3,Davis and Sons,2,USA,200.3744246,391732,1955,Los Angeles,1927
+4,"Guzman, Hoffman and Baldwin",2,USA,50.48427116,227886,4514,Dallas,1925
+5,"Gardner, Robinson and Lawrene",2,Frane,100.479188,490037,4877,Toulouse,1957
+6,Blake and Sons,2,UK,394.5453206,535398,1357,London,1997
+7,"Henderson, Ramirez and Lewis",2,Frane,149.8601663,198265,1323,Nantes,1935
+8,Garia-James,2,Japan,414.8380717,335604,809,Fukuoka,1913
+9,Abbott-Munoz,2,Frane,378,1083726,2867,Marseille,1945
+10,Blair PL,2,UK,59.90611067,228422,3813,London,1993
+11,Dudley Group,2,China,38.30030621,175109,4572,Tianjin,1910
+12,Arnold Ltd,2,UK,157.7749004,475218,3012,ardiff,2013
+13,"Mlure, Ward and Lee",2,Japan,457.4629436,876499,1916,Osaka,1905
+14,Williams and Sons,2,UK,63.1962187,123675,1957,Manhester,2009
+15,Galloway-Wyatt,2,China,97.41631243,366675,3764,Tianjin,1935
+16,James Group,2,India,163.764527,484743,2960,Bangalore,1947
+17,"Flowers, Martin and Kelly",2,Japan,700.6135647,444189,634,Sapporo,1989
+18,"Adams, Zuniga and Wong",2,Germany,413.686618,850126,2055,Essen,1993
+19,"Reid, Ferguson and Sanhez",2,Germany,96.34453782,217835,2261,Dortmund,1948
+20,Gray-Mayo,2,Japan,1827.324803,928281,508,Fukuoka,2007
+21,"Watts, Robinson and Nguyen",2,Japan,127.4965831,335826,2634,Tokyo,2003
+22,Perez In,2,Frane,129.2975253,229891,1778,Nie,1908
+23,Morales-Jones,2,India,46.65402271,193101,4139,Hyderabad,1983
+24,"Walter, Edwards and Rios",2,Frane,120.239297,266811,2219,Montpellier,1918
+25,Wilkerson-Day,2,Germany,76.35821859,354913,4648,Frankfurt,1995
+26,Baker and Sons,2,UK,58.9679089,284815,4830,ardiff,1954
+27,"Hoffman, Baker and Rihards",2,Frane,318.3964497,376663,1183,Nantes,1928
+28,"Ross, Robinson and Bright",2,anada,1082.567816,470917,435,Montreal,1996
+29,"Snyder, ampos and allahan",2,China,342.4058824,465672,1360,Guangzhou,1980
+30,Burton Ltd,2,Frane,267.2348532,855686,3202,Lille,1908
+31,arlson-ruz,2,Frane,78.31113139,343316,4384,Lille,1959
+32,"Ferrell, Rie and Maddox",2,UK,1577.131944,227107,144,Bristol,2010
+33,Frazier In,2,China,344.3221477,769560,2235,Nanjing,1996
+34,"Dyer, Potter and Mak",2,India,115.0387704,415405,3611,Delhi,1937
+35,Rodriguez-Graham,2,Germany,324.8749434,716999,2207,Dortmund,1900
+36,Smith-Bowen,2,Germany,484.8197611,446519,921,Essen,2016
+37,"Baker, Mason and White",2,UK,140.5419893,235970,1679,Bristol,1977
+38,Harrell LL,2,Germany,276.8018937,380049,1373,Stuttgart,1997
+39,"Romero, Gonzalez and Brooks",2,USA,75.05848963,304137,4052,San Jose,1941
+40,Ryan PL,2,USA,149.7002977,452544,3023,Los Angeles,2018
+41,George Group,2,UK,333.4898665,674650,2023,Liverpool,1907
+42,Rodriguez LL,2,China,29.10419251,117319,4031,Shanghai,1993
+43,Allen-Allen,2,China,547.587963,591395,1080,Nanjing,1998
+44,"Arroyo, Miller and Tuker",2,Germany,58.03426312,264230,4553,Dortmund,2021
+45,Spene PL,2,Germany,164.8910694,579757,3516,ologne,1967
+46,Anderson Group,2,Japan,525.6157926,891970,1697,Kawasaki,1996
+47,"Martin, Rose and Obrien",2,UK,66.35316822,206292,3109,Sheffield,1985
+48,Hikman Ltd,2,anada,757.3775216,788430,1041,Hamilton,1957
+49,"Harris, ollins and arney",2,Japan,68.88506563,194187,2819,Nagoya,1908
+50,"Brooks, Lam and Hayes",2,USA,101.1715762,195767,1935,San Jose,1970
+1,Walker LL,3,Japan,127.4650538,94834,744,Tokyo,1994
+2,hapman and Sons,3,USA,97.71700106,92538,947,Houston,1994
+3,"Robinson, Jones and Welh",3,USA,789.2216117,430915,546,Philadelphia,1994
+4,Jones In,3,Japan,344.8619247,82422,239,Sapporo,2021
+5,Jones-Young,3,Germany,668.6828358,179207,268,Leipzig,2020
+6,"Washington, Ryan and ummings",3,anada,507.4655172,58866,116,Winnipeg,2002
+7,"Johnston, Sanhez and Kennedy",3,China,291.2516556,131937,453,Tianjin,2012
+8,Lee-Davis,3,Frane,88.71368124,62898,709,Montpellier,1993
+9,Gomez-Jenkins,3,China,114.3620915,87487,765,Beijing,2015
+10,"Brown, Valdez and Luas",3,India,908.5231481,196241,216,Delhi,2005
+11,Powell LL,3,Japan,468.6257669,76386,163,Kawasaki,2018
+12,Wright and Sons,3,Frane,452.7789047,223220,493,Lyon,2007
+13,"West, Henderson and Ramirez",3,Japan,377.6824085,319897,847,Osaka,2018
+14,Baxter In,3,China,2561.582609,294582,115,Beijing,1990
+15,Morton-hase,3,Japan,128.311412,66337,517,Yokohama,2016
+16,Williams PL,3,anada,275.1313559,259724,944,algary,2015
+17,Novak and Sons,3,USA,7713.545455,169698,22,hiago,2014
+18,Russell Group,3,Frane,356.1955128,111133,312,Nie,2019
+19,Hanok In,3,Frane,667.0561798,118736,178,Bordeaux,2021
+20,Gray Group,3,Japan,2125.405063,167907,79,Sapporo,2003
+21,House-Glover,3,USA,2314.492958,164329,71,Philadelphia,1993
+22,Henderson-Bernard,3,anada,642.281768,116253,181,Hamilton,2023
+23,"Stanley, Tuker and Lee",3,USA,133.620651,119056,891,Dallas,1995
+24,Novak PL,3,Germany,113.6821378,80828,711,Munih,1994
+25,"Daniels, Adkins and Brown",3,Japan,157.2256098,154710,984,Kobe,1997
+26,"Woods, alhoun and Shmidt",3,Japan,167.9235474,109822,654,Saitama,1992
+27,Yu In,3,China,443.4081633,152089,343,Tianjin,2023
+28,Jones In,3,UK,1569.856061,414442,264,Liverpool,2010
+29,"Hensley, Powell and David",3,UK,129.9080622,91845,707,Sheffield,1998
+30,"Sanhez, Wheeler and Harvey",3,UK,139.8022657,135748,971,Edinburgh,2010
+31,Sandoval-unningham,3,China,190.3810976,124890,656,Beijing,2019
+32,Donovan-Harris,3,China,305.8550186,164550,538,Shanghai,2003
+33,"Edwards, Baker and Anderson",3,UK,215.1464208,198365,922,Birmingham,2012
+34,"Evans, Stewart and Walton",3,China,552.5659164,171848,311,Shenzhen,2013
+35,Smith PL,3,Germany,254.4798762,164394,646,Dortmund,2009
+36,"Ferrell, Jones and Lewis",3,USA,202.5554415,197289,974,Dallas,2009
+37,Anderson-Bailey,3,China,1077.101449,148640,138,Guangzhou,2006
+38,Suarez LL,3,China,616.4328859,183697,298,Nanjing,1999
+39,Moore-Bass,3,UK,264.6976127,199582,754,ardiff,2003
+40,"Turner, Riggs and Roman",3,India,240.9087523,129368,537,Hyderabad,2006
+41,"Smith, Montoya and Evans",3,anada,1010.877193,115240,114,Ottawa,1993
+42,"Garia, Humphrey and Baker",3,Frane,4365.086957,100397,23,Nie,1992
+43,Newton and Sons,3,India,347.2810811,64247,185,Bangalore,2006
+44,ampbell-lark,3,anada,329.6296296,195800,594,Hamilton,2017
+45,Harris-Walters,3,USA,179.3515704,177020,987,Los Angeles,1994
+46,Wagner-King,3,Germany,132.0743707,115433,874,Essen,1992
+47,Davis Group,3,India,346.8543478,159553,460,Jaipur,1999
+48,Williams-ook,3,Germany,506.2290076,198948,393,Berlin,2009
+49,Walsh LL,3,USA,188.6601671,135458,718,Philadelphia,2003
+50,Figueroa PL,3,Japan,103.3948655,84577,818,Osaka,2012
+51,"Patterson, Smith and Jones",3,Frane,210.7962771,203840,967,Lille,1999
+52,"Mkee, Gardner and Davenport",3,Japan,131.9685466,121675,922,Yokohama,2001
+53,"Tran, Jordan and Williams",3,Frane,236.2028424,182821,774,Paris,2001
+54,Nolan-Flynn,3,India,880.7713311,258066,293,Ahmedabad,2005
+55,Nolan and Sons,3,Germany,330.2365827,301506,913,Munih,2014
+56,"Wright, Garia and Deleon",3,USA,252.6339286,56590,224,San Diego,2004
+57,Dikson-Brady,3,anada,147.5,126850,860,Edmonton,2009
+58,Hanok and Sons,3,Japan,225.0244604,156392,695,Nagoya,1991
+59,Johnson-Doyle,3,Japan,650.052459,198266,305,Kobe,2011
+60,Patton-Jenkins,3,China,285.0251479,192677,676,hengdu,2012
+61,"Shields, ohran and Adams",3,Frane,362.0682977,355189,981,Bordeaux,2011
+62,"Rodriguez, Brennan and Garrison",3,USA,648.0594059,130908,202,Los Angeles,2006
+63,Gonzalez Group,3,UK,339.0269841,213587,630,London,1996
+64,Torres-Pope,3,Frane,323.832618,150906,466,Nantes,2010
+65,Walker Ltd,3,China,248.0214286,69446,280,Tianjin,2002
+66,Ross LL,3,USA,182.3550725,100660,552,San Antonio,1990
+67,Rasmussen LL,3,Japan,2067.516484,188144,91,Fukuoka,2017
+68,May-Ross,3,India,176.2589413,123205,699,Jaipur,2010
+69,"Rivera, Johnson and Wiley",3,China,276.327381,92846,336,hengdu,2022
+70,White-Estes,3,Frane,158.4351978,116133,733,Nantes,2015
+71,Johnson-arlson,3,UK,648.6574074,140110,216,Bristol,1998
+72,handler-Edwards,3,Frane,386.5107692,251232,650,Strasbourg,2001
+73,"Joye, Wilson and Lam",3,UK,500.3323263,165610,331,Sheffield,1990
+74,Sott Ltd,3,UK,177.9902913,146664,824,Liverpool,2017
+75,Smith-Frost,3,India,128.0423729,60436,472,Pune,2018
+76,"Mdaniel, Bentley and Mlaughlin",3,Japan,414.5444712,344901,832,Kawasaki,2020
+77,Diaz In,3,Germany,257.0018282,140580,547,Munih,2008
+78,"Mall, Hanson and Alvarado",3,India,333.4350282,236072,708,Delhi,2005
+79,ortez LL,3,UK,893.7294118,151934,170,Liverpool,2002
+80,"Parker, Ortiz and Powell",3,USA,252.5237154,127777,506,New York,2005
+81,Spener-Lee,3,China,112.9967638,104748,927,Wuhan,2016
+82,"Bentley, Byrd and Orr",3,Japan,761.2727273,326586,429,Kobe,2021
+83,"arroll, Sullivan and Bass",3,Japan,138.1156317,129000,934,Yokohama,1990
+84,Mithell-Jordan,3,China,592.24,118448,200,Tianjin,2004
+85,"Lawson, Morris and Ramos",3,anada,358.3514077,343659,959,Toronto,2005
+86,"Lewis, Kennedy and Santana",3,China,97.94642857,82275,840,Wuhan,1998
+87,"Jakson, Miller and Robertson",3,anada,87.29032258,86592,992,Hamilton,2010
+88,"Harvey, Davis and rane",3,anada,803.4232456,366361,456,Halifax,2022
+89,hambers and Sons,3,anada,312.03125,149775,480,Vanouver,2020
+90,Hernandez In,3,UK,157.2773632,126451,804,Liverpool,2007
+91,Riggs PL,3,anada,423.5234043,199056,470,algary,2007
+92,Gibson Ltd,3,China,997.2483221,297180,298,hengdu,2005
+93,"Lee, Horton and Snyder",3,India,759.0621118,122209,161,Kolkata,1995
+94,Hernandez Ltd,3,Germany,203.2767123,148392,730,Frankfurt,2014
+95,Stafford In,3,Germany,918.5990991,407858,444,Frankfurt,1994
+96,Robinson-Brok,3,Frane,543.8202247,242000,445,Nantes,2019
+97,"Holmes, Williams and Wright",3,USA,399.7272727,167086,418,Houston,2016
+98,Bryant Group,3,USA,677.3484252,344093,508,San Jose,2014
+99,"Shmidt, Hansen and Stewart",3,USA,781.9671302,618536,791,Philadelphia,2009
+100,Salazar-Ball,3,Frane,291.1926782,151129,519,Strasbourg,2004
+101,"Simmons, Meadows and Griffin",3,Japan,132.2301741,68363,517,Sapporo,2017
+102,Manning Group,3,USA,256.5696023,180625,704,San Antonio,2011
+103,Green-Wright,3,Frane,143.0489074,137470,961,Lyon,2019
+104,"Ramirez, Strikland and Washington",3,Germany,210.3101266,199374,948,Leipzig,1991
+105,Hill In,3,Frane,1174.52381,123325,105,Lille,1991
+106,"Mithell, Nelson and Flores",3,Frane,851.0582524,175318,206,Lyon,2019
+107,"Miller, Hernandez and Reyes",3,USA,305.3380282,108395,355,Phoenix,2014
+108,Marthy In,3,Japan,261.7452055,95537,365,Kyoto,2010
+109,Russell-Daniels,3,Frane,510.2733813,141856,278,Nie,2016
+110,Brown-Wall,3,China,348.9174079,274598,787,Wuhan,1991
+111,Stein-Silva,3,USA,289.9927007,198645,685,Philadelphia,2004
+112,"Smith, Gilmore and Johnston",3,China,145.8568548,144690,992,Beijing,1991
+113,Smith-Bell,3,Japan,184.0914634,120764,656,Nagoya,1991
+114,astaneda-Ashley,3,Germany,298.9861111,150689,504,Frankfurt,1998
+115,Medina-Navarro,3,China,154.1834677,76475,496,Hangzhou,2003
+116,"Hurst, Freeman and Nelson",3,UK,327.984375,209910,640,Leeds,2000
+117,Johnson-Rogers,3,China,1433.746154,186387,130,Guangzhou,2009
+118,"Yates, Ramsey and Pittman",3,USA,1004.316901,427839,426,Phoenix,2014
+119,Hooper PL,3,Japan,761.8629032,94471,124,Osaka,2005
+120,Meadows PL,3,UK,98.45868263,82213,835,ardiff,1997
+121,"Alvarado, Miller and Patterson",3,USA,190.6083214,132854,697,Philadelphia,2017
+122,White-Green,3,India,180.6939971,123414,683,Delhi,2022
+123,Lewis-Murphy,3,India,84.36774942,72725,862,Mumbai,2016
+124,Ramirez-Bean,3,anada,250.0384615,97515,390,Montreal,2017
+125,King-Miller,3,anada,534.18,106836,200,Vanouver,2017
+126,urry In,3,UK,534.7459677,265234,496,ardiff,2020
+127,Walker-Jones,3,Frane,591.6171429,207066,350,Lille,2007
+128,"Williams, Johnson and Wright",3,Japan,455.9360087,420373,922,Osaka,2007
+129,Howell and Sons,3,anada,482.7429519,291094,603,algary,2019
+130,Wells In,3,Frane,440.5019011,231704,526,Nantes,1991
+131,"Gould, Marshall and Sott",3,India,983.535865,233098,237,Bangalore,2021
+132,Jakson-Lawson,3,India,1000.271242,306083,306,hennai,2011
+133,"Higgins, Strikland and Martin",3,UK,456.0382514,250365,549,Bristol,1990
+134,Rodriguez-Johnson,3,Japan,153.5508587,116238,757,Osaka,2005
+135,Johnston-Odonnell,3,Frane,216.0330124,157056,727,Montpellier,2005
+136,Sanders-Espinoza,3,anada,190.0348977,157919,831,Quebe ity,2018
+137,Vargas Ltd,3,USA,797.1504065,196099,246,Los Angeles,2008
+138,Garia LL,3,Frane,361.6423462,252788,699,Toulouse,2009
+139,"Burke, Martinez and Riggs",3,India,159.1747312,59213,372,Pune,2023
+140,Reed Group,3,Frane,334.1710526,126985,380,Bordeaux,2011
+141,"Wood, Hunter and Peterson",3,anada,971.2815884,269045,277,Ottawa,2009
+142,Short-Garia,3,Japan,369.2244898,126644,343,Osaka,2002
+143,Reid-Poole,3,China,1220.314815,263588,216,Nanjing,2001
+144,"Hernandez, Thompson and Boyd",3,Japan,262.0919842,199452,761,Kyoto,2007
+145,"Nelson, Morton and Medina",3,UK,671.5232198,216902,323,Manhester,2002
+146,Marshall-Petersen,3,Japan,1568.647416,516085,329,Fukuoka,2001
+147,"Adams, hristian and Rivas",3,USA,841.91,252573,300,Dallas,1998
+148,Ramirez Group,3,USA,106.5217984,78187,734,New York,2008
+149,hristensen PL,3,Germany,302.1204819,275836,913,Dortmund,1996
+150,"Barnett, Rogers and Snyder",3,USA,509.028,254514,500,San Jose,2008
+151,White-Lewis,3,anada,1410.375,293358,208,Quebe ity,2011
+152,Peterson-Beard,3,USA,896.7941176,121964,136,Phoenix,2020
+153,"Beard, Peters and Blak",3,China,2364.347368,224613,95,Tianjin,2021
+154,Miller Ltd,3,USA,371.6270588,315883,850,hiago,1999
+155,Freeman-hang,3,UK,880.248227,124115,141,Manhester,2005
+156,"Alvarez, Joseph and West",3,Frane,119.6977887,97434,814,Lille,2004
+157,Davis and Sons,3,Frane,733.9074074,237786,324,Montpellier,2018
+158,Holt-Torres,3,Frane,256.5263975,165203,644,Nie,1993
+159,"Wood, Tran and ooper",3,China,714.9034483,207322,290,Shenzhen,2003
+160,"Piere, Bell and havez",3,China,793.4213198,156304,197,Guangzhou,2005
+161,King-Martinez,3,China,358.5844749,157060,438,Guangzhou,1990
+162,Stewart Ltd,3,anada,625.6823899,198967,318,Halifax,2020
+163,"Tapia, Vaughn and Lee",3,USA,294.5585464,218857,743,Houston,2008
+164,"Washington, Hardy and Bray",3,UK,308.1618257,222801,723,Edinburgh,1994
+165,"arlson, Hooper and Wall",3,Japan,506.767033,230579,455,Sapporo,2002
+166,Perez-White,3,China,248.6339678,169817,683,Nanjing,2004
+167,Erikson and Sons,3,Germany,979.8387097,91125,93,ologne,1999
+168,Williams-Brown,3,USA,294.3767886,185163,629,hiago,2009
+169,Terry-Martinez,3,UK,152.3006012,75998,499,Edinburgh,1997
+170,Garia-Smith,3,UK,210.2105263,111832,532,Sheffield,2007
+171,Harrison-Alexander,3,anada,84.24050633,53240,632,Quebe ity,1995
+172,Sheppard LL,3,USA,114.4451411,73016,638,San Antonio,2010
+173,Wilson-Jones,3,UK,1224.200787,310947,254,London,1995
+174,Jones-Soto,3,USA,278.4419476,223032,801,Phoenix,1992
+175,Hernandez PL,3,Germany,216.2969432,148596,687,Dortmund,2023
+176,Miller-Wright,3,anada,60.69466882,37570,619,Ottawa,2001
+177,"Duran, Obrien and Gibbs",3,Frane,306.1916168,153402,501,Montpellier,1995
+178,Rowe Group,3,India,352.1810345,122559,348,Ahmedabad,2011
+179,Kerr-Evans,3,China,754.2857143,332640,441,Guangzhou,2011
+180,"Branh, Torres and Oliver",3,anada,213.4243845,182051,853,Ottawa,2015
+181,"hoi, Garia and Farmer",3,USA,759.7368421,259830,342,San Diego,1995
+182,"lark, Guerrero and Moore",3,UK,278.0468557,225496,811,Leeds,1997
+183,Arnold and Sons,3,Frane,312.9235209,216856,693,Bordeaux,1990
+184,Ortiz Ltd,3,anada,924.3113208,195954,212,Winnipeg,1993
+185,"Harrison, Johnson and Roberts",3,India,183.9742424,121423,660,Jaipur,2021
+186,Warner-Gibson,3,anada,648.6177474,190045,293,Toronto,2003
+187,"Hall, Baker and Moody",3,Germany,200.52443,184683,921,ologne,2018
+188,"Guerrero, Pek and oleman",3,anada,207.518797,138000,665,Montreal,1991
+189,"Walker, Hernandez and Baker",3,Japan,308.0496575,179901,584,Yokohama,2009
+190,Jones and Sons,3,USA,2447.043478,281410,115,Dallas,2016
+191,Larson-Holloway,3,Japan,187.6309403,185567,989,Osaka,2019
+192,Gonzales-Harrison,3,China,115.7066667,112814,975,Guangzhou,2021
+193,Lyons-Bender,3,UK,436.3573034,194179,445,Bristol,2007
+194,"Fernandez, Kim and George",3,anada,243.7145791,118689,487,Quebe ity,2005
+195,Navarro-Munoz,3,Germany,310.8390447,299338,963,D眉sseldorf,2002
+196,Davis Ltd,3,Germany,202.892725,164546,811,Munih,2007
+197,"Matthews, Smith and Hubbard",3,Frane,662.668942,194162,293,Nantes,2022
+198,Johnston-Hines,3,USA,65.14595211,57133,877,Phoenix,2009
+199,Ruiz Ltd,3,anada,257.4605954,147010,571,Vanouver,2018
+200,Moon-White,3,anada,456.1623932,266855,585,Edmonton,2011
+201,"Graham, Olsen and osta",3,Frane,99.27252747,90338,910,Montpellier,2010
+202,Bailey-ook,3,Japan,615.5019305,159415,259,Nagoya,2014
+203,"Garia, Martin and Jenkins",3,Frane,177.0485934,138452,782,Paris,2010
+204,Roberts-Landry,3,anada,428.9985694,299870,699,Winnipeg,2014
+205,"Johnson, Miller and King",3,Germany,1296.61745,193196,149,Dortmund,1992
+206,ordova Group,3,India,1189.721311,145146,122,Delhi,2018
+207,"Bryan, Smith and Booth",3,anada,805.1958998,353481,439,Toronto,1999
+208,Gutierrez-Lopez,3,Germany,153.2853659,125694,820,Munih,2020
+209,Dean-Jimenez,3,UK,415.1138686,284353,685,Leeds,2015
+210,Wolf-Harris,3,China,162.6238716,162136,997,hongqing,2014
+211,"Anderson, Roberts and Gilmore",3,India,133.4662577,87020,652,Pune,1992
+212,Martinez-Dudley,3,China,1137.916667,286755,252,Shenzhen,2008
+213,"Lloyd, Mkinney and ollins",3,China,236.6190476,188822,798,Tianjin,1996
+214,Tran In,3,China,391.4739726,285776,730,Wuhan,2000
+215,Gay In,3,UK,646.8409091,227688,352,London,1992
+216,Valentine-Holland,3,USA,326.044665,131396,403,Phoenix,2012
+217,Jimenez Ltd,3,Frane,525.6909414,295964,563,Lyon,2005
+218,Hiks-Hill,3,Frane,651.0721649,126308,194,Lille,2001
+219,Baird-Sanhez,3,Germany,356.559633,233190,654,Munih,2014
+220,"Thomas, Lee and Greene",3,Japan,756.6070039,194448,257,Kyoto,1999
+221,"Suarez, Shields and Hill",3,anada,963.3523132,270702,281,Ottawa,2019
+222,Morgan-Frenh,3,USA,342.8330996,244440,713,San Diego,2008
+223,Hoover-ampbell,3,Germany,295.4214792,291581,987,Munih,2018
+224,Monroe-arpenter,3,India,222.4421365,149926,674,Jaipur,2009
+225,"Burns, Hernandez and Ryan",3,Frane,141.4429379,125177,885,Nie,2019
+226,ook-Hines,3,UK,149.3370661,133358,893,Liverpool,2014
+227,Gibson-Morris,3,anada,446.3560976,183006,410,Montreal,2005
+228,Pollard and Sons,3,India,147.5896739,108626,736,Jaipur,2008
+229,"Reyes, hase and Jenkins",3,UK,1230.408638,370353,301,London,2015
+230,Garner-Thornton,3,USA,163.2142857,155380,952,San Jose,1993
+231,Hughes-Alvarado,3,anada,158.7082683,101732,641,Ottawa,2004
+232,"Pollard, Simpson and Johnson",3,India,287.1267176,188068,655,Hyderabad,2002
+233,"Sanford, Rivera and Garia",3,UK,346.5767196,327515,945,Birmingham,1996
+234,Garia-Lozano,3,USA,3409.796296,184129,54,Phoenix,2018
+235,Bowen Group,3,India,120.7423764,114826,951,Bangalore,1995
+236,"Booker, Jones and Harrington",3,UK,752.8341709,149814,199,Leeds,2016
+237,Morgan-Shwartz,3,Japan,380.0746004,213982,563,Yokohama,2013
+238,"Miller, Murphy and raig",3,UK,373.1256545,356335,955,Birmingham,2006
+239,"James, Stewart and Higgins",3,anada,462.2455516,389673,843,Ottawa,2011
+240,Brennan-Johnson,3,China,819.75,134439,164,Wuhan,1994
+241,Young Ltd,3,Japan,2286.901786,256133,112,Kobe,2013
+242,Bright-Franis,3,Frane,327.6010545,186405,569,Paris,2006
+243,Good-Hodges,3,China,100.6539548,71263,708,Wuhan,2013
+244,"Brennan, Wallae and Benson",3,UK,159.7308585,137688,862,ardiff,2014
+245,Williams In,3,India,249.6035857,125301,502,Delhi,2004
+246,Howard-Jordan,3,USA,189.6886102,181532,957,San Jose,2010
+247,Shmidt PL,3,Japan,85.43217666,81246,951,Osaka,2019
+248,"Sparks, Jakson and Miller",3,UK,876.8282209,142923,163,Sheffield,1997
+249,Harvey-Allen,3,USA,431.6851145,226203,524,New York,2009
+250,"Thomas, Murray and King",3,China,475.0894397,440883,928,Shanghai,2005
+302,Estrada-Nolan,4,Germany,158.1958763,30690,194,D眉sseldorf,2014
+303,Santana-Byrd,4,Frane,253.7931034,95680,377,Lille,2023
+304,Jones LL,4,Germany,1865.8,102619,55,D眉sseldorf,2020
+305,"Evans, Hayden and Vaughn",4,anada,167.5670103,81270,485,Halifax,2013
+306,Brue-Gonzalez,4,UK,185.7525773,36036,194,London,2022
+307,astaneda-Rodriguez,4,Japan,257.8879837,126623,491,Kyoto,2014
+308,Armstrong-Andrews,4,Japan,109.0983146,38839,356,Fukuoka,2003
+309,"Phillips, Spene and Barrett",4,India,174.212766,32752,188,Surat,2020
+310,Smith-Grimes,4,USA,572.2745098,58372,102,San Antonio,2008
+311,"Beltran, Lozano and Mgee",4,China,121.1802326,41686,344,Wuhan,2002
+312,Parsons-Hall,4,Japan,1030.5,30915,30,Saitama,2000
+313,Robinson-Lee,4,India,74.34889435,30260,407,Hyderabad,2004
+314,Byrd-Le,4,Japan,484.8288288,53816,111,Osaka,2017
+315,"Beker, Taylor and Davis",4,Japan,184.5810474,74017,401,Nagoya,2010
+316,"Luas, Parker and Alexander",4,Germany,278.0205479,40591,146,Leipzig,2000
+317,"Diaz, Anderson and Browning",4,Germany,343.0902256,45631,133,Hamburg,2017
+318,Burgess-Thompson,4,Germany,60.09598214,26923,448,Munih,2021
+319,Buhanan LL,4,USA,176.037234,33095,188,hiago,2000
+320,"Shaw, Nelson and Martin",4,Japan,1866.769231,24268,13,Saitama,2010
+321,offey-Phillips,4,Germany,903.173913,62319,69,ologne,2001
+322,Brok-Mdonald,4,Frane,308.3238342,119013,386,Bordeaux,2003
+323,Taylor and Sons,4,China,228.9404467,92263,403,Wuhan,2014
+324,"Ramsey, Whitney and offey",4,India,2139.033333,128342,60,Surat,2018
+325,"Diaz, Gibbs and Smith",4,anada,130.5214724,63825,489,Hamilton,2007
+326,"Martinez, Rihardson and urry",4,USA,178.8033473,42734,239,Dallas,2009
+327,Rihards-arson,4,USA,242.9863014,106428,438,New York,2015
+328,Rodriguez-Hall,4,Frane,1004.2,60252,60,Strasbourg,2021
+329,Harvey PL,4,anada,133.5892473,62119,465,Quebe ity,2002
+330,Herman-Walker,4,China,1102.8125,88225,80,hongqing,2019
+331,Reid Group,4,China,165.9074074,53754,324,Guangzhou,2008
+332,"Turner, Ortiz and Taylor",4,India,193.6884058,53458,276,Ahmedabad,2019
+333,Torres Group,4,UK,227.8821656,71555,314,Edinburgh,2016
+334,Davis PL,4,Frane,986.3809524,62142,63,Marseille,2022
+335,Prie LL,4,Japan,208.9084967,95889,459,Kobe,2014
+336,"Avery, Horton and Fernandez",4,Japan,143.7336449,61518,428,Kobe,2010
+337,"Newton, Moore and Perry",4,anada,239.9259259,90692,378,Winnipeg,2013
+338,Bass PL,4,China,247.7272727,40875,165,hongqing,2013
+339,rosby-Ramirez,4,UK,99.56460674,35445,356,Leeds,2004
+340,"Wood, Ramos and Sampson",4,anada,202.427907,87044,430,Montreal,2002
+341,Garia-Jennings,4,China,931.8148148,50318,54,Shanghai,2013
+342,"Winters, Newman and Brown",4,India,1085.485714,37992,35,Bangalore,2017
+343,Lopez-Martinez,4,India,378.7849462,70454,186,Delhi,2013
+344,Davis-Lewis,4,Frane,303.3910256,94658,312,Paris,2009
+345,"Harper, Smith and Buhanan",4,UK,437.2333333,131170,300,Leeds,2003
+346,Zhang PL,4,Japan,184.501992,46310,251,Yokohama,2021
+347,Jones PL,4,Japan,261.9038902,114452,437,Osaka,2011
+348,Willis and Sons,4,India,242.1375839,72157,298,Delhi,2008
+349,Shroeder-Kramer,4,Japan,129.093199,51250,397,Kobe,2017
+350,"Smith, Garrison and Thomas",4,USA,185.1002331,79408,429,San Jose,2021
+351,Fernandez and Sons,4,UK,1131.965278,163003,144,London,2005
+352,Guerrero In,4,UK,7882.875,63063,8,Leeds,2011
+353,Smith and Sons,4,Germany,116.71261,39799,341,Hamburg,2018
+354,"Morris, Thompson and Williams",4,Frane,211.59375,81252,384,Marseille,2004
+355,"Fisher, Wilson and Brown",4,USA,483.1304348,133344,276,Los Angeles,2023
+356,Strikland-Palmer,4,Japan,443.1223629,105020,237,Kobe,2013
+357,Hayes and Sons,4,India,233.7134146,38329,164,Bangalore,2011
+358,"Williams, Logan and amaho",4,India,754.6458333,36223,48,Jaipur,2019
+359,"Turner, Shneider and Johnson",4,USA,115.2838875,45076,391,hiago,2005
+360,Boone-Simmons,4,USA,224.5281385,51866,231,Los Angeles,2008
+361,Henry Group,4,Frane,177.3982684,40979,231,Montpellier,2019
+362,Lam LL,4,Frane,241.6675192,94492,391,Nie,2006
+363,"Hernandez, Martinez and Weber",4,China,2166.852459,132178,61,hongqing,2013
+364,"Kelley, Nguyen and Vang",4,UK,409.8284672,112293,274,ardiff,2015
+365,"Phillips, Wagner and Jordan",4,UK,326.7391304,67635,207,London,2007
+366,"Wilson, Pena and Rih",4,USA,518.5345912,82447,159,New York,2006
+367,"Le, Lewis and Hayes",4,Japan,179.4509804,27456,153,Yokohama,2008
+368,Gutierrez Group,4,India,159.5096525,41313,259,Delhi,2000
+369,Perry-Davis,4,Frane,205.0954774,40814,199,Lyon,2004
+370,Edwards-Sott,4,Japan,128.3781903,55331,431,Kawasaki,2017
+371,Mdaniel Group,4,India,65.02017937,28999,446,Delhi,2012
+372,Davis In,4,USA,253.4583333,60830,240,San Antonio,2000
+373,Reynolds Ltd,4,China,195.1607143,43716,224,hongqing,2018
+374,"Watson, Anderson and Brown",4,Frane,538.015873,33895,63,Strasbourg,2009
+375,"Hoffman, Santiago and Jenkins",4,Frane,318.3043478,29284,92,Paris,2010
+376,"Pugh, Henderson and Moon",4,anada,203.4780702,46393,228,Edmonton,2002
+377,Shmitt PL,4,China,132.4509804,40530,306,Shenzhen,2013
+378,Bell-Lane,4,Frane,227.7922705,47153,207,Bordeaux,2002
+379,Moore Group,4,UK,309.64,54187,175,Leeds,2007
+380,Boone LL,4,Germany,126.3221884,41560,329,Munih,2016
+381,"Rihardson, Farmer and Andrews",4,China,423.8173077,44077,104,Nanjing,2016
+382,Brue-Villegas,4,India,118.4565657,58636,495,Kolkata,2023
+383,"Austin, Day and Johnson",4,Germany,398.9746835,31519,79,Frankfurt,2003
+384,"Gallegos, Adams and White",4,UK,216.3929712,67731,313,Liverpool,2005
+385,"Farmer, Dorsey and Bell",4,Germany,83.28455285,40976,492,Munih,2005
+386,Kane PL,4,anada,123.9974619,48855,394,Quebe ity,2018
+387,"Morales, Thomas and Shultz",4,anada,109.8090909,36237,330,Halifax,2020
+388,Davis PL,4,India,349.626087,80414,230,Kolkata,2004
+389,Bennett Group,4,China,248.6341463,81552,328,Wuhan,2014
+390,Moore-ollins,4,UK,2243.787879,74045,33,Glasgow,2018
+391,Frank-Bradley,4,India,533.993865,87041,163,Surat,2002
+392,Ware and Sons,4,anada,3196.852941,108693,34,Quebe ity,2001
+393,Webster In,4,India,144.6567164,48460,335,hennai,2002
+394,"Miller, Ramos and oleman",4,China,149.0037879,39337,264,Hangzhou,2019
+395,"Ramos, Nelson and Fisher",4,Frane,154.2430556,44422,288,Montpellier,2018
+396,Reed In,4,USA,308.4408284,104253,338,San Diego,2018
+397,Gregory-Watkins,4,Japan,277.6451613,68856,248,Fukuoka,2019
+398,"Estrada, Williams and Foster",4,Germany,2195.491228,125143,57,Berlin,2014
+399,"Brown, Harris and Dougherty",4,India,347.1880597,116308,335,Delhi,2016
+400,Duran LL,4,Germany,135.3405995,49670,367,Berlin,2007
+401,Wilson-Jimenez,4,anada,185.5698529,50475,272,Quebe ity,2016
+402,Thompson-James,4,Germany,211.3734177,100191,474,Stuttgart,2011
+403,"Hall, Hansen and Barnett",4,UK,261.7331671,104955,401,Sheffield,2013
+404,Jones-Hensley,4,India,463.7212714,189662,409,Jaipur,2001
+405,Graham Group,4,India,837.9245283,44410,53,Delhi,2010
+406,Atkins PL,4,Frane,105.3786667,39517,375,Nie,2008
+407,Berry-Mkinney,4,Germany,206.8976898,62690,303,Stuttgart,2002
+408,Roberts-Sullivan,4,Germany,120.768,60384,500,Stuttgart,2009
+409,Jakson-Meza,4,Frane,202.0844687,74165,367,Lyon,2019
+410,ollier-Gillespie,4,China,355.9035533,70113,197,hengdu,2017
+411,Kim In,4,India,81.22802198,29567,364,Bangalore,2021
+412,Graham Group,4,China,612.3894737,116354,190,Tianjin,2016
+413,"Miller, Harrell and Reese",4,USA,1258.010309,122027,97,Philadelphia,2009
+414,ook and Sons,4,Japan,484.223301,49875,103,Fukuoka,2015
+415,Dixon In,4,Japan,1277.022727,56189,44,Yokohama,2004
+416,"Hiks, Bullok and Bailey",4,UK,102.5137845,40903,399,Manhester,2016
+417,"Mullen, Brewer and Hernandez",4,USA,1638,117936,72,Philadelphia,2019
+418,Thomas and Sons,4,Frane,675.5257732,65526,97,Lyon,2005
+419,Morrison Ltd,4,Germany,534.5953488,114938,215,Dortmund,2001
+420,Thompson Ltd,4,India,194.6687697,61710,317,Hyderabad,2014
+421,Marshall-Elliott,4,UK,180.2805755,50118,278,Edinburgh,2007
+422,"ole, Glass and unningham",4,Japan,162.6445396,75955,467,Sapporo,2015
+423,"Downs, Morris and Maddox",4,Japan,111.7177914,54630,489,Fukuoka,2021
+424,Hernandez-Jones,4,anada,173.3002481,69840,403,Quebe ity,2009
+425,Welh-Hogan,4,Frane,247.1187215,54119,219,Bordeaux,2016
+426,"Brown, Romero and ollins",4,Germany,643,48225,75,Frankfurt,2019
+427,Johnson-Wood,4,UK,196.063745,49212,251,London,2020
+428,Jones-Lin,4,India,51.87804878,19143,369,Surat,2003
+429,Gilbert PL,4,China,172.0379747,67955,395,hengdu,2002
+430,Ford-Spener,4,Germany,151.9679487,71121,468,ologne,2014
+431,"Huang, ole and Paheo",4,Germany,133.5705521,65316,489,D眉sseldorf,2002
+432,"Lopez, Jaobs and Mason",4,Japan,247.989605,119283,481,Kyoto,2011
+433,Hayes LL,4,USA,310.9806763,64373,207,San Antonio,2001
+434,"Miller, Luas and Williams",4,India,924.8695652,42544,46,Hyderabad,2012
+435,"Kim, Gonzales and Mills",4,India,863.6547619,145094,168,Hyderabad,2000
+436,ox LL,4,China,848.6133333,63646,75,hongqing,2004
+437,Ortiz-Morgan,4,USA,363.2686981,131140,361,Phoenix,2015
+438,"Williams, Moy and ook",4,Germany,252.45625,80786,320,Dortmund,2014
+439,Davis-Gregory,4,USA,426.5367647,58009,136,Los Angeles,2000
+440,King-York,4,Japan,203.6646091,98981,486,Yokohama,2017
+441,"Marks, ook and Aguilar",4,Frane,838.6428571,105669,126,Marseille,2009
+442,Rangel LL,4,UK,667.2598425,84742,127,Manhester,2001
+443,"Hale, Myers and Larson",4,Frane,1731.135135,64052,37,Lille,2014
+444,ollins Group,4,China,198.0250896,55249,279,Wuhan,2019
+445,"onner, Li and Santiago",4,USA,210.2109375,26907,128,Dallas,2018
+446,"Osborn, Gaines and Davis",4,Germany,15131.6,75658,5,ologne,2013
+447,"Henderson, ox and ox",4,India,243.3211009,53044,218,Hyderabad,2018
+448,Bean LL,4,Germany,709.3280423,134063,189,Munih,2016
+449,Lee-ooke,4,China,195.4431818,51597,264,Nanjing,2017
+450,Jones In,4,USA,3355.37037,90595,27,San Antonio,2015
+451,"Wise, onley and Stephenson",4,Frane,160.870801,62257,387,Nantes,2008
+452,Stanley PL,4,USA,521.8729282,94459,181,Philadelphia,2002
+453,Harper and Sons,4,Japan,122.2152231,46564,381,Osaka,2018
+454,White Ltd,4,India,183.5297297,33953,185,Bangalore,2001
+455,"Lamb, Martin and Kim",4,India,144.2024793,34897,242,Bangalore,2021
+456,Diaz-Ball,4,anada,1855.135135,68640,37,Vanouver,2004
+457,Bishop-Goodwin,4,anada,414.2407407,44738,108,Toronto,2009
+458,Young-Allen,4,USA,552.4939759,91714,166,Houston,2001
+459,Mkee-Lee,4,UK,201.9407583,85219,422,Bristol,2012
+460,"Valentine, Joye and Murray",4,anada,94.67692308,36924,390,Ottawa,2001
+461,Strikland-Shaw,4,Japan,314.7040359,140358,446,Sapporo,2011
+462,Burh-Montoya,4,USA,592.6911765,40303,68,Philadelphia,2008
+463,"Taylor, Wright and Davidson",4,India,186.9974026,71994,385,Ahmedabad,2012
+464,Spener-Garia,4,anada,600.17,60017,100,Winnipeg,2010
+465,"Rosales, Mithell and Hines",4,anada,70.30334728,33605,478,Quebe ity,2011
+466,ole-Palmer,4,UK,597.4189189,132627,222,Manhester,2023
+467,Davis-Lozano,4,China,129.0140845,54960,426,Tianjin,2019
+468,Wilkerson-Arias,4,Germany,190.6804734,32225,169,Essen,2009
+469,Brown-Shaw,4,China,134.2827988,46059,343,Shanghai,2010
+470,Hughes In,4,UK,111.0734824,34766,313,Glasgow,2014
+471,Walker-Flores,4,Frane,216.0517241,50124,232,Lyon,2022
+472,ombs Ltd,4,India,134.0981432,50555,377,Pune,2001
+473,Moody-Taylor,4,India,170.5172414,24725,145,Jaipur,2013
+474,Lowery-Kennedy,4,USA,55.85498489,18488,331,Los Angeles,2021
+475,Blake Group,4,Frane,163.0578313,67669,415,Nantes,2016
+476,Gilbert-Bullok,4,Germany,131.5649203,57757,439,Berlin,2004
+477,Sott and Sons,4,anada,750.2307692,29259,39,Toronto,2004
+478,"Bentley, Lynh and Henderson",4,Japan,144.5572139,29056,201,Fukuoka,2011
+479,Young-Martinez,4,USA,142.9488636,50318,352,San Jose,2004
+480,Barnes PL,4,anada,145.0344828,33648,232,Edmonton,2011
+481,Brown-opeland,4,China,337.9275362,93268,276,Hangzhou,2004
+482,arlson-Smith,4,India,219.8753709,74098,337,Ahmedabad,2010
+483,"Andrews, Higgins and arter",4,UK,1808.833333,32559,18,Liverpool,2003
+484,Mendez and Sons,4,Germany,177.0541872,35942,203,Dortmund,2016
+485,"Butler, Bek and Miller",4,China,112.9068493,41211,365,hengdu,2008
+486,Jones-Fox,4,anada,215.1390728,32486,151,algary,2019
+487,"Hartman, Romero and Smith",4,anada,338.9189189,25080,74,algary,2003
+488,Williams-Hughes,4,China,283.3849462,131774,465,Wuhan,2005
+489,King-Smith,4,anada,219.966,109983,500,Montreal,2021
+490,ooper Ltd,4,India,2993.236842,113743,38,Kolkata,2022
+491,"Fuller, Ingram and Moss",4,UK,218.1680217,80504,369,Glasgow,2005
+492,Anderson-Bell,4,Germany,1053.983193,125424,119,Stuttgart,2016
+493,Li-Thompson,4,China,337.8253968,42566,126,Shenzhen,2004
+494,"Marshall, Dominguez and Welh",4,anada,155.1493056,44683,288,Toronto,2011
+495,Brown Group,4,India,925.5915493,65717,71,Pune,2017
+496,arter In,4,China,189.9230769,39504,208,Shanghai,2009
+497,Blakwell LL,4,anada,155.2763819,61800,398,Hamilton,2013
+498,Robertson-Hays,4,Frane,869.9130435,60024,69,Lille,2002
+499,"Kennedy, Johnson and Luas",4,India,155.4156379,37766,243,Delhi,2014
+500,Kelly-Norman,4,India,228.6837349,75923,332,Bangalore,2017
+501,"Rivera, Martinez and Rihardson",4,Germany,130.6450382,34229,262,Hamburg,2013
+502,Paul-Kline,4,USA,743.1445783,61681,83,Los Angeles,2016
+503,Morgan-Lopez,4,UK,620.5941176,105501,170,Birmingham,2005
+504,"Jimenez, Glass and Stone",4,Japan,164.0971922,75977,463,Fukuoka,2016
+505,Aosta In,4,UK,1135.057143,119181,105,Manhester,2008
+506,Morrison-Short,4,UK,440.6,70496,160,Birmingham,2020
+507,"arter, Garia and Murphy",4,China,1352.406593,123069,91,Nanjing,2020
+508,Parker-Morrison,4,Germany,127.0308642,41158,324,Hamburg,2021
+509,Jakson-Wallae,4,India,296.4051522,126565,427,Jaipur,2001
+510,Williams-Berg,4,USA,143.7387755,70432,490,Los Angeles,2001
+511,Mendez-Graham,4,UK,250.3807339,54583,218,Liverpool,2018
+512,"Whitney, Gould and Jones",4,USA,179.6866197,51031,284,San Diego,2020
+513,"Sullivan, Palmer and Brady",4,UK,300.1153846,39015,130,Glasgow,2015
+514,isneros and Sons,4,Frane,1914.261905,80399,42,Nie,2014
+515,"Gregory, Kim and Martinez",4,USA,174.9861751,37972,217,hiago,2014
+516,Osborne LL,4,anada,193.3854749,34616,179,Quebe ity,2006
+517,Reyes-Bradley,4,Germany,328.0952381,55120,168,Stuttgart,2022
+518,"Hernandez, ole and Watson",4,India,339.7588832,133865,394,Ahmedabad,2004
+519,Hines-Berry,4,India,1066.389831,62917,59,Surat,2017
+520,"Rihardson, Edwards and Ramirez",4,India,1562.38806,104680,67,Hyderabad,2014
+521,Johnson and Sons,4,UK,529.8831169,40801,77,Edinburgh,2007
+522,Holmes-Mintyre,4,China,69.97341513,34217,489,Beijing,2009
+523,Green LL,4,Frane,379.6742424,50117,132,Lille,2013
+524,"Griffin, Davies and Mithell",4,Germany,109.9385027,41117,374,Stuttgart,2018
+525,Gonzalez-Taylor,4,India,86.13461538,22395,260,Hyderabad,2005
+526,Hayes Ltd,4,anada,179.3204633,46444,259,Quebe ity,2009
+527,Osborn-ohran,4,USA,582.1368821,153102,263,Los Angeles,2012
+528,ontreras-Mkinney,4,anada,264.4752475,80136,303,algary,2006
+529,"Daniels, Vane and York",4,India,498.1073826,74218,149,Mumbai,2001
+530,"Mkinney, Graves and Thompson",4,anada,135.0601719,47136,349,Halifax,2020
+531,Hiks-Martinez,4,anada,8931.666667,80385,9,Ottawa,2017
+532,onner and Sons,4,China,132.622807,60476,456,Tianjin,2004
+533,Johnson-Spener,4,UK,254.28125,48822,192,Leeds,2012
+534,Mdonald-Bird,4,USA,298.5743243,88378,296,San Antonio,2001
+535,Salazar In,4,Japan,634.9078947,96506,152,Fukuoka,2017
+536,Parker Ltd,4,China,263.493617,61921,235,Tianjin,2016
+537,"Mendoza, Jenkins and Ortiz",4,UK,172.1671924,54577,317,ardiff,2021
+538,"Jones, ompton and Day",4,China,411.5048544,84770,206,Guangzhou,2003
+539,Owens-Holmes,4,India,145.3938144,70516,485,Kolkata,2017
+540,Humphrey PL,4,India,119.7380192,37478,313,Bangalore,2006
+541,"Matthews, Saunders and Anderson",4,Frane,2222.392857,62227,28,Bordeaux,2001
+542,"Bartlett, Brown and Martinez",4,USA,526.5885714,92153,175,hiago,2022
+543,Torres and Sons,4,anada,344.2222222,27882,81,Hamilton,2014
+544,Donovan-Perez,4,Germany,736.8392857,123789,168,Stuttgart,2019
+545,"Jaobson, Singleton and King",4,Germany,147.6736292,56559,383,D眉sseldorf,2019
+546,"Huber, Hill and Weber",4,UK,230.8257576,60938,264,ardiff,2010
+547,"Ferguson, Shaw and Jakson",4,anada,581.5685484,144229,248,Halifax,2009
+548,"Moore, Hopkins and Le",4,USA,105.4756447,36811,349,Philadelphia,2010
+549,"Morgan, Bradshaw and Williams",4,China,207.4567901,33608,162,Tianjin,2018
+550,Miller Ltd,4,USA,503.5214286,70493,140,San Jose,2015
+551,"Baker, lark and Armstrong",4,Japan,246.452,61613,250,Tokyo,2018
+552,"Fowler, Jimenez and Burton",4,Germany,94.50802139,35346,374,Essen,2020
+553,May-Turner,4,Frane,1188.077519,153262,129,Lyon,2021
+554,Ballard Ltd,4,USA,566.9836066,34586,61,San Jose,2022
+555,Evans-Jones,4,Japan,358.9878788,59233,165,Tokyo,2014
+556,Moore Group,4,Frane,113.8603352,40762,358,Lyon,2013
+557,Marshall-Peterson,4,Japan,100.765586,40407,401,Kobe,2016
+558,Edwards Ltd,4,anada,1183.64,88773,75,Toronto,2022
+559,Gross-Valenia,4,Japan,113.8168605,39153,344,Kawasaki,2010
+560,Anderson-Wood,4,anada,481.7878788,79495,165,Hamilton,2012
+561,"Rodriguez, Allen and Martinez",4,Germany,258.3222222,46498,180,Dortmund,2017
+562,Wright-Davis,4,India,246.8015873,62194,252,hennai,2019
+563,Dougherty-Lin,4,Japan,325.0724138,94271,290,Nagoya,2008
+564,Wright-Grimes,4,UK,152.2180451,60735,399,Liverpool,2009
+565,Li PL,4,UK,136.830137,49943,365,Liverpool,2022
+566,"Edwards, Hines and Jimenez",4,anada,491.8360656,90006,183,Edmonton,2015
+567,"Owens, Koh and Jimenez",4,UK,282.1040268,84067,298,Glasgow,2003
+568,Landry PL,4,Frane,117.040568,57701,493,Strasbourg,2011
+569,Levy-Lewis,4,Germany,574.0328947,87253,152,ologne,2001
+570,Williams-ampbell,4,China,267.2617647,90869,340,hongqing,2014
+571,"Khan, Pena and Ruiz",4,UK,566.9074074,61226,108,Edinburgh,2006
+572,"Smith, Rodriguez and Anderson",4,UK,679.1458333,97797,144,Bristol,2022
+573,Luna-Gallagher,4,Germany,207.7552083,79778,384,Munih,2019
+574,Williams-Williams,4,Japan,528.5244957,183398,347,Nagoya,2001
+575,"Lee, Tran and Jones",4,Japan,927.625,51947,56,Nagoya,2001
+576,"ole, Piere and Bryan",4,Frane,311.1422764,76541,246,Nantes,2022
+577,"Beker, Wilson and Hester",4,China,84.41967871,42041,498,Guangzhou,2000
+578,Brooks-Hatfield,4,Germany,141.5817805,68384,483,D眉sseldorf,2020
+579,"Mmillan, Fisher and Gonzalez",4,anada,577.3551402,61777,107,Quebe ity,2020
+580,"Morales, Williams and Williams",4,UK,302.3850746,101299,335,Leeds,2009
+581,"ook, Wells and Bryant",4,USA,478.0704698,142465,298,Los Angeles,2020
+582,"Barry, Taylor and Velazquez",4,Japan,232.1653333,87062,375,Kawasaki,2023
+583,Martin-Ewing,4,USA,107.8947368,49200,456,hiago,2013
+584,"Kirby, Wheeler and Romero",4,Germany,279.9264706,114210,408,Berlin,2012
+585,"Patel, Erikson and Evans",4,anada,87.3501006,43413,497,Vanouver,2023
+586,Rihardson Ltd,4,UK,1156.789809,181616,157,London,2000
+587,Whitney PL,4,China,446.2236287,105755,237,hongqing,2009
+588,Robles-Swanson,4,anada,93.16803279,22733,244,Vanouver,2016
+589,"Soto, arlson and Baker",4,UK,185.091954,32206,174,Liverpool,2003
+590,"Patton, Parsons and Lane",4,Germany,888.4705882,120832,136,Dortmund,2020
+591,"Williams, astillo and Warren",4,Germany,312.5367232,55319,177,Berlin,2023
+592,"Harvey, Randall and Hernandez",4,UK,77.28571429,30296,392,ardiff,2021
+593,"Allen, Armstrong and Graves",4,Japan,66.3227991,29381,443,Yokohama,2019
+594,Smith LL,4,Frane,750.3081395,129053,172,Strasbourg,2016
+595,Hernandez-Vaughn,4,China,2020.924528,107109,53,Tianjin,2021
+596,Shaw-arr,4,Germany,802.7764706,136472,170,Hamburg,2015
+597,Salas-Fitzgerald,4,Japan,520.0348259,104527,201,Tokyo,2008
+598,Thornton PL,4,Japan,86.29006085,42541,493,Kyoto,2008
+599,Hoffman Ltd,4,India,116.0906667,43534,375,hennai,2018
+600,Fox-Edwards,4,USA,340.8624339,64423,189,Phoenix,2020
+601,Stevens PL,4,Japan,849.2615385,55202,65,Tokyo,2021
+602,Payne-Lowe,4,anada,218.3113208,46282,212,Ottawa,2005
+603,"Beker, Lara and Baker",4,UK,125.5316456,59502,474,Manhester,2020
+604,Lee-Wright,4,UK,666.2627119,78619,118,Leeds,2019
+605,"Evans, David and Hendrix",4,Japan,1601.542169,132928,83,Yokohama,2015
+606,Bush-Vaughn,4,anada,309.9262673,67254,217,Halifax,2011
+607,Stewart-Bailey,4,anada,50.16861827,21422,427,Hamilton,2021
+608,"Hill, Martinez and Rhodes",4,Japan,102.7161125,40162,391,Nagoya,2021
+609,Huang-Foster,4,China,168.6363636,46375,275,Nanjing,2014
+610,Blevins-Ballard,4,India,1212.516129,75176,62,Delhi,2018
+611,Williams-Moses,4,USA,944.0185185,101954,108,Dallas,2016
+612,Reed Group,4,Germany,156.0588235,68978,442,Hamburg,2010
+613,"Sott, Mendoza and Harris",4,anada,502.9,55319,110,Montreal,2021
+614,"Nelson, Hoffman and Nelson",4,anada,154.3090129,35954,233,Montreal,2016
+615,Gilbert PL,4,USA,141.2022472,37701,267,San Diego,2004
+616,Sanhez Ltd,4,Frane,1023.676471,34805,34,Montpellier,2018
+617,"Perez, Hall and Garia",4,anada,2727.125,43634,16,Ottawa,2023
+618,Love-Garia,4,Frane,137.6165803,53120,386,Nie,2000
+619,Smith PL,4,Japan,3905.821429,109363,28,Saitama,2002
+620,Russell Group,4,Frane,777.2162162,28757,37,Nantes,2022
+621,Santos-Avila,4,USA,3530.142857,74133,21,Los Angeles,2015
+622,Morris-Brewer,4,UK,214.1005025,85212,398,Sheffield,2005
+623,Pearson and Sons,4,Germany,197.5770065,91083,461,D眉sseldorf,2011
+624,"Rodgers, Jefferson and Johnson",4,Frane,179.4822335,35358,197,Montpellier,2012
+625,Butler and Sons,4,China,182.519174,61874,339,Nanjing,2004
+626,Osborn Group,4,India,134.0464286,37533,280,Delhi,2005
+627,Lopez-urry,4,Frane,83.01061008,31295,377,Bordeaux,2004
+628,Mdowell-Smith,4,Japan,382.2292994,60010,157,Tokyo,2000
+629,"Morrison, Hebert and Rogers",4,anada,222.6101083,61663,277,Hamilton,2013
+630,Hays-Daniels,4,Frane,154.9625,37191,240,Toulouse,2007
+631,Small-Anderson,4,India,510.8712871,51598,101,Bangalore,2008
+632,"Mdonald, Lee and Rodriguez",4,China,366.9817352,80369,219,Beijing,2021
+633,Simon Ltd,4,USA,1745.384615,68070,39,Houston,2006
+634,Higgins-Smith,4,China,245.7296137,57255,233,Hangzhou,2001
+635,Gibbs-Bradley,4,USA,1268.111111,34239,27,Houston,2023
+636,Thompson Ltd,4,Frane,354.797153,99698,281,Montpellier,2007
+637,Wilox-Robertson,4,Japan,119.5534351,31323,262,Tokyo,2004
+638,Morales In,4,UK,129.5919732,38748,299,Liverpool,2023
+639,Holden Group,4,India,535.0475,214019,400,Jaipur,2019
+640,Boyle-Smith,4,India,121.6512141,55108,453,Hyderabad,2009
+641,Young-Molina,4,Germany,95.0787037,20537,216,Essen,2007
+642,Turner-Sharp,4,UK,294.037931,85271,290,Glasgow,2001
+643,Green LL,4,Germany,272.3643411,70270,258,D眉sseldorf,2017
+644,"Young, ontreras and Marshall",4,USA,68.97126437,24002,348,Philadelphia,2020
+645,Sullivan PL,4,Frane,75.69529086,27326,361,Bordeaux,2010
+646,"arrillo, Vaughn and Fowler",4,Frane,338.6582278,53508,158,Strasbourg,2004
+647,Rihardson-Walker,4,Frane,292.2591093,72188,247,Lyon,2017
+648,Mendoza Group,4,Japan,153.1509009,67999,444,Nagoya,2009
+649,"Zhang, Brooks and Miles",4,Germany,163.9657534,47878,292,Dortmund,2001
+650,Todd-Pham,4,Frane,289.0507246,79778,276,Strasbourg,2017
+651,Gill Ltd,4,Germany,966.6814815,130502,135,D眉sseldorf,2007
+652,"Marks, Miller and Griffin",4,Japan,1188.622222,53488,45,Fukuoka,2020
+653,"ox, Stark and Rodriguez",4,anada,205.2867384,57275,279,Edmonton,2002
+654,"Leah, Harris and Herrera",4,Japan,346.8535354,68677,198,Tokyo,2008
+655,Murphy PL,4,USA,81.69711538,33986,416,Los Angeles,2006
+656,Wilson-Harris,4,Japan,380.3777778,171170,450,Kyoto,2006
+657,"Burns, Nolan and Griffin",4,India,665.6548673,75219,113,hennai,2000
+658,havez PL,4,Japan,191.8286445,75005,391,Osaka,2023
+659,Bryant-Brown,4,anada,149.6624204,46994,314,algary,2022
+660,hambers-Parker,4,Japan,133.6376307,38354,287,Kobe,2007
+661,Foster In,4,India,280.090535,68062,243,hennai,2012
+662,"Robinson, Jones and Henderson",4,India,465.8941799,88054,189,hennai,2008
+663,"Brown, Mknight and Mihael",4,anada,166.0769231,69088,416,Quebe ity,2003
+664,Andersen Group,4,anada,353.1958763,68520,194,Edmonton,2006
+665,Mithell and Sons,4,India,265.2832765,77728,293,Ahmedabad,2001
+666,annon Ltd,4,Japan,404.4057971,55808,138,Yokohama,2000
+667,"Stuart, Brooks and Vane",4,Frane,1302.647619,136778,105,Nie,2004
+668,Kane-Knox,4,India,145.3006757,43009,296,Hyderabad,2012
+669,Miller-Brandt,4,Japan,46.27058824,15732,340,Kyoto,2017
+670,"Anderson, Dalton and Wilson",4,India,112.8677355,56321,499,hennai,2015
+671,"Long, Anderson and Irwin",4,anada,100.3657895,38139,380,Quebe ity,2005
+672,Avila LL,4,India,132.2117962,49315,373,Bangalore,2004
+673,Nunez-Stephens,4,anada,155.5885886,51811,333,Vanouver,2017
+674,"Gray, Hall and Murray",4,USA,114.937788,49883,434,Dallas,2001
+675,Hill Ltd,4,China,313.2824074,67669,216,Beijing,2000
+676,Johnson Ltd,4,Germany,118.0599455,43328,367,Frankfurt,2002
+677,Mendez-Mayer,4,Germany,361.0076046,94945,263,Berlin,2006
+678,Allen In,4,anada,213.1339564,68416,321,Edmonton,2001
+679,Wheeler Group,4,anada,5022.75,40182,8,Quebe ity,2000
+680,"Powers, Brennan and Sanhez",4,Frane,159.5797101,44044,276,Paris,2000
+681,Morales and Sons,4,UK,5627,73151,13,Bristol,2009
+682,"Robinson, Shields and Brown",4,Frane,140.0315789,66515,475,Lyon,2003
+683,"Holder, Young and Hendriks",4,China,276.09375,35340,128,Nanjing,2004
+684,"Flores, Harper and hambers",4,Japan,401.6044776,53815,134,Saitama,2016
+685,Young-Walter,4,India,1891.977778,85139,45,hennai,2012
+686,"Boyd, Gutierrez and Hill",4,India,398.3979592,117129,294,Ahmedabad,2014
+687,"Fry, Hobbs and Buk",4,Japan,147.4535211,52346,355,Nagoya,2009
+688,"Shelton, Peters and Williams",4,China,352.1792453,74662,212,Beijing,2002
+689,David-Powers,4,Frane,268.7419355,66648,248,Strasbourg,2017
+690,"Flores, Butler and Hernandez",4,USA,822.1956522,75642,92,New York,2022
+691,White-Medina,4,China,148.2597015,49667,335,Wuhan,2013
+692,Atkinson LL,4,India,83.10367171,38477,463,Jaipur,2003
+693,"Thomas, Ford and Brown",4,USA,67.07081545,31255,466,Houston,2006
+694,Faulkner-Grant,4,anada,102.2008368,48852,478,Ottawa,2001
+695,Prie LL,4,China,616.6143345,180668,293,hengdu,2017
+696,Rivera In,4,USA,1441.615385,18741,13,hiago,2010
+697,Boone-Davis,4,Japan,296.9923077,115827,390,Saitama,2004
+698,"alderon, Williams and Bennett",4,Frane,1162.579545,102307,88,Marseille,2009
+699,"Morrison, Russo and Lopez",4,Japan,240.5156695,84421,351,Saitama,2012
+700,"Ramsey, Hansen and Mendoza",4,India,896.3947368,68126,76,Ahmedabad,2023
+701,Turner-Stout,4,China,472.6043956,86014,182,Nanjing,2023
+702,Giles Ltd,4,USA,350.0569106,43057,123,Los Angeles,2013
+703,Burgess Group,4,China,321.4472362,127936,398,hongqing,2019
+704,Dominguez Ltd,4,Frane,100.0395137,32913,329,Nantes,2000
+705,Sanders and Sons,4,UK,274.3966942,33202,121,Edinburgh,2015
+706,"Morris, ampbell and Owens",4,India,222.9424779,50385,226,Surat,2012
+707,"Howard, Green and Hunt",4,Germany,76.59296482,15242,199,Leipzig,2021
+708,Owens-Lang,4,China,78.23002421,32309,413,Hangzhou,2009
+709,"Harrison, Frano and Roha",4,Japan,364.9859155,51828,142,Osaka,2002
+710,Edwards-Williams,4,Germany,345.2044335,140153,406,D眉sseldorf,2022
+711,Figueroa In,4,Germany,308.8518519,58373,189,D眉sseldorf,2010
+712,Tran-Silva,4,China,142.301848,69301,487,Shanghai,2000
+713,"Butler, Hernandez and Rivera",4,UK,187.6751269,73944,394,Edinburgh,2011
+714,Hudson-Sanhez,4,UK,2411.938776,118185,49,Manhester,2004
+715,"Pena, ohen and Sott",4,Germany,137.4517241,39861,290,D眉sseldorf,2014
+716,Levy-May,4,Frane,745.5,37275,50,Marseille,2000
+717,Murray-Oonnor,4,India,171.4387097,53146,310,Surat,2002
+718,Jakson-ortez,4,India,194.9415584,30021,154,Ahmedabad,2000
+719,White-Preston,4,Frane,139.8696809,52591,376,Strasbourg,2002
+720,"Bernard, Warren and ombs",4,Japan,860.0549451,78265,91,Saitama,2016
+721,Landry Ltd,4,Frane,770.0633803,109349,142,Lyon,2004
+722,Duran Group,4,UK,2001.189873,158094,79,Glasgow,2015
+723,Kirby and Sons,4,China,209.7671233,30626,146,Guangzhou,2013
+724,Mann In,4,Frane,93.88888889,38025,405,Nie,2015
+725,Wagner LL,4,China,77.78278689,37958,488,hongqing,2008
+726,Williamson Ltd,4,Japan,140.9125,45092,320,Kyoto,2019
+727,"Durham, Hopkins and Smith",4,Japan,1189.243243,88004,74,Kyoto,2003
+728,"Arnold, Smith and Moreno",4,UK,339.5942857,59429,175,London,2012
+729,Nihols-Mithell,4,Frane,358.6079545,63115,176,Nantes,2014
+730,"Li, raig and Drake",4,Frane,362.7911392,57321,158,Lille,2004
+731,Rodriguez In,4,India,413.4018692,44234,107,Jaipur,2022
+732,"Hernandez, Lee and Fox",4,anada,65.15863454,32449,498,Edmonton,2005
+733,Adams-Sanders,4,Frane,45.04724409,17163,381,Nantes,2009
+734,hung-Stevens,4,anada,404.3625731,69146,171,Halifax,2007
+735,Branh and Sons,4,Frane,417.1151832,79669,191,Nie,2012
+736,Sutton-Abbott,4,China,503.5324675,155088,308,Hangzhou,2006
+737,"Frey, Santos and Johnson",4,Germany,193.1788618,95044,492,Essen,2000
+738,Gray-Tran,4,anada,195.4866828,80736,413,algary,2014
+739,Walsh Ltd,4,UK,172.2750716,60124,349,Manhester,2013
+740,Miller Group,4,anada,478.3,76528,160,Vanouver,2020
+741,"Mueller, Knight and Hodge",4,Japan,462.3855422,38378,83,Sapporo,2021
+742,Jaobson In,4,Frane,390.542735,91387,234,Strasbourg,2002
+743,Lewis Ltd,4,anada,525.4352518,146071,278,Halifax,2012
+744,"Alvarez, Williams and Jones",4,Frane,130.3154034,53299,409,Bordeaux,2001
+745,Lam-Elliott,4,India,289.5015106,95825,331,Surat,2019
+746,White LL,4,China,107.5542522,36676,341,Shanghai,2007
+747,Ali PL,4,India,182.0062893,57878,318,Bangalore,2020
+748,Goodwin Ltd,4,USA,137.5071225,48265,351,San Jose,2020
+749,Hikman-Evans,4,Frane,295.3050847,17423,59,Nantes,2013
+750,"Allen, Davenport and Prie",4,USA,736.4745763,86904,118,Los Angeles,2008
+751,"Rivera, ampos and Taylor",4,Japan,217.3560976,44558,205,Kyoto,2011
+752,"Ramsey, Mason and Mann",4,anada,132.4712644,34575,261,Halifax,2022
+753,Davis and Sons,4,Germany,219.6428571,55350,252,Stuttgart,2000
+754,Peterson PL,4,China,81.36554622,38730,476,hengdu,2013
+755,"Sanders, Ayala and Johnson",4,China,740.2467532,56999,77,Shanghai,2023
+756,Bowers-Hayes,4,India,192.2394958,45753,238,hennai,2010
+757,Kelly Group,4,Japan,267.3770492,48930,183,Kawasaki,2015
+758,Lopez-Willis,4,anada,174.8877005,65408,374,Montreal,2014
+759,Miller-Montgomery,4,anada,281.3481013,44453,158,Edmonton,2002
+760,Marquez In,4,USA,221.9612756,97441,439,Los Angeles,2000
+761,Moore-Dawson,4,India,104.9855072,43464,414,Delhi,2021
+762,"Moore, Prie and Ward",4,Germany,608.7553191,57223,94,Frankfurt,2016
+763,Smith LL,4,Germany,99.40807175,22168,223,Stuttgart,2017
+764,Ward-Nelson,4,anada,163.9633028,53616,327,algary,2012
+765,Miller Group,4,Germany,189.0439883,64464,341,Hamburg,2020
+766,Hawkins-Hunt,4,Frane,147.6151832,56389,382,Strasbourg,2000
+767,Johnson LL,4,Japan,176.3080357,39493,224,Kyoto,2018
+768,"Davis, George and Nguyen",4,Frane,651.4122807,74261,114,Paris,2022
+769,Smith-Gutierrez,4,Japan,133.7112172,56025,419,Sapporo,2022
+770,Hardy PL,4,China,174.0990338,72077,414,Hangzhou,2003
+771,Armstrong and Sons,4,Germany,668.7428571,70218,105,Stuttgart,2010
+772,"James, Taylor and Turner",4,anada,217.683908,75754,348,Montreal,2008
+773,Thomas-Jakson,4,anada,469.9757576,77546,165,Hamilton,2020
+774,Fisher-Washington,4,Frane,167.5213115,51094,305,Lille,2012
+775,Ward and Sons,4,China,231.1327231,101005,437,hongqing,2011
+776,"Weber, Wheeler and Gonzalez",4,anada,165.5938242,69715,421,Halifax,2005
+777,Taylor In,4,UK,741.8541667,35609,48,ardiff,2018
+778,ook-Oliver,4,Germany,287.8346457,36555,127,Stuttgart,2003
+779,Alexander-Jordan,4,UK,191.255102,37486,196,Manhester,2005
+780,"Mann, Taylor and Flores",4,Germany,315.1506849,69018,219,Essen,2012
+781,"Harris, Edwards and Oonnell",4,Germany,154.5837104,34163,221,Leipzig,2012
+782,arter-Neal,4,Germany,206.825,57911,280,Dortmund,2020
+783,Faulkner-asey,4,Germany,180.7686275,46096,255,Essen,2005
+784,Bennett-Velasquez,4,UK,385.560241,64003,166,Birmingham,2005
+785,Diaz-Frederik,4,anada,286.5758929,128386,448,Halifax,2001
+786,Vargas PL,4,India,660.7702703,48897,74,Mumbai,2015
+787,Maldonado PL,4,Japan,131.2623574,34522,263,Kobe,2017
+788,Benton Group,4,anada,329.765625,84420,256,Winnipeg,2021
+789,"lark, Salinas and Guerra",4,Frane,888.3111111,79948,90,Montpellier,2015
+790,Fuentes Group,4,China,99.88834951,41154,412,Hangzhou,2000
+791,"Porter, Shultz and Allen",4,Japan,278.4068966,40369,145,Sapporo,2001
+792,"Moore, Henderson and Bennett",4,Japan,679.5274725,61837,91,Kawasaki,2009
+793,Ewing-Mendoza,4,anada,273.46,109384,400,Halifax,2023
+794,Ferguson-Mlean,4,anada,873,54126,62,Hamilton,2016
+795,"Barnes, Johnson and Shmitt",4,China,187.1314554,79718,426,hengdu,2017
+796,"Woodard, Herrera and Little",4,India,343.5609137,135363,394,Surat,2001
+797,Rodriguez and Sons,4,anada,181.5765766,40310,222,Hamilton,2006
+798,"Ortega, Jakson and Salazar",4,China,420.9646018,190276,452,Shenzhen,2009
+799,"Terrell, Byrd and Ross",4,USA,280.8032787,51387,183,San Diego,2008
+800,Sheppard-Jordan,4,China,100.0373134,40215,402,Wuhan,2003
+801,Garia and Sons,4,Japan,121.4183007,37154,306,Nagoya,2023
+802,"Burgess, Grant and Watts",4,India,506.71875,113505,224,Jaipur,2020
+803,Griffin Group,4,Germany,225.9187192,91723,406,Leipzig,2004
+804,Barton-hapman,4,Japan,268.6554054,79522,296,Nagoya,2001
+805,"Hernandez, uevas and Webb",4,India,275.9354839,85540,310,Surat,2008
+806,Perry-Nixon,4,Germany,280.7532468,43236,154,Stuttgart,2022
+807,Guerra Ltd,4,UK,69.91869919,34400,492,ardiff,2008
+808,Bailey LL,4,China,144.5978947,68684,475,Guangzhou,2013
+809,Mueller-Boyd,4,USA,990.6956522,68358,69,Phoenix,2020
+810,Alvarez-Kim,4,Germany,125.8780488,46449,369,Frankfurt,2004
+811,"havez, Jones and Williams",4,India,296.3883495,61056,206,Hyderabad,2021
+812,"Wilson, Sweeney and Wong",4,anada,150.3658537,49320,328,Vanouver,2018
+813,"Marsh, Spears and Yang",4,UK,271.1440678,63990,236,Sheffield,2012
+814,"Thompson, Moore and astro",4,China,207.6865672,55660,268,Shanghai,2012
+815,Hall-Sullivan,4,UK,111.0773931,54539,491,Leeds,2014
+816,Lopez Ltd,4,anada,5217.833333,31307,6,Edmonton,2018
+817,Foster-Mlaughlin,4,China,310.2782609,107046,345,Wuhan,2020
+818,ole Group,4,India,198.3221154,41251,208,Delhi,2017
+819,Smith-Lewis,4,Japan,255.0697674,65808,258,Kobe,2006
+820,Goodwin-Stokes,4,UK,488.960452,86546,177,Leeds,2009
+821,Ray PL,4,Germany,126.752451,51715,408,Leipzig,2015
+822,Diaz and Sons,4,India,322.0181818,17711,55,Mumbai,2001
+823,Wilson-Lambert,4,anada,53.31458333,25591,480,Toronto,2003
+824,Rose-Fowler,4,Germany,10431.2,52156,5,Dortmund,2014
+825,"Prie, Long and Wilson",4,Frane,140,65800,470,Toulouse,2022
+826,Brue-Williamson,4,Germany,92.66814159,41886,452,ologne,2005
+827,"Marthy, Evans and Mendez",4,UK,111.8624339,21142,189,Manhester,2020
+828,Powers LL,4,UK,124.4811594,42946,345,Manhester,2011
+829,Allen In,4,Germany,149.6184615,48626,325,Berlin,2012
+830,Brooks and Sons,4,UK,238.3058824,81024,340,Liverpool,2013
+831,"Prie, arlson and Andrews",4,China,501.4210526,57162,114,Shanghai,2000
+832,Lopez-Reid,4,anada,183.4577922,56505,308,Montreal,2004
+833,"Ellison, Arias and Thompson",4,Japan,137.7025862,31947,232,Kawasaki,2021
+834,Burns and Sons,4,USA,285.6944444,51425,180,New York,2022
+835,Edwards Group,4,China,1790.097222,128887,72,Tianjin,2022
+836,"Brown, Howard and Smith",4,anada,203.7860697,40961,201,Montreal,2007
+837,Lee Group,4,China,309.1393939,51008,165,Shanghai,2003
+838,"Wagner, Simpson and ohen",4,India,426.6,85320,200,hennai,2004
+839,Mkinney-Wallae,4,Germany,357.0615942,98549,276,Hamburg,2002
+840,Miller In,4,USA,446.247191,39716,89,San Jose,2020
+841,arter LL,4,anada,281.3684211,32076,114,Edmonton,2023
+842,Medina and Sons,4,Germany,119.3061798,42473,356,D眉sseldorf,2019
+843,unningham-Barton,4,anada,157.0646552,72878,464,algary,2002
+844,Dunn-Wilson,4,China,155.6437908,47627,306,Guangzhou,2003
+845,Adams PL,4,Frane,324.2590361,53827,166,Nantes,2013
+846,Weaver-Sherman,4,Germany,91.3761194,30611,335,Frankfurt,2008
+847,"Alexander, Robinson and oleman",4,China,344.125,107367,312,Shenzhen,2017
+848,"Greer, Potter and Evans",4,UK,241.6467991,109466,453,London,2021
+849,ole LL,4,UK,104.2095238,32826,315,Liverpool,2016
+850,Gonzales In,4,Japan,110.0835821,36878,335,Kobe,2009
+851,lark Ltd,4,USA,346.5346535,70000,202,Houston,2015
+852,"Norris, allahan and Bishop",4,China,122.7583082,40633,331,Shenzhen,2015
+853,Martin-Taylor,4,China,185.7407407,35105,189,Nanjing,2000
+854,Li In,4,India,145.9842697,64963,445,Bangalore,2012
+855,"Bell, ampbell and Ryan",4,Frane,190.0310734,67271,354,Nantes,2017
+856,Werner-arter,4,Germany,4112.846154,53467,13,Dortmund,2002
+857,"Adams, Hodge and Duke",4,China,398.7217391,45853,115,Beijing,2008
+858,"Ohoa, Taylor and Brady",4,USA,194.4962121,51347,264,New York,2012
+859,Sellers-Riddle,4,UK,99.07239819,21895,221,Bristol,2013
+860,"Martinez, line and Wright",4,Frane,151.6057348,42298,279,Marseille,2020
+861,"Morris, Wright and Bridges",4,Germany,917.7852761,149599,163,ologne,2002
+862,Burns-Ray,4,China,65.77033493,27492,418,Nanjing,2006
+863,Burton-Brooks,4,Germany,187.0536585,38346,205,Essen,2010
+864,Shultz In,4,China,368.1052632,83928,228,hengdu,2022
+865,Robertson-Ramirez,4,Japan,876.0612245,42927,49,Tokyo,2007
+866,Gibson-Freeman,4,Frane,170.4245283,54195,318,Marseille,2014
+867,"Smith, Shroeder and Oonnor",4,USA,292.421875,112290,384,Phoenix,2021
+868,"Stanton, Reid and Terry",4,Germany,221.1144414,81149,367,Munih,2000
+869,Flynn Group,4,Germany,115.96139,30034,259,Berlin,2005
+870,Donaldson and Sons,4,India,80.97777778,32796,405,Surat,2016
+871,Adams-layton,4,UK,973.4202899,67166,69,Birmingham,2011
+872,Kelley-Anderson,4,UK,190.875,33594,176,Manhester,2000
+873,Kramer-Shannon,4,Frane,2248.891892,83209,37,Nie,2016
+874,Williams Ltd,4,UK,709.1818182,31204,44,ardiff,2020
+875,Smith-Noble,4,anada,148.5873016,28083,189,Quebe ity,2016
+876,Alexander In,4,USA,772.1555556,69494,90,San Diego,2018
+877,Harris-Barker,4,India,274.6575,109863,400,Bangalore,2008
+878,Khan LL,4,China,126.528,47448,375,Hangzhou,2021
+879,Baxter LL,4,China,107.0981132,28381,265,Shenzhen,2023
+880,Pena LL,4,USA,489.9615385,63695,130,New York,2000
+881,Watson Ltd,4,USA,169.3681592,34043,201,San Diego,2011
+882,Williams Ltd,4,Germany,147.0520833,42351,288,Hamburg,2001
+883,Barber-Fisher,4,Frane,755.6590909,99747,132,Toulouse,2010
+884,Rios-Padilla,4,Frane,148.0117096,63201,427,Nantes,2008
+885,Lewis In,4,China,807.9848485,53327,66,Hangzhou,2011
+886,Wheeler PL,4,USA,67.23798077,27971,416,hiago,2007
+887,"Wallae, Smith and ooper",4,USA,57.50881057,26109,454,San Antonio,2002
+888,Mneil Group,4,anada,359.0930233,61764,172,Ottawa,2009
+889,"Anderson, Jones and Reyes",4,China,10033.55556,90302,9,Nanjing,2014
+890,"Shaffer, Garia and Rihardson",4,India,173.4948805,50834,293,Hyderabad,2009
+891,Taylor-Ayala,4,UK,177.1115702,42861,242,ardiff,2007
+892,May Ltd,4,India,152.89,61156,400,Jaipur,2015
+893,Jones PL,4,Japan,1403.402439,115079,82,Kawasaki,2007
+894,Bishop and Sons,4,USA,1009.580645,125188,124,San Antonio,2000
+895,Bell-Lewis,4,India,3029,15145,5,Mumbai,2010
+896,"Hernandez, Jenkins and Parks",4,Frane,637.1454545,70086,110,Nie,2003
+897,Miller In,4,Japan,210.2977867,104518,497,Kobe,2015
+898,Goodwin PL,4,USA,895.7905405,132577,148,hiago,2022
+899,"ruz, Rihmond and Edwards",4,China,81.02586207,37596,464,Beijing,2007
+900,Wright Ltd,4,Frane,136.6950904,52901,387,Nantes,2014
+901,Wright PL,4,China,111.3574144,29287,263,Hangzhou,2003
+902,"Griffith, Mithell and Pugh",4,Germany,216.5584416,66700,308,D眉sseldorf,2002
+903,Abbott Ltd,4,USA,168.5582329,83942,498,San Antonio,2021
+904,Harris-Lawson,4,Germany,299.3043478,41304,138,Frankfurt,2009
+905,Adkins LL,4,India,224.6651163,96606,430,Ahmedabad,2022
+906,"Brown, Hurst and Blevins",4,India,842.9236111,121381,144,Kolkata,2014
+907,ruz-Allen,4,Japan,761.2837838,56335,74,Osaka,2006
+908,"Wheeler, Rie and Levine",4,China,993.247191,88399,89,Guangzhou,2003
+909,Pek-Anderson,4,anada,246.8309859,52575,213,Quebe ity,2010
+910,"Fisher, Payne and Thompson",4,China,156.3293173,77852,498,Nanjing,2011
+911,Best-Townsend,4,Japan,225.2933884,54521,242,Kyoto,2009
+912,Matthews In,4,UK,862.8588235,73343,85,Manhester,2002
+913,Lewis-Livingston,4,UK,922.4086957,106077,115,ardiff,2001
+914,Hunter-Fuller,4,India,160.3658537,59175,369,Bangalore,2002
+915,"Wang, Henderson and Morales",4,Japan,202.0224719,53940,267,Fukuoka,2012
+916,"Herrera, Jensen and Ramirez",4,USA,149.8301887,63528,424,Phoenix,2008
+917,Miller-Mall,4,Germany,190.2104072,84073,442,Berlin,2012
+918,Herrera Group,4,anada,78.54895105,22465,286,Hamilton,2023
+919,"Walters, Davenport and Beker",4,Japan,620.5263158,35370,57,Osaka,2014
+920,ollins Group,4,Germany,986.0277778,35497,36,Munih,2000
+921,"Ashley, Allen and Sanhez",4,Japan,96.91549296,41286,426,Yokohama,2006
+922,Wilson-Salazar,4,Frane,620.706422,202971,327,Nantes,2021
+923,Parker Ltd,4,China,796.5547445,109128,137,Hangzhou,2018
+924,"Yang, Wilson and Zimmerman",4,China,785.6792453,83282,106,Beijing,2002
+925,"Smith, rawford and Reed",4,anada,221.0149573,103435,468,Vanouver,2002
+926,"Logan, Le and Jakson",4,India,68.50308008,33361,487,Delhi,2001
+927,Brady LL,4,anada,70.79707113,33841,478,Toronto,2005
+928,"Tanner, Wise and Johnson",4,Frane,1966.7,39334,20,Strasbourg,2015
+929,Nelson-Brown,4,Frane,203.5645161,37863,186,Strasbourg,2005
+930,"Protor, Burton and rawford",4,Japan,814.5337838,120551,148,Yokohama,2008
+931,"Ward, Porter and Bradley",4,anada,535.5485893,170840,319,Vanouver,2001
+932,Moore-Ayala,4,Japan,323.3348837,69517,215,Sapporo,2015
+933,"raig, Wilson and Yang",4,anada,388.5,57498,148,Toronto,2002
+934,Williams In,4,Frane,717.5607477,76779,107,Lyon,2013
+935,Williams LL,4,Japan,321.86,64372,200,Kawasaki,2000
+936,Mora-White,4,India,116.2518519,47082,405,Pune,2017
+937,Tran Ltd,4,anada,224.519084,58824,262,Edmonton,2018
+938,"Rios, Walker and Wright",4,India,566.4742268,54948,97,Ahmedabad,2008
+939,"Flores, Mkenzie and Dunan",4,USA,230.6666667,26988,117,Philadelphia,2019
+940,Shaw In,4,USA,105.1837709,44072,419,Phoenix,2001
+941,Walker PL,4,anada,134.1133501,53243,397,Hamilton,2011
+942,Finley In,4,Japan,471.8473282,61812,131,Yokohama,2003
+943,line-Ayala,4,Japan,90.60663507,38236,422,Sapporo,2017
+944,Murphy-Tran,4,USA,128.303653,56197,438,Houston,2018
+945,Wood LL,4,Frane,1214.284211,115357,95,Nantes,2005
+946,"Mueller, Stevenson and Sanhez",4,Japan,305.2757794,127300,417,Saitama,2010
+947,Vargas-Snyder,4,India,217.2273973,79288,365,Jaipur,2000
+948,Oonnor PL,4,India,600.2727273,46221,77,Jaipur,2018
+949,Hernandez Group,4,Japan,253.2638037,41282,163,Kyoto,2017
+950,Hall LL,4,Germany,2361.568627,120440,51,Dortmund,2001
+951,"Frano, Wiley and Tapia",4,USA,711.8461538,83286,117,Houston,2019
+952,Blake Group,4,USA,14841,74205,5,Dallas,2015
+953,"Aosta, Garia and Moreno",4,India,251.8057554,105003,417,Jaipur,2006
+954,Barnes In,4,Germany,324.1368421,30793,95,Stuttgart,2022
+955,Dawson In,4,India,616.625,49330,80,Mumbai,2000
+956,Morse PL,4,Germany,72.4247191,32229,445,Munih,2016
+957,Haynes-Watson,4,India,408.2054795,148995,365,Delhi,2011
+958,"Miller, Davis and Anderson",4,Frane,737.2768362,130498,177,Lille,2003
+959,Jones-Bradley,4,UK,865.5882353,73575,85,Leeds,2004
+960,Bates-Anderson,4,Frane,232.7964072,38877,167,Montpellier,2020
+961,Green-Edwards,4,Germany,153.3391304,70536,460,Essen,2022
+962,Haynes-Moss,4,India,165.4379085,50624,306,Hyderabad,2021
+963,havez-Hall,4,Germany,158.1078947,60081,380,D眉sseldorf,2009
+964,Taylor PL,4,UK,183.968254,69540,378,Birmingham,2005
+965,Moore and Sons,4,USA,126.1681818,55514,440,San Jose,2012
+966,Owens-Russell,4,USA,487.3053892,81380,167,hiago,2019
+967,"Howard, Townsend and Hayes",4,Japan,171.8285124,83165,484,Saitama,2003
+968,Baker-Wilson,4,anada,156.4663212,60396,386,Vanouver,2010
+969,Aguirre LL,4,China,564.3035714,94803,168,Shenzhen,2011
+970,"Terry, Williams and Huff",4,Germany,245.3678161,85388,348,Munih,2022
+971,Hernandez-Dawson,4,India,518.9571429,72654,140,Pune,2000
+972,Foster-Williams,4,Japan,652.5128205,25448,39,Nagoya,2022
+973,Green-Ewing,4,India,288.1420912,107477,373,hennai,2003
+974,rane Group,4,USA,502.9170306,115168,229,New York,2012
+975,"Adkins, Wright and Murray",4,Frane,146.8832685,37749,257,Lyon,2013
+976,Martinez In,4,Frane,284.4771574,56042,197,Nantes,2017
+977,Anderson Group,4,China,227.3698225,76851,338,Wuhan,2018
+978,Parks-Pae,4,Japan,543.7619048,22838,42,Yokohama,2014
+979,Aguilar LL,4,USA,308.9404762,51902,168,Phoenix,2000
+980,Johnson In,4,UK,227.2833333,40911,180,Manhester,2002
+981,Orr Group,4,Germany,104.0580475,39438,379,D眉sseldorf,2005
+982,Davis LL,4,China,437.7808989,77925,178,Nanjing,2002
+983,Williams Group,4,anada,48.03901437,23395,487,Toronto,2013
+984,Jakson PL,4,Germany,1274.047059,108294,85,Leipzig,2013
+985,Underwood-Foster,4,USA,602.2909091,66252,110,Los Angeles,2010
+986,Reyes Group,4,Japan,495.8125,142794,288,Kobe,2022
+987,Gomez and Sons,4,UK,521.0396825,65651,126,Glasgow,2009
+988,Ramirez-Stephenson,4,China,170.6228956,50675,297,Beijing,2012
+989,Mendez PL,4,anada,624.7619048,118080,189,Vanouver,2001
+990,Holland Group,4,USA,232.3677419,36017,155,San Antonio,2002
+991,Andrade-Mendoza,4,anada,1662.722222,29929,18,algary,2003
+992,Ramirez and Sons,4,Japan,449.2922078,69191,154,Yokohama,2020
+993,Gonzalez-Wilkerson,4,China,296.1358025,47974,162,Wuhan,2003
+994,"Wright, Mknight and Stephens",4,Frane,79.89416847,36991,463,Montpellier,2015
+995,Mayo Ltd,4,UK,209.1484099,59189,283,Manhester,2020
+996,astillo-Harrington,4,Frane,230.2423581,105451,458,Lyon,2011
+997,Durham-Shaw,4,Frane,118.1759657,27535,233,Nantes,2005
+998,Nelson-Johnson,4,USA,408.3950617,99240,243,Phoenix,2014
+999,"Robinson, Huang and Osborne",4,UK,212.1399317,62157,293,Liverpool,2008
+1000,Stokes Group,4,USA,489.4855491,169362,346,hiago,2022
+1001,"Howard, Silva and Hall",4,China,122.0883978,22098,181,Shanghai,2021
+1002,Garia Ltd,4,Frane,194.6076389,56047,288,Lille,2007
+1003,Adams Ltd,4,USA,558.3789954,122285,219,San Antonio,2016
+1004,Gallagher and Sons,4,anada,465.5766129,115463,248,Halifax,2007
+1005,"Bradford, Salinas and Kelly",4,UK,218.9571734,102253,467,Manhester,2012
+1006,Thompson PL,4,USA,170.3862661,79400,466,Dallas,2018
+1007,Drake-Wolfe,4,Germany,308.655914,28705,93,Munih,2014
+1008,"Johnson, Haynes and Meza",4,Germany,1151.550725,79457,69,Frankfurt,2006
+1009,"Thomas, Vaughan and opeland",4,USA,190.5084746,67440,354,San Antonio,2002
+1010,Weaver-Thompson,4,Frane,2582.6,206608,80,Toulouse,2020
+1011,Davis and Sons,4,UK,75.58985201,35754,473,Leeds,2023
+1012,"Robinson, Fox and Smith",4,China,98.95847751,28599,289,Shanghai,2012
+1013,"Harris, Anderson and Love",4,Frane,92.81038375,41115,443,Bordeaux,2010
+1014,Brown-Hernandez,4,UK,208.9261603,99031,474,Bristol,2014
+1015,"Stark, Shroeder and Mathis",4,USA,380.2205882,103420,272,San Jose,2018
+1016,Yu-Brooks,4,Frane,684.037037,55407,81,Marseille,2013
+1017,"Foster, Garia and Turner",4,Germany,75.14191419,22768,303,Leipzig,2018
+1018,Daugherty Ltd,4,China,94.65594059,38241,404,Shanghai,2018
+1019,onner-Yu,4,China,208.2681319,94762,455,hengdu,2017
+1020,"Stewart, Mann and Hoffman",4,India,420.9552239,84612,201,Ahmedabad,2008
+1021,"Buhanan, Walker and hapman",4,anada,357.465587,88294,247,Halifax,2019
+1022,Gray Ltd,4,USA,236.8436019,49974,211,hiago,2008
+1023,"Phillips, Thompson and Smith",4,Germany,178.4787535,63003,353,Leipzig,2019
+1024,"Fry, Myers and Gamble",4,Frane,102.9978261,47379,460,Paris,2012
+1025,"Johnson, Guzman and Mall",4,India,234.4300518,90490,386,Hyderabad,2001
+1026,"Walker, unningham and Zuniga",4,anada,1884.733333,28271,15,Ottawa,2011
+1027,Rivera In,4,India,289.3513514,42824,148,hennai,2009
+1028,Reed LL,4,anada,912.4383562,66608,73,Montreal,2007
+1029,Fields In,4,UK,449.0422535,63764,142,Edinburgh,2010
+1030,"Santiago, Daniel and Rogers",4,Frane,705.92,35296,50,Lille,2020
+1031,Baker and Sons,4,Japan,73.27966102,34588,472,Kyoto,2006
+1032,"Jones, Sott and Rodriguez",4,Frane,514.0489978,230808,449,Montpellier,2016
+1033,Williams Group,4,India,94.21707317,38629,410,Mumbai,2016
+1034,"Barnes, Jakson and Gutierrez",4,Germany,131.0679348,48233,368,Munih,2009
+1035,Bell-Bennett,4,Frane,125.1758242,56955,455,Lyon,2016
+1036,Kramer-Lane,4,USA,58.54746137,26522,453,hiago,2006
+1037,"Perez, Hayes and Lloyd",4,Japan,4525,95025,21,Tokyo,2007
+1038,Phillips LL,4,anada,151.0657534,55139,365,Toronto,2011
+1039,Lynn-Jones,4,Japan,70.66666667,30104,426,Sapporo,2011
+1040,Barron and Sons,4,anada,108.4727273,35796,330,Hamilton,2012
+1041,"Jones, Mmahon and Spene",4,China,123.1897436,24022,195,Beijing,2007
+1042,Wheeler-Austin,4,anada,1009.273684,95881,95,Halifax,2014
+1043,Bush-Reynolds,4,anada,289.5597826,53279,184,Halifax,2017
+1044,"Martin, Preston and Moore",4,India,314.9252577,122191,388,Bangalore,2008
+1045,Rivera and Sons,4,China,616.5148515,124536,202,hengdu,2000
+1046,Terry-Bowen,4,USA,71.37623762,28836,404,hiago,2018
+1047,"Fernandez, Guerrero and Evans",4,Japan,701.5833333,84190,120,Nagoya,2020
+1048,Williams PL,4,Japan,302.6495327,64767,214,Sapporo,2020
+1049,"Larsen, Hernandez and Ward",4,USA,34.12951168,16075,471,New York,2015
+1050,Miller-olon,4,Germany,100.5445783,41726,415,Hamburg,2019
+1051,"Greene, Gonzalez and Johnson",4,USA,260.4936709,82316,316,Houston,2008
+1052,Little In,4,UK,147.9179266,68486,463,Glasgow,2013
+1053,Anthony-Parker,4,Frane,624.1865672,83641,134,Nantes,2014
+1054,Ruiz-Jaobson,4,Japan,248.0598291,87069,351,Kyoto,2009
+1055,Davis-Stephens,4,Frane,9688.875,77511,8,Lille,2003
+1056,Watson Group,4,India,201.9546926,62404,309,Surat,2020
+1057,Lopez-Williams,4,UK,1476.383333,88583,60,Glasgow,2021
+1058,Marshall-Perez,4,anada,1622.431507,236875,146,Montreal,2010
+1059,Elliott-Hernandez,4,India,91.37352941,31067,340,hennai,2008
+1060,"ontreras, Miller and ooper",4,UK,343.063197,92284,269,Liverpool,2004
+1061,"Gutierrez, Avila and Perez",4,Japan,269.1421801,56789,211,Tokyo,2019
+1062,Randall PL,4,India,2233.666667,40206,18,Bangalore,2023
+1063,Sheppard-Mdaniel,4,anada,280.3624733,131490,469,Ottawa,2008
+1064,Armstrong-Young,4,Frane,131.7591623,50332,382,Strasbourg,2012
+1065,Miller-Orr,4,USA,110.4646465,32808,297,San Jose,2022
+1066,"Johnson, Dunan and Blak",4,Japan,105.227027,38934,370,Fukuoka,2023
+1067,"Byrd, Oliver and Martinez",4,Japan,217.1871921,88178,406,Kawasaki,2020
+1068,Thompson-Joye,4,anada,260.0189873,41083,158,Edmonton,2016
+1069,Stokes and Sons,4,Germany,433.5354839,67198,155,Essen,2005
+1070,Henderson Ltd,4,China,99.87760417,38353,384,Wuhan,2004
+1071,Harris-arson,4,UK,67.74233129,33126,489,Bristol,2005
+1072,Flowers LL,4,India,266.5107527,49571,186,Delhi,2007
+1073,Bartlett-Sloan,4,Japan,127.3848039,51973,408,Sapporo,2013
+1074,Miller PL,4,India,150.1151316,45635,304,Kolkata,2008
+1075,Arnold-Gates,4,UK,217.9755102,53404,245,Edinburgh,2003
+1076,"Ellis, Marks and Buhanan",4,USA,99.17213115,48396,488,San Jose,2018
+1077,"Matthews, Harrington and Rodriguez",4,China,103.8122605,27095,261,Wuhan,2006
+1078,Hernandez PL,4,China,583.433121,91599,157,Tianjin,2016
+1079,"hang, Ayers and Bukley",4,Frane,754.8666667,56615,75,Paris,2004
+1080,"han, Floyd and Dillon",4,Japan,256.9493243,76057,296,Fukuoka,2013
+1081,Humphrey-Baker,4,anada,145.3452915,64824,446,Vanouver,2010
+1082,"Washington, Lynh and Johnson",4,Germany,202.6457143,35463,175,Munih,2015
+1083,Powell-Montgomery,4,Germany,2577.352941,87630,34,Stuttgart,2020
+1084,"Steele, Williams and Preston",4,USA,1069.160714,119746,112,San Diego,2008
+1085,Vaughn-Williams,4,Germany,445.172549,113519,255,Leipzig,2005
+1086,Mall-Prine,4,China,623.4361233,141520,227,Guangzhou,2019
+1087,Morgan LL,4,Frane,102.4088176,51102,499,Strasbourg,2013
+1088,Ramirez-Vasquez,4,anada,1012.416667,24298,24,Winnipeg,2000
+1089,"ohen, ompton and Perez",4,Japan,205.9262473,94932,461,Fukuoka,2000
+1090,Mann-Ramos,4,India,2740.428571,38366,14,Surat,2006
+1091,Adams-Butler,4,USA,194.4861111,70015,360,Houston,2007
+1092,"Davis, Alexander and Mintyre",4,India,1863.754386,106234,57,hennai,2004
+1093,Figueroa-Malone,4,Frane,692.9689441,111568,161,Bordeaux,2018
+1094,Niholson-Robertson,4,Germany,371.2866242,58292,157,Munih,2001
+1095,Jones Ltd,4,UK,441.9409594,119766,271,Edinburgh,2023
+1096,"Powell, Deleon and Warren",4,India,766.4109589,55948,73,Ahmedabad,2021
+1097,"Johnson, Lee and Whitaker",4,India,174.2930591,67800,389,Pune,2011
+1098,Wright Group,4,Japan,4351.214286,60917,14,Yokohama,2012
+1099,Hull Ltd,4,Japan,1030.444444,74192,72,Nagoya,2023
+1100,Hill Group,4,Japan,293.2509506,77125,263,Tokyo,2018
+1101,"Sanders, Leblan and Maldonado",4,Germany,86.49051491,31915,369,Munih,2011
+1102,Watson PL,4,USA,462.9185185,62494,135,San Antonio,2020
+1103,Thompson-Harrell,4,USA,151.9650146,52124,343,San Jose,2001
+1104,"Arnold, ooper and Monroe",4,China,128.3407821,45946,358,Beijing,2001
+1105,urry-Barker,4,China,604.2462312,120245,199,Tianjin,2014
+1106,Johnson-Williams,4,China,213.9068826,52835,247,Nanjing,2008
+1107,"han, Lewis and Walker",4,Germany,334.2696629,119000,356,Frankfurt,2022
+1108,Byrd LL,4,USA,106.6676385,36587,343,Phoenix,2013
+1109,"Ortiz, Smith and Deleon",4,China,191.2229102,61765,323,Nanjing,2008
+1110,"Smith, Buk and Holland",4,Germany,563.0864662,149781,266,D眉sseldorf,2003
+1111,"Owen, Walker and Franklin",4,China,101.2044335,41089,406,hengdu,2003
+1112,Marquez-Flether,4,China,171.5759494,54218,316,Wuhan,2006
+1113,oleman-Bennett,4,Japan,505.7314815,54619,108,Sapporo,2016
+1114,Stevens-Robinson,4,India,368.6321839,32071,87,Ahmedabad,2009
+1115,Byrd-Holloway,4,USA,76.42887473,35998,471,Dallas,2015
+1116,Silva-Smith,4,Japan,260.232,32529,125,Kyoto,2010
+1117,"Levy, Frano and Hoffman",4,USA,2243.28,112164,50,New York,2021
+1118,"Lynh, Evans and Rodriguez",4,China,287.4785992,73882,257,Hangzhou,2021
+1119,Rogers LL,4,Germany,638.0697674,27437,43,Munih,2016
+1120,"Nguyen, Hill and Douglas",4,China,395.9837398,48706,123,hengdu,2020
+1121,"Evans, Hernandez and annon",4,anada,170.4917355,41259,242,Ottawa,2008
+1122,Trujillo PL,4,USA,156.8539823,70898,452,Los Angeles,2005
+1123,Guerrero-Beker,4,USA,141.686747,58800,415,Phoenix,2011
+1124,"Johnson, Jimenez and Phillips",4,India,1493.328125,95573,64,Ahmedabad,2023
+1125,Sullivan-Doyle,4,China,54.19954649,23902,441,Beijing,2000
+1126,"Erikson, Armstrong and Lee",4,Germany,283.2074468,53243,188,Hamburg,2010
+1127,"Reeves, Parks and Little",4,anada,42.11674009,19121,454,Halifax,2008
+1128,Knox-Powers,4,China,772.7142857,75726,98,hongqing,2010
+1129,"Evans, Jakson and Sandoval",4,China,159.7826962,79412,497,Tianjin,2012
+1130,"White, Davis and Anderson",4,anada,234.0558659,83792,358,Ottawa,2012
+1131,Hardy-Hansen,4,anada,114.2532751,52328,458,Winnipeg,2020
+1132,Arroyo LL,4,Germany,123.6454294,44636,361,Munih,2004
+1133,"Davis, Kelly and Garner",4,USA,168.6100917,36757,218,hiago,2003
+1134,Fisher-Eaton,4,anada,396.5633188,90813,229,Halifax,2021
+1135,Green-arter,4,Germany,116.7295285,47042,403,Leipzig,2012
+1136,Ruiz Ltd,4,India,152.6188341,68068,446,Jaipur,2000
+1137,"arpenter, Oliver and Kennedy",4,Germany,801.2419355,49677,62,Dortmund,2015
+1138,Mason Ltd,4,Frane,1313.945946,48616,37,Montpellier,2001
+1139,Moreno-Gutierrez,4,UK,139.7260274,51000,365,Leeds,2000
+1140,Taylor and Sons,4,Japan,161.3897059,43898,272,Fukuoka,2016
+1141,Ortiz-Hudson,4,China,48.19098143,18168,377,Tianjin,2021
+1142,Thomas-Huffman,4,Japan,247.7238372,85217,344,Kyoto,2011
+1143,Maxwell Group,4,Frane,180.2255965,83084,461,Lyon,2017
+1144,Welh-Thompson,4,USA,210.0538302,101456,483,New York,2020
+1145,"Brown, Hayes and lark",4,Germany,62.16780045,27416,441,Essen,2015
+1146,Johnston and Sons,4,anada,128.0128535,49797,389,Vanouver,2002
+1147,Glover-han,4,anada,404.591954,70399,174,Edmonton,2007
+1148,Mendez Ltd,4,UK,1409.252101,167701,119,London,2016
+1149,Powell-Sanford,4,Frane,2205.844444,99263,45,Strasbourg,2007
+1150,Smith-Ferguson,4,anada,130.1538462,30456,234,Quebe ity,2018
+1151,"Watson, Smith and Morris",4,China,420.7349398,69842,166,Wuhan,2014
+1152,"Lee, Rhodes and Sims",4,China,163.179941,55318,339,Wuhan,2023
+1153,Perez LL,4,USA,253.25,54702,216,Los Angeles,2012
+1154,Anderson-Reyes,4,USA,14834.2,74171,5,Dallas,2017
+1155,"Torres, Brown and Williams",4,China,114.407855,37869,331,Hangzhou,2019
+1156,Bryant-Meyer,4,UK,370.2545455,40728,110,Bristol,2017
+1157,"Morgan, Barron and owan",4,anada,74.77283372,31928,427,Edmonton,2011
+1158,Ferrell-Henry,4,USA,194.1149425,33776,174,Houston,2014
+1159,Martin Group,4,anada,690.2542373,162900,236,Edmonton,2022
+1160,Perez Ltd,4,China,665.059322,78477,118,Shanghai,2021
+1161,lark In,4,USA,136.6130536,58607,429,Philadelphia,2011
+1162,"Wagner, Martinez and Dawson",4,UK,437.0663265,85665,196,Bristol,2016
+1163,Brooks Ltd,4,China,204.3579767,52520,257,Beijing,2005
+1164,Wise-Dean,4,Germany,660.7111111,89196,135,D眉sseldorf,2003
+1165,"Vang, Stanley and Valdez",4,Japan,191.5051975,92114,481,Nagoya,2003
+1166,Williams In,4,Frane,60.4941452,25831,427,Toulouse,2014
+1167,Wallae-Martinez,4,Japan,149.7015306,58683,392,Fukuoka,2003
+1168,Wells-Hernandez,4,Frane,123.9099307,53653,433,Paris,2020
+1169,"Jennings, Smith and Fisher",4,China,275.2982456,94152,342,Wuhan,2014
+1170,Bates LL,4,Germany,234.6268116,64757,276,Dortmund,2000
+1171,"Obrien, Taylor and Rivas",4,USA,81.47695853,35361,434,Dallas,2013
+1172,Hunt PL,4,anada,74.28412256,26668,359,Hamilton,2005
+1173,ampbell In,4,Germany,172.2068966,34958,203,Hamburg,2003
+1174,Gonzalez-Gonzalez,4,India,241.6621005,52924,219,Surat,2012
+1175,Deker-Dudley,4,Japan,138.186747,68817,498,Sapporo,2012
+1176,Warner-Phillips,4,India,142.3213429,59348,417,hennai,2014
+1177,Kelley and Sons,4,Germany,366.4185304,114689,313,Hamburg,2013
+1178,"Fitzpatrik, Rivera and Smith",4,UK,117.6341463,43407,369,Bristol,2010
+1179,"Davis, Rodriguez and Andrews",4,Japan,163.0339506,52823,324,Nagoya,2006
+1180,Hernandez-Davis,4,UK,298.2361111,21473,72,Leeds,2021
+1181,"Jones, ummings and onway",4,Germany,214.2611111,77134,360,Essen,2017
+1182,"Hall, Hinton and Phillips",4,India,534.1506849,155972,292,Delhi,2011
+1183,Williams-Li,4,anada,47.83778234,23297,487,Halifax,2018
+1184,Phelps LL,4,Frane,272.9140969,123903,454,Bordeaux,2009
+1185,"Edwards, Rodgers and Davis",4,Frane,1710.288136,100907,59,Paris,2016
+1186,Smith and Sons,4,USA,5320.25,170248,32,San Antonio,2004
+1187,"Holland, Murphy and Kline",4,USA,290.5012853,113005,389,Houston,2008
+1188,"Adams, Quinn and Watson",4,Germany,601.6466165,80019,133,ologne,2021
+1189,White-Morales,4,Germany,154.1995074,62605,406,Berlin,2022
+1190,Nelson-ruz,4,UK,2554.904762,53653,21,Liverpool,2017
+1191,Marsh-Banks,4,India,126.30625,40418,320,Pune,2003
+1192,Wilson Ltd,4,Japan,593.7380952,74811,126,Kawasaki,2012
+1193,"Brown, Dunlap and Moore",4,UK,95.03448276,19292,203,London,2012
+1194,Pruitt-Webb,4,Frane,2751.5,88048,32,Nantes,2017
+1195,"Gregory, White and James",4,USA,130.515528,42026,322,Phoenix,2006
+1196,arr-Huffman,4,anada,224.8410959,82067,365,algary,2020
+1197,"Mpherson, Anderson and Knapp",4,India,224.3524804,85927,383,Jaipur,2017
+1198,lay Group,4,Japan,299.0769231,69984,234,Nagoya,2009
+1199,Brown Ltd,4,Germany,210.9678068,104851,497,Munih,2005
+1200,Smith-Oneill,4,Germany,239.7575758,47472,198,Essen,2003
+1201,"Saunders, Ray and unningham",4,USA,194.3114187,56156,289,San Antonio,2008
+1202,"Marks, Stone and Watts",4,UK,465.6118421,141546,304,Birmingham,2005
+1203,"Davis, Stanley and Wright",4,UK,188.5884774,45827,243,London,2010
+1204,Alvarado-Davidson,4,Germany,218.4583333,104860,480,Berlin,2004
+1205,ombs PL,4,India,128.8952618,51687,401,Jaipur,2001
+1206,"Brown, Shneider and Moore",4,UK,186.3776224,53304,286,Edinburgh,2018
+1207,hristian-Booth,4,India,232.1257485,38765,167,Delhi,2022
+1208,Walton LL,4,Japan,1182.282051,46109,39,Yokohama,2016
+1209,Rivera LL,4,Germany,139.1648746,38827,279,D眉sseldorf,2017
+1210,Hunter PL,4,Frane,219.7118644,25926,118,Marseille,2011
+1211,"Gray, Montoya and Miller",4,Japan,152.1798942,28762,189,Fukuoka,2010
+1212,Solis-West,4,UK,164.0797101,45286,276,Liverpool,2019
+1213,West-Wilson,4,anada,4844.555556,43601,9,Hamilton,2020
+1214,Mgee-Smith,4,China,638.9296875,81783,128,hongqing,2014
+1215,Gutierrez-Hawkins,4,Japan,186.5327511,85432,458,Tokyo,2021
+1216,Petersen PL,4,India,93.28712871,18844,202,Ahmedabad,2003
+1217,"Walsh, Wu and Hart",4,UK,234.738255,34976,149,Bristol,2023
+1218,"Powers, lements and ox",4,USA,165.761194,44424,268,Dallas,2011
+1219,Velasquez Group,4,anada,429.8012821,67049,156,Quebe ity,2001
+1220,astro-Harvey,4,Japan,1733.276596,81464,47,Fukuoka,2016
+1221,Moran-ox,4,China,98.35971223,27344,278,Guangzhou,2017
+1222,Wilson-Malone,4,USA,378.6867816,131783,348,Los Angeles,2006
+1223,Smith LL,4,Japan,1133.2,124652,110,Kobe,2003
+1224,"Brandt, arter and Boyd",4,Frane,390.0505618,138858,356,Marseille,2023
+1225,"Rodriguez, Prine and Vasquez",4,Germany,151.5752688,56386,372,Berlin,2014
+1226,"Newton, Ortiz and King",4,India,1046.285714,43944,42,Mumbai,2002
+1227,Lopez Group,4,USA,212.862069,61730,290,hiago,2008
+1228,Bryant and Sons,4,China,416.1252654,195995,471,Hangzhou,2007
+1229,"Morgan, Sherman and Williams",4,UK,220.8,51888,235,Sheffield,2012
+1230,"Monroe, hapman and Barton",4,Frane,3340.538462,43427,13,Strasbourg,2010
+1231,Ellis-Lawrene,4,Frane,11518.5,92148,8,Marseille,2017
+1232,"Taylor, Porter and Moreno",4,China,207.8374656,75445,363,Hangzhou,2001
+1233,Tran Group,4,China,906.6440678,53492,59,hongqing,2016
+1234,"Webb, Romero and Morse",4,UK,1246.959184,61101,49,Glasgow,2019
+1235,Holt and Sons,4,UK,291.9951691,60443,207,Edinburgh,2012
+1236,"Ohoa, Garia and Sandoval",4,USA,317.7661871,88339,278,San Diego,2005
+1237,"Andrade, Gordon and ruz",4,Japan,130.6731707,26788,205,Yokohama,2023
+1238,"Moon, Farmer and Hill",4,UK,452.4415954,158807,351,Birmingham,2009
+1239,Waller-havez,4,India,232.7035398,105182,452,Mumbai,2017
+1240,Taylor PL,4,Germany,13397,93779,7,Munih,2001
+1241,"Tanner, Hunt and ameron",4,Frane,62.22494888,30428,489,Bordeaux,2017
+1242,"Valenia, Joseph and Walls",4,China,228.064433,88489,388,hengdu,2006
+1243,"Robinson, lark and Klein",4,India,59.86752137,28018,468,Hyderabad,2013
+1244,"Reed, hambers and Zavala",4,Germany,468.8728814,55327,118,Hamburg,2005
+1245,"Hester, Thompson and Daniels",4,UK,1126.804124,109300,97,Liverpool,2003
+1246,"Morris, Wilson and Bell",4,USA,208.558209,69867,335,Dallas,2014
+1247,Aguilar-Bender,4,China,2854.641026,111331,39,hengdu,2021
+1248,"Butler, Adkins and Skinner",4,UK,214.9335106,80815,376,Manhester,2006
+1249,Rih-Henderson,4,anada,1132.242857,79257,70,Edmonton,2011
+1250,Mills In,4,Japan,178.8074534,57576,322,Osaka,2009
+1251,Thomas-Santiago,4,China,159.770751,40422,253,Shenzhen,2010
+1252,Adams and Sons,4,anada,203.2631579,69516,342,Edmonton,2019
+1253,Vega-Thomas,4,UK,400.3435374,117701,294,ardiff,2004
+1254,Vaughn LL,4,India,892.8571429,81250,91,Kolkata,2013
+1255,Molina In,4,USA,144.7321867,58906,407,Philadelphia,2007
+1256,ervantes-Garia,4,Japan,99.42758621,43251,435,Kobe,2008
+1257,"Stevenson, Hanok and Newton",4,India,176.6815789,67139,380,Bangalore,2021
+1258,"Prie, Dixon and Robles",4,India,392.751073,91511,233,Pune,2014
+1259,"Roberts, Bek and House",4,India,538.0243902,154413,287,hennai,2015
+1260,Butler-Frenh,4,China,129.4412698,40774,315,Guangzhou,2020
+1261,"Edwards, Arnold and Smith",4,China,77.18004338,35580,461,hengdu,2004
+1262,Harris-Melton,4,Japan,175.3668122,80318,458,Sapporo,2023
+1263,Greer-Pruitt,4,China,75.75626424,33257,439,Shanghai,2000
+1264,"Mkinney, Rihardson and hapman",4,USA,165.3207547,35048,212,San Jose,2018
+1265,"Morrison, Parsons and Brandt",4,Japan,588.9202899,81271,138,Tokyo,2017
+1266,ole-Luero,4,anada,125.897561,25809,205,Vanouver,2011
+1267,Lopez and Sons,4,Japan,373.5846501,165498,443,Saitama,2023
+1268,"Palmer, Bennett and Patterson",4,UK,398.6819923,104056,261,Birmingham,2014
+1269,"Baker, Martin and Singleton",4,China,262.2633588,68713,262,Tianjin,2011
+1270,Rivera Ltd,4,USA,77.9943662,27688,355,Houston,2019
+1271,Williams LL,4,Germany,405.1759657,94406,233,Essen,2004
+1272,"Williams, Randolph and Gilbert",4,Germany,186.9061224,91584,490,Hamburg,2018
+1273,"Turner, Tyler and Piere",4,Germany,2264.92,56623,25,Dortmund,2011
+1274,Bowers LL,4,Japan,1129.756757,41801,37,Kyoto,2007
+1275,"Robinson, White and Jones",4,UK,3397.923077,88346,26,Leeds,2007
+1276,"Moore, Daniels and Powell",4,Japan,193.0492611,39189,203,Kawasaki,2011
+1277,Walker-Lewis,4,anada,2089,52225,25,Quebe ity,2001
+1278,Rivera-arter,4,India,212.944,106472,500,Delhi,2022
+1279,"Moreno, Barajas and olon",4,UK,403.4452297,114175,283,Glasgow,2018
+1280,"Smith, aldwell and Griffin",4,Germany,453.8939394,89871,198,D眉sseldorf,2020
+1281,"Austin, Oliver and Haley",4,India,295.9568966,137324,464,Jaipur,2020
+1282,"Blakwell, James and Hogan",4,China,382.5431472,75361,197,Nanjing,2008
+1283,ruz PL,4,Japan,485.6054054,89837,185,Kawasaki,2012
+1284,"ampbell, Pruitt and Short",4,India,154.6949891,71005,459,Pune,2015
+1285,Robertson-Hiks,4,USA,133.326087,30665,230,Dallas,2004
+1286,Williams-Villanueva,4,Germany,164.8992537,44193,268,Frankfurt,2002
+1287,Flores In,4,UK,366.87,36687,100,Liverpool,2004
+1288,Jakson PL,4,Germany,98.11827957,36500,372,Stuttgart,2019
+1289,"Smith, Jones and Santiago",4,China,121.297619,50945,420,Shenzhen,2013
+1290,Hanok Group,4,India,168.8742857,59106,350,Delhi,2015
+1291,Harris Ltd,4,anada,292.8990228,89920,307,Quebe ity,2006
+1292,"Rowe, Luas and ase",4,Germany,371.7596899,47957,129,D眉sseldorf,2000
+1293,"Parks, Johnson and Love",4,USA,238.5714286,73480,308,hiago,2018
+1294,Miller In,4,Germany,219.2247191,58533,267,Hamburg,2020
+1295,Bauer PL,4,USA,2220.060606,73262,33,San Jose,2004
+1296,Andrews and Sons,4,Germany,155.9330855,41946,269,ologne,2005
+1297,Russell-Hayes,4,Frane,337.9818731,111872,331,Lille,2018
+1298,Hamilton-Smith,4,USA,604.3304348,69498,115,Phoenix,2002
+1299,"Wilson, Smith and ortez",4,anada,109.6770601,49245,449,Halifax,2015
+1300,Avila PL,4,anada,93.6,40248,430,Vanouver,2007
+1301,Haynes In,4,Frane,62.74939173,25790,411,Lille,2004
+1302,Reilly-Rodriguez,4,Germany,147.5488722,39248,266,Leipzig,2021
+1303,"Turner, Miller and Hubbard",4,UK,59.81741573,21295,356,Birmingham,2023
+1304,James-Short,4,India,125.3159609,38472,307,Pune,2019
+1305,Wells PL,4,China,865.5247525,174836,202,Shenzhen,2012
+1306,Taylor Group,4,Germany,541.4259259,58474,108,Munih,2000
+1307,"Phillips, Walters and Evans",4,Frane,1705.851852,92116,54,Lyon,2019
+1308,"Wong, Bernard and Smith",4,Germany,249.6346154,77886,312,Dortmund,2019
+1309,"Thomas, Williams and Armstrong",4,USA,233.5846154,91098,390,Dallas,2016
+1310,Medina-Arroyo,4,China,185.7894737,63540,342,Shanghai,2015
+1311,lark-Figueroa,4,Germany,111.9158879,47900,428,Leipzig,2017
+1312,"ooper, Gutierrez and Brewer",4,USA,289.6272727,63718,220,San Antonio,2016
+1313,"Thomas, White and Jensen",4,India,141.1123188,38947,276,Mumbai,2022
+1314,Lee-White,4,Frane,171.6503667,70205,409,Toulouse,2015
+1315,"Phelps, York and Randolph",4,Frane,193.2596154,80396,416,Nantes,2018
+1316,"Murray, Dunn and Roberts",4,China,731.9777778,98817,135,Tianjin,2004
+1317,King and Sons,4,anada,305.78,45867,150,algary,2002
+1318,"arpenter, Lynn and Howard",4,Frane,12147.28571,85031,7,Nie,2006
+1319,"Rios, Garia and Harvey",4,USA,1100.861538,71556,65,San Jose,2016
+1320,Stewart Group,4,USA,614.1727273,67559,110,San Antonio,2020
+1321,Jensen-Torres,4,India,2441.016949,144020,59,Ahmedabad,2011
+1322,"Hernandez, Knight and Aguirre",4,Germany,348.6151316,105979,304,D眉sseldorf,2020
+1323,Jakson-Edwards,4,UK,843.561086,186427,221,Glasgow,2017
+1324,Joseph Ltd,4,India,186.1501416,65711,353,Jaipur,2008
+1325,Hill-Ward,4,Frane,316.1114983,90724,287,Toulouse,2013
+1326,"Quinn, Humphrey and Ford",4,anada,181.1168385,52705,291,Vanouver,2011
+1327,Hampton-Tuker,4,anada,70.91333333,21274,300,Ottawa,2009
+1328,Thompson PL,4,India,572.92,42969,75,Ahmedabad,2023
+1329,Wilkinson and Sons,4,China,181.2716049,73415,405,Shenzhen,2014
+1330,"Gonzalez, Gross and Sims",4,Germany,168.2528302,44587,265,Munih,2006
+1331,"Jones, Smith and Hunter",4,Frane,256.7523511,81904,319,Nantes,2017
+1332,Hess PL,4,USA,88.63654618,44141,498,hiago,2012
+1333,Hammond-Lewis,4,USA,320.8861789,78938,246,Los Angeles,2004
+1334,Arnold PL,4,Frane,857.0143885,119125,139,Marseille,2002
+1335,"Kennedy, Rowe and Diaz",4,Japan,122.528481,38719,316,Fukuoka,2002
+1336,Vane PL,4,USA,120.5141066,38444,319,San Antonio,2012
+1337,"Vinent, Anderson and Mason",4,UK,126.99182,62099,489,ardiff,2001
+1338,Sanders PL,4,Germany,11175.3,111753,10,Dortmund,2014
+1339,Bates PL,4,Japan,563.4230769,58596,104,Kawasaki,2009
+1340,"Martin, Palmer and Griffin",4,USA,214.66171,57744,269,San Jose,2016
+1341,Knight PL,4,Japan,106.56,37296,350,Saitama,2005
+1342,"Brennan, Thomas and Dennis",4,USA,347.2852941,118077,340,Philadelphia,2007
+1343,Williams-Juarez,4,USA,765.1232877,111708,146,hiago,2002
+1344,Brown LL,4,Frane,242.1256039,50120,207,Nantes,2021
+1345,Williams and Sons,4,Frane,208.3777778,56262,270,Lille,2006
+1346,"Velez, Ward and Harrison",4,USA,141.986014,40608,286,Los Angeles,2002
+1347,Keith-Williams,4,UK,875.2786885,160176,183,Bristol,2018
+1348,"Nguyen, Padilla and Boyd",4,India,88.93968254,28016,315,hennai,2007
+1349,Davenport-Baker,4,Japan,485.173913,145067,299,Kyoto,2012
+1350,"Hudson, Bennett and Gray",4,USA,274.1971831,58404,213,Phoenix,2005
+1351,"Valdez, Houston and Blak",4,China,120.4885496,31568,262,Nanjing,2002
+1352,Kaufman-Walker,4,UK,197.4230769,82128,416,Leeds,2003
+1353,Gomez-Parrish,4,UK,153.6315789,20433,133,Bristol,2018
+1354,Sparks-Eaton,4,anada,316.6031746,79784,252,Winnipeg,2018
+1355,Shaw and Sons,4,Japan,181.8186969,64182,353,Fukuoka,2014
+1356,Martin-Jones,4,anada,218.9681275,54961,251,Halifax,2000
+1357,"ampbell, Hernandez and Moore",4,China,183.165,36633,200,hengdu,2002
+1358,"Love, Wilson and Hall",4,Japan,199.0277778,42990,216,Nagoya,2010
+1359,ortez-Olson,4,India,15689.66667,141207,9,Surat,2017
+1360,Mendoza-Garza,4,UK,585.6730769,30455,52,Liverpool,2009
+1361,"Whitaker, Johnson and Williams",4,Frane,113.6944444,32744,288,Nantes,2002
+1362,"Vargas, Taylor and Hunt",4,Germany,140.9354839,26214,186,Dortmund,2010
+1363,"Thomas, Jakson and Nielsen",4,Japan,396.5612245,38863,98,Saitama,2008
+1364,"Mullen, Greene and Elliott",4,Japan,2064.990654,220954,107,Kyoto,2023
+1365,Johns Ltd,4,Japan,508.3727273,55921,110,Nagoya,2008
+1366,"Niholson, Valentine and Robinson",4,Japan,280.2101617,121331,433,Nagoya,2007
+1367,"Haney, Dillon and Jakson",4,India,667.530303,44057,66,Bangalore,2003
+1368,Burke-Norton,4,China,19165.25,153322,8,Wuhan,2019
+1369,Hanson PL,4,USA,452.1832298,145603,322,San Diego,2011
+1370,Jakson-Jennings,4,India,223.3207127,100271,449,Pune,2018
+1371,arlson-Jones,4,UK,102.6742424,40659,396,Edinburgh,2005
+1372,ruz-Rodriguez,4,UK,169.8714653,66080,389,Sheffield,2007
+1373,Mills PL,4,Germany,193.5338164,80123,414,Berlin,2016
+1374,"Barnes, Hernandez and Davis",4,Frane,1966.47619,41296,21,Montpellier,2017
+1375,Valenzuela-Greene,4,India,118.5024876,47638,402,Ahmedabad,2021
+1376,"Gordon, Wilson and Olson",4,Germany,101.058011,36583,362,Dortmund,2003
+1377,Winters PL,4,anada,4890.888889,44018,9,Edmonton,2022
+1378,Prine Ltd,4,USA,173.7317881,52467,302,Houston,2012
+1379,"Reynolds, Fisher and Golden",4,China,185.4622642,58977,318,hongqing,2011
+1380,"Moreno, Perez and Lang",4,UK,233.4676259,32452,139,Birmingham,2017
+1381,Bell-Ballard,4,Japan,63.26666667,31317,495,Sapporo,2015
+1382,"Johnston, oleman and Sott",4,India,140.4576923,36519,260,Kolkata,2005
+1383,Kent In,4,Frane,295.7493113,107357,363,Toulouse,2013
+1384,George-Stephens,4,India,1183.195946,175113,148,Kolkata,2012
+1385,Lopez-Flether,4,anada,485.9444444,34988,72,Vanouver,2018
+1386,Lane In,4,Japan,209.1958042,29915,143,Osaka,2023
+1387,"Smith, Pena and Watts",4,Japan,108.6207675,48119,443,Kawasaki,2013
+1388,Ortiz-Rodriguez,4,Frane,58.83333333,24357,414,Toulouse,2004
+1389,Pearson-King,4,Germany,877.3789474,83351,95,Dortmund,2000
+1390,"Henderson, Diaz and Hill",4,Frane,87.70779221,40521,462,Montpellier,2004
+1391,"Sanders, Harris and Arnold",4,India,519.962406,69155,133,Pune,2009
+1392,"Olson, Wood and Peters",4,USA,87.53910615,31339,358,San Antonio,2003
+1393,Hinton-Lane,4,Germany,244.3467933,102870,421,Berlin,2006
+1394,"Sanders, Taylor and Shields",4,UK,1307.351852,70597,54,Edinburgh,2020
+1395,Adkins Group,4,anada,568.3809524,107424,189,Edmonton,2008
+1396,"Avery, Garia and Romero",4,India,136.5352697,65810,482,Surat,2017
+1397,Owen-Mendez,4,UK,490.3813953,105432,215,Leeds,2000
+1398,"Mann, Martin and Oonnell",4,China,235.6024096,117330,498,hongqing,2021
+1399,Brok and Sons,4,Japan,138.611276,46712,337,Saitama,2018
+1400,Frost-Graham,4,Germany,268.8596491,45975,171,ologne,2011
+1401,Baker LL,4,anada,494.92,98984,200,Quebe ity,2002
+1402,Lynh Ltd,4,UK,64.33198381,31780,494,Edinburgh,2020
+1403,Arias-Morales,4,Germany,38.3277512,16021,418,Hamburg,2020
+1404,"Meyer, Dawson and Harper",4,India,82.04402516,26090,318,Ahmedabad,2020
+1405,Bowman Group,4,Frane,849.9770115,73948,87,Marseille,2002
+1406,Harris Ltd,4,India,242.005988,40415,167,Hyderabad,2010
+1407,"Mithell, Johnson and Greene",4,UK,153.4298507,51399,335,Glasgow,2019
+1408,"Hale, Gilbert and raig",4,Frane,81.2970297,32844,404,Nie,2014
+1409,Allen-Smith,4,India,77.63326653,38739,499,Jaipur,2016
+1410,Miller LL,4,anada,956.3333333,94677,99,Winnipeg,2005
+1411,Gomez-Foster,4,USA,338.768,42346,125,hiago,2023
+1412,"Gonzalez, Smith and Padilla",4,UK,1023.544444,92119,90,Manhester,2006
+1413,Dunn Ltd,4,Frane,2004.567568,74169,37,Marseille,2003
+1414,"Herman, Bailey and Rihmond",4,anada,7607.388889,136933,18,Hamilton,2001
+1415,Perez-Marty,4,Frane,1783.931034,103468,58,Bordeaux,2002
+1416,Spears-Andrews,4,UK,478.7291667,22979,48,ardiff,2004
+1417,Thompson-Hunter,4,Frane,203.7480916,26691,131,Nie,2007
+1418,"Jones, Phillips and Arroyo",4,UK,985.3478261,67989,69,Edinburgh,2020
+1419,"Frye, Walter and Li",4,Germany,4905.052632,93196,19,Essen,2005
+1420,"Wright, Ramos and Bennett",4,USA,205.3892617,91809,447,Philadelphia,2010
+1421,arrillo-Todd,4,anada,188.0662526,90836,483,Quebe ity,2017
+1422,Maldonado-Mosley,4,UK,470.6891892,34831,74,Bristol,2014
+1423,Olson LL,4,Germany,171.6806723,40860,238,Leipzig,2019
+1424,Reyes and Sons,4,Frane,522.8825301,173597,332,Bordeaux,2020
+1425,"Haynes, Mbride and Gutierrez",4,UK,333.7117438,93773,281,Leeds,2015
+1426,Blak-Smith,4,Japan,413.3395062,66961,162,Osaka,2014
+1427,Wright-Davis,4,India,1044.619048,87748,84,Ahmedabad,2008
+1428,"Goodman, Peterson and Spener",4,UK,215.9485294,58738,272,London,2000
+1429,Woods LL,4,Germany,519.7469388,127338,245,Stuttgart,2009
+1430,Shannon LL,4,USA,763.8037975,120681,158,San Diego,2015
+1431,Valentine Ltd,4,USA,457.9935484,141978,310,San Antonio,2009
+1432,Porter and Sons,4,Japan,591.4540816,115925,196,Tokyo,2017
+1433,Moss LL,4,Japan,222.7938596,50797,228,Kobe,2017
+1434,Perez and Sons,4,Frane,105.3854447,39098,371,Toulouse,2005
+1435,"Kelly, Maxwell and Wilson",4,Frane,306.3956835,42589,139,Strasbourg,2007
+1436,Lowe Ltd,4,China,769.1102362,97677,127,Tianjin,2020
+1437,Austin-Duran,4,UK,115.4727273,44457,385,Glasgow,2020
+1438,"Rubio, harles and Watson",4,UK,135.5192744,59764,441,Sheffield,2006
+1439,Vasquez-Galloway,4,China,217.9281046,33343,153,Guangzhou,2004
+1440,"Melton, Henry and Joye",4,China,210.8644068,49764,236,Wuhan,2019
+1441,"Ramirez, Walker and Ray",4,UK,998.8712871,100886,101,ardiff,2015
+1442,Fox Group,4,India,2455.366667,73661,30,Mumbai,2004
+1443,Ayers-Johnson,4,USA,462.4026846,68898,149,hiago,2003
+1444,Long-Parks,4,UK,269.2227074,61652,229,Birmingham,2022
+1445,Bryant In,4,USA,483.7195122,39665,82,Houston,2002
+1446,"Holmes, Stewart and Smith",4,USA,973.0833333,175155,180,San Diego,2006
+1447,"lark, arpenter and Nguyen",4,Frane,242.1076923,47211,195,Nie,2015
+1448,"Hensley, Lopez and Baker",4,anada,2237.695652,102934,46,Toronto,2010
+1449,Ruiz-Austin,4,Germany,211.6716418,85092,402,Berlin,2008
+1450,White-oleman,4,Frane,171.5061224,42019,245,Marseille,2017
+1451,Haynes-Watson,4,Germany,183.5437352,77639,423,Frankfurt,2008
+1452,Ramirez-White,4,Frane,214.8693467,85518,398,Paris,2003
+1453,Krause Ltd,4,Japan,333.5725191,43698,131,Kobe,2014
+1454,Olsen Ltd,4,USA,298.7217848,113813,381,Houston,2014
+1455,Brok-Peters,4,China,722.4504505,80192,111,Nanjing,2021
+1456,Gonzalez-Marsh,4,anada,157.6217304,78338,497,Winnipeg,2021
+1457,"Hernandez, Shaffer and Thompson",4,UK,233.2446483,76271,327,Leeds,2005
+1458,Taylor-Barry,4,USA,650.0298507,43552,67,Dallas,2016
+1459,"Holmes, Le and Floyd",4,UK,146.2420382,22960,157,Edinburgh,2020
+1460,King-Garrison,4,Japan,131.5369128,58797,447,Fukuoka,2001
+1461,Ross Ltd,4,Japan,183.5136778,60376,329,Osaka,2007
+1462,Brown LL,4,Frane,591.7222222,53255,90,Nantes,2000
+1463,ombs-Davis,4,UK,456,94392,207,ardiff,2003
+1464,"ook, Ward and astro",4,Japan,188.1092715,56809,302,Tokyo,2001
+1465,ooper-Jenkins,4,anada,367.8,71721,195,Halifax,2004
+1466,Dillon-Marty,4,China,87.01153846,22623,260,Shenzhen,2005
+1467,Ray Ltd,4,China,193.8918919,93262,481,Hangzhou,2010
+1468,"Ryan, Krause and Mithell",4,USA,155.9940299,52258,335,New York,2011
+1469,Nunez-Freeman,4,Germany,384.826087,26553,69,Essen,2003
+1470,"Griffin, Miller and Austin",4,anada,367.2172414,106493,290,algary,2010
+1471,Welh-Thomas,4,India,630.5145631,64943,103,Pune,2023
+1472,Davidson LL,4,USA,137.5946667,51598,375,San Antonio,2011
+1473,Welh-Dunan,4,Germany,143.9802372,36427,253,ologne,2001
+1474,Miller LL,4,anada,344.3333333,97102,282,Hamilton,2009
+1475,Edwards Ltd,4,anada,593.37,59337,100,algary,2018
+1476,Page-Jaobs,4,India,259.2172131,63249,244,Kolkata,2023
+1477,Nelson-Wallae,4,UK,1833.908046,159550,87,ardiff,2017
+1478,Adkins-Meyer,4,China,129.693617,30478,235,Nanjing,2004
+1479,Gutierrez-White,4,UK,699.2760417,134261,192,Glasgow,2017
+1480,Martinez and Sons,4,anada,128.7954545,34002,264,Toronto,2020
+1481,"King, Manning and Brady",4,Frane,375.121118,120789,322,Lyon,2000
+1482,Jakson In,4,India,163.1242604,27568,169,Jaipur,2007
+1483,Brown Group,4,China,621.5196078,63395,102,Nanjing,2012
+1484,"Brown, Wise and Warren",4,anada,293.2515723,93254,318,Hamilton,2004
+1485,Garia PL,4,UK,203.4114114,67736,333,Leeds,2013
+1486,Miller Group,4,India,169.6764706,46152,272,Delhi,2003
+1487,Perez-Rojas,4,China,335.9583333,32252,96,Beijing,2004
+1488,Sims-Anderson,4,USA,296.4505929,75002,253,Houston,2003
+1489,Johnson Ltd,4,Japan,279.4208754,82988,297,Osaka,2001
+1490,Dalton-Nguyen,4,Frane,241.787037,78339,324,Montpellier,2016
+1491,Mdonald-Pitts,4,UK,302.9491525,35748,118,London,2011
+1492,Dunn-Taylor,4,China,108.3852941,36851,340,Beijing,2006
+1493,"Ryan, Garza and Bryant",4,anada,135.3325301,56163,415,Montreal,2014
+1494,"Fields, Elliott and Mills",4,USA,199.0961039,76652,385,Philadelphia,2017
+1495,"Ferguson, Stout and Olson",4,Frane,1217.176471,41384,34,Nantes,2022
+1496,Ballard Group,4,UK,287.9789474,109432,380,Bristol,2001
+1497,Diaz-Green,4,China,151.9364754,74145,488,hengdu,2002
+1498,Smith-Mills,4,Japan,582.5357143,32622,56,Kawasaki,2003
+1499,ooper Group,4,Japan,787.7941176,80355,102,Kawasaki,2012
+1500,"Smith, Weeks and Arroyo",4,Japan,364.8863636,48165,132,Kawasaki,2021
+1501,Evans-annon,4,Germany,348.8517241,101167,290,Essen,2023
+1502,Harper-Robles,4,Frane,250.93,75279,300,Marseille,2020
+1503,"Brooks, Jenkins and astro",4,India,199.5681159,68851,345,Pune,2022
+1504,Wright-Espinoza,4,Frane,146.4682927,60052,410,Marseille,2005
+1505,"Prie, Gray and Baker",4,Germany,283.418251,74539,263,Essen,2012
+1506,Garrett-Blak,4,India,241.1153846,75228,312,Bangalore,2017
+1507,"Aguirre, ohen and Mithell",4,anada,181.2832168,51847,286,Edmonton,2010
+1508,"Patel, Adams and Lopez",4,India,233.6136364,92511,396,Kolkata,2013
+1509,White LL,4,Frane,430.5078125,55105,128,Nantes,2019
+1510,Walsh PL,4,Japan,218.1941545,104515,479,Kobe,2017
+1511,Nelson-Dean,4,UK,352.1666667,82407,234,Leeds,2014
+1512,Flores and Sons,4,Frane,2607.181818,57358,22,Paris,2023
+1513,Booker In,4,UK,177.2111111,47847,270,ardiff,2000
+1514,ompton LL,4,Germany,229.4936709,36260,158,ologne,2000
+1515,Martinez-Gonzales,4,Japan,22076.25,353220,16,Nagoya,2010
+1516,Hall and Sons,4,UK,132.4290657,38272,289,Bristol,2016
+1517,Snyder LL,4,Germany,430.3333333,103280,240,Munih,2001
+1518,ollins-Lloyd,4,India,277.1428571,38800,140,Bangalore,2004
+1519,Ford-Moody,4,India,389.75,48329,124,Jaipur,2007
+1520,Miller-hristensen,4,UK,108.9292929,32352,297,Glasgow,2002
+1521,Brown Group,4,Frane,121.7710526,46273,380,Lille,2006
+1522,Daniels and Sons,4,China,723.3548387,67272,93,hongqing,2015
+1523,Huang LL,4,anada,170.5436893,52698,309,Halifax,2003
+1524,layton-Martinez,4,UK,112.9712919,47222,418,London,2023
+1525,"Wright, Wise and Ramos",4,Frane,94.56302521,45012,476,Marseille,2001
+1526,"Vang, Gonzalez and Moss",4,India,391.5733945,85363,218,Kolkata,2013
+1527,Boyd and Sons,4,China,156.6902655,53118,339,Shenzhen,2023
+1528,Prie-Ali,4,USA,778.4409938,125329,161,San Antonio,2001
+1529,Moore-handler,4,USA,101.122449,29730,294,Philadelphia,2017
+1530,"Pineda, Meyer and King",4,Germany,263.1160221,95248,362,Stuttgart,2016
+1531,"Evans, Ward and Williams",4,Japan,162.2464183,56624,349,Yokohama,2001
+1532,"Robinson, Rodriguez and hen",4,Frane,118.735786,35502,299,Montpellier,2019
+1533,Smith-Bauer,4,China,699.7189542,107057,153,Shenzhen,2013
+1534,"Wilson, Mormik and Smith",4,Frane,822.5141243,145585,177,Lyon,2004
+1535,Perkins Ltd,4,China,180.0829016,69512,386,Wuhan,2018
+1536,Barker-Moore,4,USA,428.6330935,59580,139,Dallas,2012
+1537,Wright Group,4,China,146.3039648,33211,227,Tianjin,2016
+1538,Parks LL,4,Germany,66.02749141,19214,291,Hamburg,2015
+1539,"Brown, Kelly and Moore",4,Japan,142.5946746,48197,338,Kyoto,2012
+1540,"Moody, Martinez and Hall",4,Japan,178.6929134,68082,381,Kawasaki,2019
+1541,"Kramer, Sherman and Trujillo",4,Japan,356.5248227,50270,141,Nagoya,2002
+1542,Quinn-Smith,4,Frane,138.3514644,66132,478,Nantes,2021
+1543,Howard-Taylor,4,China,227.4814815,49136,216,Shanghai,2021
+1544,Washington Group,4,Frane,745.4607843,76037,102,Nantes,2011
+1545,"Phillips, Terry and Lopez",4,India,172.0235294,58488,340,Kolkata,2019
+1546,Stephens LL,4,USA,167.2934783,30782,184,Phoenix,2005
+1547,"Mdonald, Dillon and George",4,anada,619.6782609,142526,230,Halifax,2004
+1548,"Martin, Shmidt and ole",4,USA,190.456338,67612,355,Houston,2006
+1549,Weaver-Gibson,4,India,187.2199546,82564,441,Bangalore,2023
+1550,"Hunter, Gross and Andrade",4,China,2237.4375,71598,32,Shanghai,2023
+1551,"Vinent, Parsons and Allen",4,Japan,127.5077951,57251,449,Saitama,2004
+1552,"Brown, offey and Fuentes",4,UK,251.4138889,90509,360,London,2010
+1553,Warren Group,4,China,338.6300813,83303,246,hengdu,2014
+1554,"Moore, ampbell and Ortiz",4,USA,132.9399478,50916,383,Philadelphia,2006
+1555,Rodriguez-Mills,4,Japan,296.1470588,80552,272,Nagoya,2017
+1556,Williams and Sons,4,UK,148.0402477,47817,323,Bristol,2015
+1557,Russo and Sons,4,Germany,234.6270627,71092,303,Berlin,2012
+1558,Washington In,4,USA,832.1428571,29125,35,Phoenix,2005
+1559,Dunan Group,4,UK,150.1588785,48201,321,Liverpool,2022
+1560,"Burns, Hanson and Garza",4,UK,361.5647059,122932,340,London,2014
+1561,Diaz PL,4,USA,71.60058309,24559,343,Los Angeles,2012
+1562,"Jones, onrad and lark",4,UK,3712.5,51975,14,Leeds,2003
+1563,Hebert-ollier,4,UK,360.2663317,71693,199,Sheffield,2007
+1564,Owen-Brown,4,China,234.3392857,104984,448,hongqing,2015
+1565,"Paul, Zamora and Short",4,China,107.1455939,27965,261,Guangzhou,2006
+1566,"Brown, Jensen and Rie",4,anada,3381.125,54098,16,Hamilton,2022
+1567,"Jones, Torres and Blakburn",4,USA,761.6521739,122626,161,Houston,2016
+1568,"Davis, Hardy and Shmidt",4,India,302.5025907,116766,386,Pune,2012
+1569,Lee Ltd,4,Germany,108.3408451,38461,355,Berlin,2011
+1570,Hudson and Sons,4,India,177.327044,28195,159,Kolkata,2020
+1571,"urry, Perry and Garia",4,Japan,202.1666667,84910,420,Kawasaki,2008
+1572,"Ray, raig and Park",4,USA,198.5304348,91324,460,Phoenix,2012
+1573,Andrade-Jakson,4,USA,1802.441667,216293,120,Dallas,2008
+1574,Piere PL,4,Germany,133.2111437,45425,341,Stuttgart,2012
+1575,Sandoval-Ferguson,4,Germany,212.19,42438,200,Munih,2023
+1576,"Ramos, Gomez and Edwards",4,Japan,163.761745,48801,298,Kobe,2007
+1577,Kirk-Gutierrez,4,Germany,120.8042553,56778,470,D眉sseldorf,2009
+1578,"Jordan, Swanson and Franklin",4,India,766.0416667,55155,72,Pune,2017
+1579,"Gardner, Brooks and Piere",4,Japan,182.2659574,51399,282,Yokohama,2018
+1580,"King, Nixon and West",4,Japan,127.3977591,45481,357,Yokohama,2009
+1581,Smith-Johnson,4,Germany,139.5176471,47436,340,D眉sseldorf,2004
+1582,Larson-Holmes,4,Germany,314.6310345,91243,290,Stuttgart,2002
+1583,Smith-Joye,4,China,90.79723502,39406,434,Guangzhou,2010
+1584,Foley In,4,Germany,93.63296703,42603,455,Berlin,2010
+1585,"Short, Ellison and Dixon",4,Frane,558.5974026,129036,231,Strasbourg,2009
+1586,"Howe, Moore and Johnson",4,UK,1067.084746,62958,59,Birmingham,2006
+1587,Moore-Baker,4,Germany,317.9898734,125606,395,Hamburg,2000
+1588,"Wright, Sott and Evans",4,UK,230.8427673,73408,318,ardiff,2018
+1589,"Ross, Hardin and Navarro",4,Japan,184.1869919,22655,123,Saitama,2007
+1590,"Nguyen, Olson and Freeman",4,USA,169.7591036,60604,357,Philadelphia,2002
+1591,"Warner, Weiss and Davis",4,anada,118.9429224,52097,438,Vanouver,2016
+1592,"Evans, ross and Johnston",4,anada,79.92970522,35249,441,Edmonton,2005
+1593,Deleon LL,4,Frane,429.9466667,32246,75,Montpellier,2015
+1594,Hobbs-Hamilton,4,Germany,829.6190476,17422,21,Frankfurt,2007
+1595,Kane and Sons,4,Frane,125.9714868,61852,491,Paris,2008
+1596,"Delgado, Guzman and Smith",4,Frane,63.31609195,22034,348,Toulouse,2023
+1597,"Reyes, Torres and Williams",4,Japan,213.4631579,20279,95,Nagoya,2002
+1598,"unningham, Murphy and Wolfe",4,anada,243.0168067,86757,357,Halifax,2015
+1599,Williams Ltd,4,India,151.9865471,33893,223,Pune,2007
+1600,Maddox-Mullins,4,Frane,97.7664042,37249,381,Paris,2019
+1601,"Wagner, Walker and Roberts",4,Frane,235.918239,75022,318,Nantes,2012
+1602,Hernandez-Rogers,4,USA,393.1313559,92779,236,Dallas,2003
+1603,Dunan-Williams,4,anada,119.6074074,32294,270,Toronto,2007
+1604,Baker-Ross,4,Frane,96.37931034,19565,203,Paris,2017
+1605,Ayala-Anderson,4,USA,541.1434783,124463,230,Houston,2009
+1606,astillo and Sons,4,Frane,290.2655602,69954,241,Nie,2009
+1607,Foster-Dunan,4,Germany,286.2044025,91013,318,D眉sseldorf,2009
+1608,"Gilbert, Fitzgerald and Sanhez",4,USA,258.2520661,62497,242,Dallas,2004
+1609,Adams Group,4,anada,232.7509579,60748,261,Montreal,2023
+1610,ohen-Johnston,4,China,91.64536082,44448,485,Guangzhou,2018
+1611,Powers Group,4,Germany,223.1705882,37939,170,D眉sseldorf,2013
+1612,Bailey-Flores,4,anada,546.7299578,129575,237,Toronto,2005
+1613,"Rios, arrillo and Jakson",4,Japan,201.7443609,26832,133,Kyoto,2002
+1614,Jensen-Branh,4,India,147.2447368,55953,380,Bangalore,2022
+1615,Hanson-Alexander,4,China,70.5273224,25813,366,Shanghai,2003
+1616,Gonzalez LL,4,anada,132.8901099,36279,273,Edmonton,2002
+1617,Todd In,4,Frane,133.3075356,65454,491,Bordeaux,2019
+1618,Singh and Sons,4,Germany,437.3819095,87039,199,D眉sseldorf,2017
+1619,"Mintosh, Melton and Wilkins",4,USA,97.40816327,28638,294,hiago,2010
+1620,ooper In,4,Germany,1035.3125,99390,96,Hamburg,2004
+1621,ole-Johnson,4,USA,583.9202454,95179,163,San Antonio,2009
+1622,Singh and Sons,4,anada,950.5463918,92203,97,Ottawa,2020
+1623,Payne LL,4,China,18105.16667,108631,6,Guangzhou,2006
+1624,"Webb, Blair and Thomas",4,UK,190.1776062,49256,259,London,2014
+1625,"Barnett, Bennett and Esobar",4,anada,533.2689873,168513,316,Hamilton,2000
+1626,"Williams, Jakson and ampbell",4,anada,194.6928105,59576,306,algary,2006
+1627,"Williamson, Brown and Pena",4,anada,301.1731602,69571,231,Quebe ity,2013
+1628,Jones Ltd,4,China,7452.5,59620,8,Hangzhou,2019
+1629,Alvarado-Durham,4,Japan,87.78881988,28268,322,Kawasaki,2008
+1630,Lin-Smith,4,Japan,792.1,63368,80,Tokyo,2005
+1631,"Hughes, Whitney and Romero",4,USA,420.8227848,33245,79,Philadelphia,2001
+1632,"Garia, Stewart and Delaruz",4,USA,252.0764331,39576,157,San Jose,2019
+1633,"Miller, Gonzalez and Rasmussen",4,India,808.8,48528,60,Delhi,2001
+1634,"House, Smith and Wright",4,Frane,354.504298,123722,349,Lyon,2005
+1635,"Torres, Burns and Garner",4,UK,202.902507,72842,359,ardiff,2021
+1636,Reed LL,4,Germany,236.6744186,71239,301,Dortmund,2023
+1637,Garrett-Young,4,India,173.6582915,69116,398,Mumbai,2002
+1638,"Hill, Brown and Sott",4,UK,165.6185345,76847,464,Leeds,2011
+1639,Zamora-Briggs,4,Frane,79.77522936,34782,436,Marseille,2013
+1640,Raymond LL,4,China,799.6849315,58377,73,hengdu,2015
+1641,Hernandez Group,4,China,166.879562,45725,274,hengdu,2010
+1642,"Taylor, Blair and Meyer",4,Frane,136.2520776,49187,361,Bordeaux,2006
+1643,"Salazar, Garrett and Perez",4,Japan,941.9833333,56519,60,Saitama,2001
+1644,Berry Group,4,China,84.49579832,30165,357,Wuhan,2023
+1645,Browning-Murphy,4,UK,180.690205,79323,439,Sheffield,2019
+1646,"Anderson, Delgado and arpenter",4,India,151.8227425,45395,299,hennai,2016
+1647,"Mbride, Huffman and Parker",4,India,154.2150171,45185,293,Bangalore,2019
+1648,"Roah, Browning and Jordan",4,anada,513.7256098,168502,328,Hamilton,2023
+1649,Douglas PL,4,anada,41.57111597,18998,457,Quebe ity,2005
+1650,Stewart PL,4,Japan,18253.4,91267,5,Sapporo,2006
+1651,"Fry, Wilson and Stewart",4,China,122.28,39741,325,Beijing,2014
+1652,Aosta LL,4,China,387.6774194,84126,217,Shenzhen,2019
+1653,Ali-Turner,4,Frane,311.8315217,57377,184,Paris,2010
+1654,"Pek, Shannon and Mahoney",4,Japan,590.4907407,63773,108,Tokyo,2020
+1655,Hernandez-Lopez,4,UK,802.3209877,129976,162,Glasgow,2002
+1656,Lopez PL,4,UK,307.4588235,52268,170,Bristol,2017
+1657,"Adams, Bradley and Hall",4,USA,448.7885714,78538,175,Los Angeles,2021
+1658,Hall In,4,India,359.2939189,106351,296,Ahmedabad,2023
+1659,Miller-han,4,USA,477.7988506,83137,174,hiago,2006
+1660,Shaw PL,4,India,85.12590799,35157,413,Pune,2015
+1661,Joseph-Brooks,4,USA,477.0357143,40071,84,hiago,2015
+1662,Henry-Taylor,4,anada,307.8547718,74193,241,Hamilton,2010
+1663,Perez Group,4,Frane,637.5949367,100740,158,Paris,2016
+1664,Shaefer Group,4,India,4114.928571,57609,14,Surat,2017
+1665,Newton and Sons,4,Japan,268.4022989,46702,174,Saitama,2021
+1666,Jones Group,4,India,255.2027027,37770,148,Delhi,2004
+1667,"Burns, Nguyen and Ellis",4,USA,381.4338462,123966,325,Philadelphia,2012
+1668,Patterson In,4,Germany,712.995098,145451,204,Leipzig,2019
+1669,"Moss, James and Edwards",4,Germany,67.44966443,30150,447,Leipzig,2003
+1670,"rosby, Armstrong and Herrera",4,UK,11184.19048,234868,21,Leeds,2022
+1671,"Liu, Buhanan and Meyer",4,UK,186.7876448,48378,259,Sheffield,2002
+1672,Bryant-Rih,4,Japan,272.4335664,116874,429,Fukuoka,2014
+1673,Stone Group,4,UK,678.1572327,107827,159,Liverpool,2016
+1674,"Williams, Hughes and Hubbard",4,Germany,263.0221675,106787,406,Munih,2011
+1675,Lee Group,4,USA,312.9353448,72601,232,Houston,2002
+1676,Wilkerson-Ayala,4,USA,549.373494,45598,83,San Diego,2016
+1677,Murray-Henderson,4,Japan,207.4789474,78842,380,Fukuoka,2015
+1678,"Ellison, Vaughn and Mkee",4,UK,156.4095477,62251,398,Leeds,2004
+1679,Gallegos-Hayes,4,China,452.0694444,32549,72,Nanjing,2021
+1680,"Mason, White and Rihards",4,Japan,92.42857143,18763,203,Tokyo,2014
+1681,"Payne, Long and Morris",4,China,142.3672199,68621,482,Beijing,2009
+1682,White PL,4,USA,255.2628571,44671,175,San Jose,2002
+1683,"Huang, Khan and Davis",4,anada,163.1734317,44220,271,Toronto,2003
+1684,Holt-Meadows,4,UK,189.3740458,74424,393,London,2018
+1685,Higgins In,4,UK,320.728972,34318,107,Liverpool,2010
+1686,Wilson Group,4,Japan,119.9638989,33230,277,Sapporo,2008
+1687,"ox, Mills and ruz",4,India,2304.661538,149803,65,Pune,2021
+1688,"Salazar, Moore and Piere",4,UK,717.7172414,104069,145,Birmingham,2005
+1689,Tate LL,4,China,178.7010309,52002,291,Beijing,2019
+1690,"Savage, Huffman and Martin",4,China,540.3152174,99418,184,Shenzhen,2017
+1691,White Ltd,4,India,125.6632444,61198,487,hennai,2004
+1692,Barnes LL,4,UK,1189.565217,109440,92,ardiff,2007
+1693,"Mak, Griffin and Sims",4,China,171.1236443,78888,461,hengdu,2019
+1694,Roah and Sons,4,India,819.1333333,24574,30,Surat,2014
+1695,Dean LL,4,Germany,96.4496788,45042,467,Berlin,2015
+1696,Ellis Group,4,USA,1119.03125,35809,32,Los Angeles,2012
+1697,"Aguirre, Franklin and Snyder",4,China,267.1979167,25651,96,Tianjin,2012
+1698,hapman Group,4,anada,243.6280488,39955,164,Halifax,2011
+1699,Ortiz-Miller,4,India,194.7531807,76538,393,Hyderabad,2022
+1700,"Smith, Khan and Ramirez",4,China,445.9583333,32109,72,Wuhan,2018
+1701,"Grant, Bryan and Williams",4,China,85.07142857,20247,238,Wuhan,2003
+1702,Brown LL,4,UK,207.6666667,25543,123,Edinburgh,2015
+1703,Thomas In,4,Japan,394.1970803,54005,137,Yokohama,2019
+1704,"Lane, Morrison and Rivera",4,India,248.953168,90370,363,Ahmedabad,2005
+1705,Williams Group,4,India,247.7913386,62939,254,Kolkata,2014
+1706,Martin LL,4,USA,972.3870968,60288,62,Los Angeles,2015
+1707,"Guerrero, Graves and Armstrong",4,India,125.716895,55064,438,Pune,2014
+1708,"Thompson, Gibson and Riley",4,Germany,347.4044586,109085,314,ologne,2011
+1709,Davis LL,4,Germany,206.0471698,43682,212,Essen,2003
+1710,Rihardson-Gray,4,China,284.9762611,96037,337,hongqing,2017
+1711,hang PL,4,China,144.8755187,34915,241,hengdu,2017
+1712,arter and Sons,4,Frane,257.3149606,32679,127,Lille,2013
+1713,Neal LL,4,Japan,535.6653386,134452,251,Kawasaki,2005
+1714,Rose-Warren,4,Frane,755.3693694,83846,111,Marseille,2010
+1715,"lark, Brown and Dunan",4,Frane,106.1764706,43320,408,Strasbourg,2018
+1716,"Rie, Miller and Ramsey",4,India,248.416,31052,125,Surat,2022
+1717,"Pek, Andersen and Mithell",4,Germany,109.037422,52447,481,Munih,2023
+1718,"Abbott, Green and Andrews",4,anada,92.78709677,28764,310,Montreal,2018
+1719,"Gomez, Anderson and Hart",4,anada,1440.351852,77779,54,Edmonton,2017
+1720,"Daniel, Jimenez and Morton",4,anada,74.41295547,36760,494,Vanouver,2009
+1721,"Hall, Roberts and Lee",4,Frane,640.2333333,38414,60,Marseille,2019
+1722,Johnson Ltd,4,Frane,97.20895522,32565,335,Nantes,2015
+1723,Mlaughlin and Sons,4,USA,170.7352246,72221,423,Los Angeles,2006
+1724,"Duarte, Gutierrez and ook",4,Germany,336.3866348,140946,419,Leipzig,2020
+1725,"Shaffer, Lewis and Davidson",4,USA,607.5432099,49211,81,hiago,2021
+1726,"ampbell, Tyler and Parker",4,anada,255.3676471,52095,204,Hamilton,2009
+1727,"Piere, Wang and Wilson",4,anada,219.2521246,77396,353,algary,2006
+1728,Peterson-Ramsey,4,India,78.23844282,32156,411,hennai,2018
+1729,"hoi, ollier and Lee",4,UK,346.2727273,163787,473,Sheffield,2022
+1730,Nielsen-Mendoza,4,India,3740.111111,33661,9,Delhi,2018
+1731,Robles-Brewer,4,Frane,2820.083333,101523,36,Lyon,2009
+1732,Moore-Murray,4,India,13244.6,66223,5,Surat,2001
+1733,"Huang, Ford and Olsen",4,India,64.83482143,29046,448,Delhi,2009
+1734,"Brown, Meyer and unningham",4,USA,142.2994505,51797,364,Houston,2013
+1735,"Stewart, Herrera and lark",4,Frane,113.92,22784,200,Nantes,2022
+1736,"Rivera, Hendriks and Flynn",4,Frane,306.6443662,87087,284,Strasbourg,2013
+1737,Montes LL,4,Japan,642.7631579,48850,76,Yokohama,2015
+1738,Morgan Group,4,Japan,269.6238532,117556,436,Kawasaki,2012
+1739,"Ferguson, Martin and Obrien",4,India,129.7828947,19727,152,Ahmedabad,2004
+1740,Larson LL,4,Germany,966.0487805,39608,41,Hamburg,2000
+1741,"Hodge, Mkinney and Nelson",4,USA,90.63537118,41511,458,hiago,2023
+1742,rawford and Sons,4,anada,3207.916667,153980,48,Winnipeg,2004
+1743,Hayes-Sampson,4,Germany,84.36796537,38978,462,D眉sseldorf,2014
+1744,Warren and Sons,4,Frane,153.0379747,36270,237,Lille,2005
+1745,Brooks In,4,Frane,309.0746269,62124,201,Bordeaux,2014
+1746,Gentry Group,4,India,305.5990991,67843,222,Hyderabad,2005
+1747,"Johnson, Webb and Porter",4,USA,76.20547945,33378,438,San Jose,2015
+1748,Peterson Group,4,Japan,231.0139535,49668,215,Kawasaki,2008
+1749,"Russo, ollins and Murphy",4,India,196.2745763,57901,295,Mumbai,2001
+1750,Short PL,4,anada,217.794702,65774,302,Edmonton,2003
+1751,"Haney, Harris and Johnson",4,anada,267.9285714,101277,378,Montreal,2004
+1752,Reeves-Boyd,4,UK,1174.666667,52860,45,Edinburgh,2016
+1753,ollins In,4,China,279.1192661,91272,327,Shenzhen,2015
+1754,"harles, Wiggins and ook",4,China,617.5060976,101271,164,Nanjing,2018
+1755,Garia Ltd,4,USA,189.3101737,76292,403,Philadelphia,2017
+1756,"Edwards, Lane and ollins",4,USA,388.82397,103816,267,San Diego,2014
+1757,Flores and Sons,4,anada,210.3505747,36601,174,Halifax,2023
+1758,Hill-Flores,4,Frane,745.9084967,114124,153,Nantes,2009
+1759,Lambert-Nelson,4,Germany,139.2809224,66437,477,Berlin,2022
+1760,Hill In,4,UK,958.2777778,34498,36,ardiff,2008
+1761,"astro, Garia and Daniels",4,anada,126.114094,37582,298,Halifax,2005
+1762,"Flores, Thomas and Bush",4,USA,207.2623457,67153,324,Phoenix,2023
+1763,Andrews-Jakson,4,USA,2049.851064,96343,47,Phoenix,2015
+1764,Austin-Morgan,4,Germany,63.34090909,27870,440,Essen,2002
+1765,Williams-Johnson,4,UK,131.684375,42139,320,Glasgow,2004
+1766,"Williams, Reyes and Miller",4,UK,1750.083333,21001,12,Glasgow,2008
+1767,White-arlson,4,China,94.31276596,44327,470,Hangzhou,2005
+1768,"Soto, Vaughn and Griffin",4,Germany,323.645933,135284,418,Dortmund,2011
+1769,Edwards-Roth,4,Germany,251.752,31469,125,ologne,2022
+1770,"hang, Lamb and Miller",4,anada,83.08295964,37055,446,Vanouver,2016
+1771,Bradley-Davis,4,USA,186.282,93141,500,Philadelphia,2002
+1772,"Mdonald, Bryant and ohen",4,Germany,243.8152425,105572,433,Leipzig,2004
+1773,"Miranda, Ruiz and Meza",4,anada,537.0396825,67667,126,Winnipeg,2012
+1774,allahan PL,4,anada,153.2433333,45973,300,Vanouver,2006
+1775,Durham-Myers,4,India,405.3928571,56755,140,Mumbai,2020
+1776,"Stark, Rivera and Valenia",4,China,191.7561983,46405,242,Beijing,2005
+1777,havez-Johnson,4,Frane,299.483871,74272,248,Montpellier,2009
+1778,Rodriguez-Mendoza,4,Japan,306.715847,112258,366,Kobe,2021
+1779,ampbell LL,4,Frane,1015.962025,80261,79,Montpellier,2008
+1780,"Andrews, Romero and Sullivan",4,Frane,140.0730689,67095,479,Paris,2009
+1781,"Robles, Nguyen and Banks",4,anada,150.4036145,24967,166,Winnipeg,2021
+1782,Patel-Morales,4,USA,159.9033233,52928,331,Los Angeles,2017
+1783,Allen-Sanhez,4,India,168.2757895,79931,475,Ahmedabad,2019
+1784,Dikson Group,4,UK,514.9432624,72607,141,Leeds,2008
+1785,Peterson Ltd,4,China,117.5,35720,304,hengdu,2020
+1786,"Reynolds, Baird and Bradley",4,Frane,122.1752577,47404,388,Montpellier,2021
+1787,Stephens-Young,4,Japan,343.1143911,92984,271,Saitama,2006
+1788,"aldwell, Stevenson and Joseph",4,India,231.3298246,65929,285,Bangalore,2010
+1789,Wilson-arlson,4,USA,4956.090909,54517,11,New York,2002
+1790,Peters-Short,4,Frane,842.5689655,48869,58,Marseille,2016
+1791,Parker Group,4,anada,155.106383,58320,376,Edmonton,2007
+1792,George Ltd,4,UK,1391.545455,30614,22,Glasgow,2006
+1793,"Wise, Gray and Snyder",4,USA,2818.294118,95822,34,San Jose,2002
+1794,"Brown, Robinson and Taylor",4,Japan,426.2835821,28561,67,Saitama,2020
+1795,"Berger, Fields and Smith",4,China,1078.957746,76606,71,Shanghai,2019
+1796,Guerrero Group,4,Frane,421.1857451,195009,463,Lille,2005
+1797,"arter, Gilbert and West",4,China,168.683871,26146,155,Guangzhou,2008
+1798,Maldonado LL,4,anada,122.07173,28931,237,Montreal,2020
+1799,Hudson-Gentry,4,UK,109.5267666,51149,467,Sheffield,2022
+1800,Sellers-Zuniga,4,India,128.6658416,51981,404,hennai,2005
+1801,"Haas, ooper and Davis",4,China,321.9,64380,200,hengdu,2001
+1802,arr PL,4,Frane,739.0437956,101249,137,Nantes,2001
+1803,Abbott-Phelps,4,UK,1929.25,77170,40,Birmingham,2014
+1804,Wood PL,4,anada,233.6456311,48131,206,algary,2019
+1805,Smith PL,4,Germany,1325.025641,103352,78,Dortmund,2003
+1806,Rodriguez-ampbell,4,Frane,158.9131737,53077,334,Toulouse,2019
+1807,Young Ltd,4,China,478.5985401,65568,137,Wuhan,2022
+1808,"Long, Flores and Reyes",4,China,2114,86674,41,Beijing,2002
+1809,Graham-lark,4,UK,151.674569,70377,464,Edinburgh,2000
+1810,Wells and Sons,4,anada,171.8493976,57054,332,Vanouver,2020
+1811,"ruz, Middleton and Larsen",4,USA,144.6568627,29510,204,New York,2021
+1812,Roberts Ltd,4,UK,472.8843931,81809,173,Birmingham,2022
+1813,Taylor In,4,Frane,184.119403,49344,268,Lille,2000
+1814,"Smith, Griffith and Tuker",4,anada,469.9336493,99156,211,Quebe ity,2013
+1815,Protor-Taylor,4,China,4307.5,25845,6,Nanjing,2007
+1816,May Group,4,Frane,130.9525424,38631,295,Montpellier,2003
+1817,English-Dominguez,4,India,670.8375,107334,160,Kolkata,2021
+1818,Hanson-Gibson,4,Frane,91.80606061,45444,495,Paris,2020
+1819,Arnold-ole,4,China,168.2426304,74195,441,hongqing,2017
+1820,Perez-oleman,4,India,118.8071066,46810,394,Delhi,2014
+1821,Lane Ltd,4,UK,309.7534722,89209,288,Liverpool,2005
+1822,Joseph LL,4,USA,216.2843137,22061,102,San Antonio,2021
+1823,House-Johnston,4,UK,203.4281346,66521,327,Sheffield,2003
+1824,Good PL,4,India,193.0371179,88411,458,Pune,2002
+1825,Bush-Wilson,4,anada,1752.826087,40315,23,algary,2004
+1826,Nixon-Miller,4,Japan,185.6071429,57167,308,Tokyo,2023
+1827,"Simon, Terrell and Terrell",4,Japan,1691.918919,62601,37,Kyoto,2012
+1828,Marshall-Miller,4,UK,220.3206413,109940,499,Edinburgh,2017
+1829,"Davis, Kennedy and Harmon",4,anada,239.3820225,42610,178,Toronto,2001
+1830,"Miller, Shultz and Yates",4,USA,10934.96154,284309,26,Philadelphia,2023
+1831,Austin-Berger,4,Frane,78.95215311,33002,418,Marseille,2006
+1832,"Osborne, Harrison and Hunt",4,anada,125.3958333,48152,384,Hamilton,2004
+1833,Berry-Rivera,4,Japan,116.6010499,44425,381,Osaka,2001
+1834,Yu-Yates,4,Germany,2484.071429,34777,14,Dortmund,2020
+1835,Jakson-Neal,4,anada,226.9224806,29273,129,Halifax,2001
+1836,"urry, Aosta and Elliott",4,Germany,218.8810976,71793,328,Berlin,2005
+1837,Soto PL,4,USA,326.9957983,77825,238,Phoenix,2003
+1838,Berry Ltd,4,Germany,162.4160757,68702,423,Leipzig,2002
+1839,Lamb-Weber,4,China,298.9417476,92373,309,Shanghai,2015
+1840,Washington-Martinez,4,Japan,840.2780269,187382,223,Osaka,2006
+1841,York LL,4,India,1991.712121,131453,66,Ahmedabad,2010
+1842,Anderson-ampbell,4,Germany,61.12373737,24205,396,Stuttgart,2006
+1843,Smith-Rodriguez,4,USA,384.4772727,67668,176,San Jose,2005
+1844,Kent Ltd,4,China,772.3506494,59471,77,Shanghai,2008
+1845,Hopkins LL,4,Frane,342.6443299,66473,194,Lyon,2022
+1846,Green Ltd,4,Germany,138.292887,66104,478,Dortmund,2007
+1847,Washington PL,4,USA,44.08536585,18075,410,hiago,2003
+1848,ooper In,4,Frane,264.8021978,120485,455,Lyon,2000
+1849,Larson and Sons,4,anada,7762.375,62099,8,Montreal,2000
+1850,Mullins-Gutierrez,4,Germany,178.1538462,60216,338,Munih,2022
+1851,Young-Alexander,4,UK,140.0143541,58526,418,Sheffield,2022
+1852,"Jakson, Lane and Wilkinson",4,anada,1101.474359,85915,78,Vanouver,2006
+1853,May In,4,UK,246.0232558,52895,215,Bristol,2014
+1854,Jakson Group,4,Japan,462.8579387,166166,359,Yokohama,2019
+1855,Turner-Reese,4,USA,54.83064516,20397,372,San Jose,2005
+1856,"Hall, Vega and Prie",4,anada,117.3496933,38256,326,Halifax,2002
+1857,Thomas-Berg,4,UK,11616.14286,81313,7,Leeds,2013
+1858,Roberts Group,4,Japan,177.3949275,48961,276,Nagoya,2003
+1859,Gregory-Nixon,4,China,121.3811659,54136,446,Hangzhou,2011
+1860,"Blanhard, Davis and Shmidt",4,Japan,57.17836257,19555,342,Kyoto,2020
+1861,Blanhard-Reynolds,4,Japan,890.6923077,92632,104,Sapporo,2001
+1862,"Garrison, Rogers and Adams",4,China,119.5354691,52237,437,Guangzhou,2021
+1863,Sott PL,4,anada,475.8837209,40926,86,Quebe ity,2005
+1864,Murray-Leonard,4,USA,179.8481675,34351,191,New York,2020
+1865,Navarro PL,4,UK,255.075188,33925,133,Liverpool,2013
+1866,Meyer Ltd,4,India,4368,117936,27,Jaipur,2014
+1867,"Kaiser, Edwards and Smith",4,China,308.0526316,29265,95,Beijing,2017
+1868,Deker In,4,Germany,185.4962687,49713,268,Berlin,2015
+1869,Davis-Garia,4,China,132.5935829,49590,374,Shanghai,2007
+1870,Bell-Hardy,4,anada,201.2748538,34418,171,Halifax,2018
+1871,Lee-Johnson,4,Frane,221.019943,77578,351,Toulouse,2023
+1872,Brown PL,4,India,224.8304094,38446,171,Hyderabad,2003
+1873,"Shannon, Robinson and Greene",4,Japan,85.30890052,32588,382,Osaka,2007
+1874,Erikson In,4,Frane,155.3427332,71613,461,Toulouse,2012
+1875,Gates and Sons,4,Japan,256.8618421,78086,304,Osaka,2015
+1876,Douglas-Yoder,4,anada,419.2911392,33124,79,Toronto,2013
+1877,"Pratt, Lopez and Rodriguez",4,Japan,804.2291667,77206,96,Saitama,2014
+1878,King Group,4,Frane,166.0334728,39682,239,Nantes,2004
+1879,"Mayer, Fowler and Livingston",4,Japan,476.6203704,51475,108,Fukuoka,2008
+1880,Hammond-Shwartz,4,India,145.4233983,52207,359,Bangalore,2001
+1881,"arrillo, Morris and Martin",4,USA,427.557377,26081,61,Phoenix,2004
+1882,Ramirez In,4,anada,1192.358696,109697,92,Quebe ity,2013
+1883,Prie-Ferrell,4,India,234.156051,73525,314,Hyderabad,2009
+1884,Sosa-Baker,4,Germany,325.0533333,97516,300,Leipzig,2005
+1885,Jones-Krause,4,Japan,144.0993228,63836,443,Osaka,2013
+1886,Bishop and Sons,4,anada,338.0566802,83500,247,algary,2018
+1887,"Vasquez, Thomas and Mak",4,anada,112.8888889,42672,378,Ottawa,2000
+1888,Mendez In,4,Frane,150.122093,25821,172,Toulouse,2007
+1889,Baldwin-Garia,4,Frane,100.2429501,46212,461,Lille,2007
+1890,Jones Ltd,4,Germany,192.9266055,42058,218,Leipzig,2000
+1891,Waters-Smith,4,USA,199.6947368,75884,380,New York,2015
+1892,Hernandez-Bowman,4,USA,213.3786408,43956,206,San Antonio,2016
+1893,Ortega LL,4,anada,181.2325581,46758,258,Montreal,2014
+1894,Graves Group,4,Japan,125.9717949,49129,390,Osaka,2017
+1895,"Smith, Zimmerman and Wise",4,USA,1084.041667,78051,72,San Antonio,2006
+1896,Graham-Anthony,4,India,197.125,66234,336,hennai,2007
+1897,Fernandez In,4,China,239.8184438,83217,347,Beijing,2015
+1898,Finley-Meyers,4,UK,372.2208333,89333,240,Birmingham,2022
+1899,Martinez-Nihols,4,USA,114.11,45644,400,San Diego,2014
+1900,ook-Turner,4,Germany,186.4498778,76258,409,D眉sseldorf,2005
+1901,hen Ltd,4,India,243.8176292,80216,329,Pune,2022
+1902,Diaz LL,4,USA,135.5800866,62638,462,Los Angeles,2012
+1903,Randall LL,4,India,469.5833333,73255,156,Surat,2001
+1904,"Harris, Spener and Pone",4,Frane,40.57668712,19842,489,Nie,2022
+1905,"Lee, Dominguez and Mosley",4,Japan,132.1054945,60108,455,Osaka,2019
+1906,"Barker, Tuker and Mlure",4,India,54.08179959,26446,489,Mumbai,2016
+1907,Moss-Taylor,4,India,213.7014925,42954,201,Mumbai,2003
+1908,Johnson PL,4,India,683.48,17087,25,Pune,2019
+1909,Burns In,4,India,179.172619,60202,336,Kolkata,2005
+1910,"Shneider, Porter and Hanna",4,China,326.7082294,131010,401,Nanjing,2022
+1911,Levy-Smith,4,Japan,299.4015748,38024,127,Yokohama,2010
+1912,Brown-Frenh,4,China,99.26597938,48144,485,Wuhan,2023
+1913,Sullivan and Sons,4,Japan,369.7675676,68407,185,Nagoya,2010
+1914,"ontreras, Ellis and Gregory",4,UK,479.5656109,105984,221,Bristol,2021
+1915,"Hernandez, Riley and Bukley",4,UK,396.0820513,77236,195,London,2002
+1916,Moss Group,4,India,261.7241379,68310,261,Pune,2015
+1917,"Smith, Meadows and Montgomery",4,China,112.9638989,31291,277,Wuhan,2022
+1918,Haynes and Sons,4,UK,265.5699482,51255,193,Edinburgh,2019
+1919,Jakson In,4,China,715.9387755,35081,49,Shenzhen,2014
+1920,Hoover-Davis,4,China,278.4539474,42325,152,Tianjin,2005
+1921,"Jakson, Garza and Meyers",4,China,265.630137,38782,146,Shanghai,2005
+1922,Wilson PL,4,China,805.0609756,66015,82,Guangzhou,2015
+1923,"Walker, Brok and Simmons",4,Japan,1885.125,30162,16,Kawasaki,2020
+1924,"Gregory, Nguyen and Daugherty",4,UK,480.4468085,135486,282,Sheffield,2021
+1925,"Gardner, Morris and Oonnell",4,Germany,302.8136364,66619,220,Dortmund,2011
+1926,Duran PL,4,anada,438.4455446,44283,101,Toronto,2009
+1927,Rogers In,4,China,84.29398148,36415,432,Beijing,2007
+1928,Thomas-Perry,4,India,286.9055556,51643,180,Ahmedabad,2018
+1929,"Wood, Martin and Sanhez",4,India,133.0898551,45916,345,Pune,2018
+1930,"Williams, Garia and Boone",4,anada,291.5694915,86013,295,Quebe ity,2009
+1931,"Bennett, Moore and Hobbs",4,Germany,208.2885086,85190,409,ologne,2005
+1932,Smith and Sons,4,UK,360.5435897,70306,195,Liverpool,2015
+1933,Mann PL,4,UK,309.8,57313,185,London,2004
+1934,Butler-Aguirre,4,UK,116.4953271,37395,321,Edinburgh,2005
+1935,Shwartz-Harris,4,Germany,566.1836735,55486,98,Essen,2009
+1936,"Nelson, ole and Allen",4,Germany,463.2460317,58369,126,Hamburg,2005
+1937,Bishop In,4,China,309.5284281,92549,299,Beijing,2010
+1938,"White, Porter and lements",4,Germany,509.7886598,98899,194,Dortmund,2008
+1939,"Serrano, Turner and Barnes",4,Germany,217.9918256,80003,367,Frankfurt,2017
+1940,"Young, Wilson and Moreno",4,USA,1538.95,123116,80,Philadelphia,2011
+1941,Montgomery PL,4,India,1254.522727,110398,88,Pune,2017
+1942,"Robinson, Townsend and Hopkins",4,UK,596.1509434,126384,212,Manhester,2000
+1943,Brown-Rodriguez,4,anada,194.2791667,93254,480,Vanouver,2014
+1944,Jennings Group,4,India,307.7389034,117864,383,Bangalore,2000
+1945,Thompson-Santiago,4,India,110.2181425,51031,463,hennai,2015
+1946,Brown LL,4,UK,588.4875,47079,80,ardiff,2021
+1947,lark-King,4,anada,1429.16129,88608,62,Edmonton,2022
+1948,"Trujillo, hang and Williams",4,anada,819.28125,288387,352,Toronto,2004
+1949,"Williams, Medina and Moore",4,China,370.1238095,77726,210,hengdu,2000
+1950,Washington In,4,Japan,665.0192308,34581,52,Kyoto,2011
+1951,Jaobson Ltd,4,India,250.2432432,83331,333,Mumbai,2019
+1952,Watkins-Nguyen,4,Japan,453.3728814,53498,118,Saitama,2016
+1953,Burgess LL,4,UK,2478.170213,116474,47,Liverpool,2000
+1954,Maxwell LL,4,anada,191.9223301,39536,206,Montreal,2016
+1955,Garia Ltd,4,Japan,385.5079872,120664,313,Kyoto,2010
+1956,Kane-Bennett,4,USA,254.975,20398,80,Philadelphia,2012
+1957,Jones PL,4,Frane,323.7948718,63140,195,Nantes,2012
+1958,Brown-Graham,4,USA,207.7717391,38230,184,Phoenix,2011
+1959,Reilly Group,4,UK,368.6938776,18066,49,Edinburgh,2017
+1960,Hughes and Sons,4,Japan,351.0737327,76183,217,Kyoto,2023
+1961,ortez-hen,4,anada,166.2422062,69323,417,Ottawa,2005
+1962,Harris-Martinez,4,Frane,89.62731481,38719,432,Strasbourg,2004
+1963,"arroll, Ramirez and Rodriguez",4,China,777.73125,124437,160,Guangzhou,2006
+1964,Ellis-Jakson,4,anada,844.1578947,32078,38,Hamilton,2010
+1965,Robinson-Phillips,4,Frane,292.7897196,62657,214,Marseille,2000
+1966,larke Ltd,4,UK,373.432526,107922,289,Sheffield,2005
+1967,"Whitehead, Lane and Tran",4,anada,951.4672897,101807,107,Halifax,2004
+1968,Miller PL,4,Germany,370.5208333,106710,288,D眉sseldorf,2009
+1969,Atkins-Robinson,4,anada,272.4976852,117719,432,Toronto,2009
+1970,Hood-Ramirez,4,UK,215.9686684,82716,383,Edinburgh,2017
+1971,"Patterson, Salas and Wright",4,anada,73.72682927,30228,410,algary,2000
+1972,Riley-Snow,4,USA,240.0506329,37928,158,hiago,2008
+1973,"Shah, Mintyre and Villanueva",4,anada,222.7826087,76860,345,Montreal,2020
+1974,Baird-Williams,4,UK,92.27734375,23623,256,Sheffield,2005
+1975,Quinn-Gordon,4,Japan,199.510101,79006,396,Tokyo,2003
+1976,Shmidt-Mendoza,4,UK,234.9324759,73064,311,Edinburgh,2002
+1977,"Niholson, havez and Allen",4,India,153.2482993,45055,294,Jaipur,2015
+1978,"Mullins, Steele and Russell",4,Frane,73.42977528,26141,356,Nie,2020
+1979,Anderson LL,4,anada,184.5318352,49270,267,Montreal,2011
+1980,Holland In,4,USA,173.4735099,52389,302,Phoenix,2005
+1981,astillo LL,4,USA,299.9377593,72285,241,hiago,2010
+1982,Warner PL,4,Germany,2299.15625,73573,32,Stuttgart,2005
+1983,"Silva, Bray and Ford",4,UK,74.93333333,24728,330,Leeds,2013
+1984,Sawyer Group,4,India,301.5194805,46434,154,Mumbai,2009
+1985,larke LL,4,China,126.3979849,50180,397,Nanjing,2006
+1986,"Marshall, Shultz and Dalton",4,Germany,79.35128205,30947,390,Munih,2019
+1987,ruz Ltd,4,Germany,91.86474501,41431,451,Essen,2010
+1988,Shmidt-Phillips,4,India,193.0225352,68523,355,hennai,2008
+1989,Wolfe-Salazar,4,India,280.2591362,84358,301,Delhi,2017
+1990,"Norton, Frenh and Miller",4,India,1855.666667,139175,75,Bangalore,2000
+1991,Fitzgerald-Brown,4,UK,274.7813953,59078,215,Leeds,2015
+1992,"ox, Williams and Reyes",4,India,479.3017241,55599,116,Bangalore,2003
+1993,Harvey-Diaz,4,Germany,99.79302326,42911,430,Essen,2007
+1994,Wong Ltd,4,Japan,300.8798883,107715,358,Kawasaki,2019
+1995,astro and Sons,4,China,94.60759494,44844,474,Tianjin,2014
+1996,Zavala and Sons,4,China,158.9392034,75814,477,Shanghai,2004
+1997,"Wilson, Mendoza and rosby",4,USA,595.2012195,97613,164,San Diego,2011
+1998,"Pitts, Warner and Mullins",4,India,56.18478261,25845,460,Bangalore,2014
+1999,Flores LL,4,India,364.60625,58337,160,Bangalore,2022
+2000,"Frazier, Ramirez and Brown",4,USA,914.9285714,64045,70,Los Angeles,2007

@@ -14,84 +14,32 @@ import Typography from '@mui/material/Typography';
 import Paper from '@mui/material/Paper';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
+import TablePagination from '@mui/material/TablePagination';
 
-function createData(
-  id: number,
-  name: string,
-  level: number,
-  country: string,
-  profitableEfficiency: number,
-  annulRevenue: number,
-  employees: number,
-) {
-  return {
-    id,
-    name,
-    level,
-    country,
-    profitableEfficiency,
-    annulRevenue,
-    employees,
-    branch: [
-      // {
-      //   city: 'Shenzhen',
-      //   foundedYear: '2005',
-      //   annualRevenue: '1.5B',
-      //   empolyees: 5000,
-      // },
-      // {
-      //   city: 'Hong Kong',
-      //   foundedYear: '2010',
-      //   annualRevenue: '1.2B',
-      //   empolyees: 4000,
-      // },
-    ],
-  };
+function createBranchData(companyId: number) {
+  // 生成2条dummy分支数据
+  return [
+    {
+      companyId,
+      city: 'Dummy City A',
+      foundedYear: '2000',
+      annualRevenue: Math.floor(Math.random() * 100000 + 10000).toString(),
+      employees: Math.floor(Math.random() * 500 + 50),
+    },
+    {
+      companyId,
+      city: 'Dummy City B',
+      foundedYear: '2010',
+      annualRevenue: Math.floor(Math.random() * 100000 + 10000).toString(),
+      employees: Math.floor(Math.random() * 500 + 50),
+    },
+  ];
 }
 
-function createBranchData(
-  companyId: number,
-  city: string,
-  foundedYear: string,
-  annualRevenue: string,
-  empolyees: number,
-) {
-    return { 
-      companyId, 
-      city, 
-      foundedYear, 
-      annualRevenue, 
-      empolyees, 
-    };
-  }
-
-
-const rows = [
-  createData(1000001, 'Company A', 1, 'CHINA', 0.88, 10, 6000),
-  createData(1000002, 'Company B', 2, 'USA', 0.70, 11, 6000),
-  createData(1000003, 'Company C', 3, 'Australia', 12, 10, 5000),
-  createData(1000004, 'Company D', 4, 'Canada', 0.8, 13, 4000),
-  createData(1000005, 'Company E', 5, 'India', 0.7, 9, 8000),
-];
-
-const branches = [
-  createBranchData(1000001, 'Shenzhen', '2005', '5B', 5000),
-  createBranchData(1000001, 'Hong Kong', '2010', '5B', 4000),
-  createBranchData(1000002, 'New York', '2012', '5B', 6000),
-  createBranchData(1000002, 'Los Angeles', '2015', '6B', 5500),
-  createBranchData(1000003, 'Sydney', '2008', '6B', 4500),
-  createBranchData(1000003, 'Melbourne', '2011', '6B', 4000),
-  createBranchData(1000004, 'Toronto', '2006', '6B', 5000),
-  createBranchData(1000004, 'Vancouver', '2009', '7B', 4800),
-  createBranchData(1000005, 'Mumbai', '2013', '6B', 7000),
-  createBranchData(1000005, 'Bangalore', '2016', '3B', 6000),
-];
-
-
-
-function Row(props: { row: ReturnType<typeof createData>, branch: ReturnType<typeof createBranchData>[] }) {
-  const { row, branch } = props;
+function Row(props: { row: any }) {
+  const { row } = props;
   const [open, setOpen] = React.useState(false);
+  const branches = createBranchData(Number(row.id));
 
   return (
     <React.Fragment>
@@ -105,40 +53,68 @@ function Row(props: { row: ReturnType<typeof createData>, branch: ReturnType<typ
             {open ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
           </IconButton>
         </TableCell>
-        <TableCell component="th" scope="row">
+        <TableCell sx={{ textAlign: 'center' }}>
           {row.name}
         </TableCell>
-        <TableCell align="right">{row.level}</TableCell>
-        <TableCell align="right">{row.country}</TableCell>
-        <TableCell align="right">{row.profitableEfficiency}</TableCell>
-        <TableCell align="right">{row.annulRevenue}</TableCell>
-        <TableCell align="right">{row.employees}</TableCell>
+        <TableCell sx={{ textAlign: 'center' }}>{row.level}</TableCell>
+        <TableCell sx={{ textAlign: 'center' }}>{row.country}</TableCell>
+        <TableCell align="right">
+          <Box
+            sx={{
+              display: 'flex',
+              justifyContent: 'center',
+              alignItems: 'center',
+              height: 36,
+              width: '100%',
+              background: `
+                radial-gradient(ellipse at 30% 50%, ${
+                  Number(row.profitableEffiieny || row.profitableEfficiency) > 200
+                    ? 'rgba(76,175,80,0.4)'
+                    : 'rgba(244,67,54,0.4)'
+                } 60%, transparent 100%),
+                radial-gradient(ellipse at 70% 50%, ${
+                  Number(row.profitableEffiieny || row.profitableEfficiency) > 200
+                    ? 'rgba(139,195,74,0.3)'
+                    : 'rgba(229,57,53,0.3)'
+                } 60%, transparent 100%)
+              `,
+              borderRadius: '18px',
+              minWidth: 80,
+            }}
+          >
+            <Typography align="center" sx={{ width: '100%', fontWeight: 500 }}>
+              {row.profitableEffiieny || row.profitableEfficiency || ''}
+            </Typography>
+          </Box>
+        </TableCell>
+        <TableCell sx={{ textAlign: 'center' }}>{row.annualRevenue}</TableCell>
+        <TableCell sx={{ textAlign: 'center' }}>{row.employees}</TableCell>
+        <TableCell sx={{ textAlign: 'center' }}>{row.city}</TableCell>
+        <TableCell sx={{ textAlign: 'center' }}>{row.founded_year}</TableCell>
       </TableRow>
       <TableRow>
-        <TableCell style={{ paddingBottom: 0, paddingTop: 0 }} colSpan={7}>
+        <TableCell style={{ paddingBottom: 0, paddingTop: 0 }} colSpan={9}>
           <Collapse in={open} timeout="auto" unmountOnExit>
             <Box sx={{ margin: 1 }}>
               <Typography variant="h6" gutterBottom component="div">
                 Branch
               </Typography>
-              <Table size="small" aria-label="purchases">
+              <Table size="small" aria-label="branches">
                 <TableHead>
                   <TableRow>
                     <TableCell>City</TableCell>
                     <TableCell>Founded Year</TableCell>
                     <TableCell align="right">Annual Revenue ($)</TableCell>
-                    <TableCell align="right">Empolyees</TableCell>
+                    <TableCell align="right">Employees</TableCell>
                   </TableRow>
                 </TableHead>
                 <TableBody>
-                  {branch.map((branchRow) => (
-                    <TableRow key={branchRow.city}>
-                      <TableCell component="th" scope="row">
-                        {branchRow.city}
-                      </TableCell>
-                      <TableCell>{branchRow.foundedYear}</TableCell>
-                      <TableCell align="right">{branchRow.annualRevenue}</TableCell>
-                      <TableCell align="right">{branchRow.empolyees}</TableCell>
+                  {branches.map((branch, idx) => (
+                    <TableRow key={idx}>
+                      <TableCell>{branch.city}</TableCell>
+                      <TableCell>{branch.foundedYear}</TableCell>
+                      <TableCell align="right">{branch.annualRevenue}</TableCell>
+                      <TableCell align="right">{branch.employees}</TableCell>
                     </TableRow>
                   ))}
                 </TableBody>
@@ -151,32 +127,63 @@ function Row(props: { row: ReturnType<typeof createData>, branch: ReturnType<typ
   );
 }
 
-
 export default function CompaniesTable() {
+  const [rows, setRows] = React.useState<any[]>([]);
+  const [rowsPerPage, setRowsPerPage] = React.useState(10);
+  const [page, setPage] = React.useState(0);
+
+  React.useEffect(() => {
+    fetch('/api/companies')
+      .then(res => res.json())
+      .then(data => {
+        setRows(data);
+      });
+  }, []);
+
+  const handleChangePage = (event: unknown, newPage: number) => {
+    setPage(newPage);
+  };
+
+  const handleChangeRowsPerPage = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setRowsPerPage(parseInt(event.target.value, 10));
+    setPage(0);
+  };
+
   return (
-    <TableContainer component={Paper}>
-      <Table aria-label="collapsible table">
-        <TableHead>
-          <TableRow>
-            <TableCell />
-            <TableCell>Name</TableCell>
-            <TableCell align="right">Level</TableCell>
-            <TableCell align="right">Country</TableCell>
-            <TableCell align="right">Profitable Efficiency</TableCell>
-            <TableCell align="right">Annual Revenue (Billion $)</TableCell>
-            <TableCell align="right">Employees</TableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {rows.map((row) => (
-            <Row
-              key={row.id}
-              row={row}
-              branch={branches.filter(b => b.companyId === row.id)}
-            />
-          ))}
-        </TableBody>
-      </Table>
-    </TableContainer>
+    <Paper sx={{ width: '100%' }}>
+      <TableContainer>
+        <Table aria-label="collapsible table">
+          <TableHead>
+            <TableRow>
+              <TableCell />
+              <TableCell sx={{ textAlign: 'center' }}>Name</TableCell>
+              <TableCell align="center">Level</TableCell>
+              <TableCell align="center">Country</TableCell>
+              <TableCell align="center">Profitable Efficiency</TableCell>
+              <TableCell align="center">Annual Revenue</TableCell>
+              <TableCell align="center">Employees</TableCell>
+              <TableCell align="center">City</TableCell>
+              <TableCell align="center">Founded Year</TableCell>
+            </TableRow>
+          </TableHead>
+          <TableBody>
+            {rows
+              .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
+              .map((row, idx) => (
+                <Row key={idx + page * rowsPerPage} row={row} />
+              ))}
+          </TableBody>
+        </Table>
+      </TableContainer>
+      <TablePagination
+        rowsPerPageOptions={[10, 25, 50, 100]}
+        component="div"
+        count={rows.length}
+        rowsPerPage={rowsPerPage}
+        page={page}
+        onPageChange={handleChangePage}
+        onRowsPerPageChange={handleChangeRowsPerPage}
+      />
+    </Paper>
   );
 }

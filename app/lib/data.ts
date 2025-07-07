@@ -9,6 +9,11 @@ import {
 } from './definitions';
 import { formatCurrency } from './utils';
 
+import fs from 'fs';
+import path from 'path';
+import Papa from 'papaparse';
+
+
 const sql = postgres(process.env.POSTGRES_URL!, { ssl: 'require' });
 
 export async function fetchRevenue() {
@@ -216,4 +221,15 @@ export async function fetchFilteredCustomers(query: string) {
     console.error('Database Error:', err);
     throw new Error('Failed to fetch customer table.');
   }
+}
+
+
+export async function getCompaniesFromCSV() {
+  const filePath = path.join(process.cwd(), 'app/data/companies.csv');
+  const file = fs.readFileSync(filePath, 'utf8');
+  const { data } = Papa.parse(file, {
+    header: true,
+    skipEmptyLines: true,
+  });
+  return data;
 }
