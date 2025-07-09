@@ -1,36 +1,30 @@
-import {
-  BanknotesIcon,
-  ClockIcon,
-  UserGroupIcon,
-  InboxIcon,
-} from '@heroicons/react/24/outline';
 import { fetchCardData } from '@/app/lib/data';
 import { lusitana } from '@/app/ui/fonts';
+import StoreRoundedIcon from '@mui/icons-material/StoreRounded';
+import MonetizationOnRoundedIcon from '@mui/icons-material/MonetizationOnRounded';
+import PublicRoundedIcon from '@mui/icons-material/PublicRounded';
+import BadgeRoundedIcon from '@mui/icons-material/BadgeRounded';
 
 const iconMap = {
-  collected: BanknotesIcon,
-  customers: UserGroupIcon,
-  pending: ClockIcon,
-  invoices: InboxIcon,
+  company_num: StoreRoundedIcon,
+  total_revenue: MonetizationOnRoundedIcon,
+  covered_countries: PublicRoundedIcon,
+  employee_num: BadgeRoundedIcon,
 };
 
 export default async function CardWrapper() {
   const {
-    numberOfInvoices,
-    numberOfCustomers,
-    totalPaidInvoices,
-    totalPendingInvoices,
+    company_num,
+    total_revenue,
+    covered_countries,
+    employee_num,
   } = await fetchCardData();
   return (
     <>
-      <Card title="Collected" value={totalPaidInvoices} type="collected" />
-      <Card title="Pending" value={totalPendingInvoices} type="pending" />
-      <Card title="Total Invoices" value={numberOfInvoices} type="invoices" />
-      <Card
-        title="Total Customers"
-        value={numberOfCustomers}
-        type="customers"
-      />
+      <Card title="Company Number" value={company_num} type="company_num" />
+      <Card title="Total Revenue" value={total_revenue} type="total_revenue" />
+      <Card title="Covered Countries" value={covered_countries} type="covered_countries" />
+      <Card title="Empolyee Number" value={employee_num} type="employee_num"/>
     </>
   );
 }
@@ -42,7 +36,7 @@ export function Card({
 }: {
   title: string;
   value: number | string;
-  type: 'invoices' | 'customers' | 'pending' | 'collected';
+  type: 'company_num' | 'total_revenue' | 'covered_countries' | 'employee_num';
 }) {
   const Icon = iconMap[type];
 

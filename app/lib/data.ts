@@ -8,10 +8,10 @@ import {
   Revenue,
 } from './definitions';
 import { formatCurrency } from './utils';
-
 import fs from 'fs';
 import path from 'path';
 import Papa from 'papaparse';
+import { parse } from 'csv-parse/sync';
 
 
 const sql = postgres(process.env.POSTGRES_URL!, { ssl: 'require' });
@@ -57,36 +57,38 @@ export async function fetchLatestInvoices() {
 
 export async function fetchCardData() {
   try {
-    // You can probably combine these into a single SQL query
-    // However, we are intentionally splitting them to demonstrate
-    // how to initialize multiple queries in parallel with JS.
-    const invoiceCountPromise = sql`SELECT COUNT(*) FROM invoices`;
-    const customerCountPromise = sql`SELECT COUNT(*) FROM customers`;
-    const invoiceStatusPromise = sql`SELECT
-         SUM(CASE WHEN status = 'paid' THEN amount ELSE 0 END) AS "paid",
-         SUM(CASE WHEN status = 'pending' THEN amount ELSE 0 END) AS "pending"
-         FROM invoices`;
+    const filePath = path.join(process.cwd(), 'app/data/companies.csv');
+    const file = fs.readFileSync(filePath, 'utf8');
+    const { data } = Papa.parse(file, {
+      header: true,
+      skipEmptyLines: true,
+    });
 
-    const data = await Promise.all([
-      invoiceCountPromise,
-      customerCountPromise,
-      invoiceStatusPromise,
-    ]);
+    const companies = data.filter((row: any) => row && row.id !== undefined && row.annualRevenue);
 
-    const numberOfInvoices = Number(data[0][0].count ?? '0');
-    const numberOfCustomers = Number(data[1][0].count ?? '0');
-    const totalPaidInvoices = formatCurrency(data[2][0].paid ?? '0');
-    const totalPendingInvoices = formatCurrency(data[2][0].pending ?? '0');
+    const company_num = companies.length;
+
+    const total_revenue = companies.reduce((sum: number, row: any) => {
+      const revenue = Number(row.annualRevenue);
+      return sum + (isNaN(revenue) ? 0 : revenue);
+    }, 0);
+
+    const covered_countries = Array.from(new Set(companies.map((row: any) => row.country))).length;
+
+    const employee_num = companies.reduce((sum: number, row: any) => {
+      const emp = Number(row.employees);
+      return sum + (isNaN(emp) ? 0 : emp);
+    }, 0);
 
     return {
-      numberOfCustomers,
-      numberOfInvoices,
-      totalPaidInvoices,
-      totalPendingInvoices,
+      company_num,
+      total_revenue,
+      covered_countries,
+      employee_num,
     };
   } catch (error) {
-    console.error('Database Error:', error);
-    throw new Error('Failed to fetch card data.');
+    console.error('CSV Error:', error);
+    throw new Error('Failed to fetch card data from CSV.');
   }
 }
 
@@ -232,4 +234,31 @@ export async function getCompaniesFromCSV() {
     skipEmptyLines: true,
   });
   return data;
+}
+
+
+
+
+export async function getLevelCounts() {
+  const filePath = path.join(process.cwd(), 'app/data/companies.csv');
+  const file = fs.readFileSync(filePath, 'utf8');
+  const { data } = Papa.parse(file, {
+    header: true,
+    skipEmptyLines: true,
+  });
+
+  // 统计每个 level 的数量
+  const counts: Record<string, number> = {};
+  data.forEach((row: any) => {
+    const level = row.level;
+    if (level) {
+      counts[level] = (counts[level] || 0) + 1;
+    }
+  });
+
+  // 转为数组形式 [{ level: '1', count: 123 }, ...]
+  return Object.entries(counts).map(([level, count]) => ({
+    level,
+    count,
+  }));
 }
